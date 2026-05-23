@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { getApiKey, saveApiKey } from '../claude.js'
 
 const C = {
   bg: '#0f1117', card: '#1a1d27', border: '#2a2d3a',
@@ -33,12 +34,14 @@ function Field({ label, value, onChange, suffix = '', type = 'number', hint }) {
 
 export default function SettingsScreen({ config, onSave, onClose, user, onLogout }) {
   const [goals, setGoals] = useState({ ...config.goals })
+  const [apiKey, setApiKey] = useState(getApiKey() || '')
   const [saved, setSaved] = useState(false)
 
   const set = (key) => (val) => setGoals(g => ({ ...g, [key]: val }))
 
   const handleSave = () => {
     onSave({ ...config, goals })
+    if (apiKey.trim()) saveApiKey(apiKey.trim())
     setSaved(true)
     setTimeout(() => setSaved(false), 2000)
   }
@@ -90,6 +93,28 @@ export default function SettingsScreen({ config, onSave, onClose, user, onLogout
             borderRadius: 8, color: C.red, padding: '6px 12px',
             cursor: 'pointer', fontSize: 13, fontWeight: 500,
           }}>Sign out</button>
+        </div>
+
+        {/* API Key */}
+        <div style={{
+          background: C.card, border: `1px solid ${C.border}`, borderRadius: 16,
+          padding: 20, marginTop: 16,
+        }}>
+          <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 4 }}>OpenAI API Key</div>
+          <div style={{ color: C.muted, fontSize: 13, marginBottom: 12 }}>
+            Stored only in your browser. Get it from{' '}
+            <a href="https://platform.openai.com/api-keys" target="_blank" rel="noreferrer"
+              style={{ color: C.accent, textDecoration: 'none' }}>platform.openai.com/api-keys</a>.
+          </div>
+          <input
+            type="password" value={apiKey} onChange={e => setApiKey(e.target.value)}
+            placeholder="sk-xxxxxxxxxxxxxxxxxxxx"
+            style={{
+              width: '100%', background: C.inputBg, border: `1px solid ${C.border}`,
+              borderRadius: 10, color: C.text, padding: '11px 14px', fontSize: 14,
+              outline: 'none', boxSizing: 'border-box',
+            }}
+          />
         </div>
 
         {/* Goals */}

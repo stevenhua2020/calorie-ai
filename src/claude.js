@@ -1,4 +1,4 @@
-const ANTHROPIC_API = 'https://api.anthropic.com/v1/messages'
+const OPENAI_API = 'https://api.openai.com/v1/chat/completions'
 
 const SYSTEM_PROMPT = `You are a precise nutrition analyst. When given a food description or image, respond ONLY with a JSON object (no markdown, no backticks, no explanation) in this exact format:
 {
@@ -23,14 +23,28 @@ const SYSTEM_PROMPT = `You are a precise nutrition analyst. When given a food de
 }
 All macros in grams. Calories as kcal integer. Be realistic with portion estimates. If you cannot identify the food, still return valid JSON with confidence "low".`
 
+export function getApiKey() {
+  return localStorage.getItem('openai_key')
+}
+
+export function saveApiKey(key) {
+  localStorage.setItem('openai_key', key)
+}
+
 export async function analyzeFood({ text, imageBase64, imageType }) {
+  const apiKey = getApiKey()
+  if (!apiKey) throw new Error('No OpenAI API key set — check Settings')
+
   let userContent
 
   if (imageBase64) {
     userContent = [
       {
-        type: 'image',
-        source: { type: 'base64', media_type: imageType || 'image/jpeg', data: imageBase64 },
+        type: 'image_url',
+        image_url: {
+          url: `data:${imageType || 'image/jpeg'};base64,${imageBase64}`,
+          detail: 'high',
+        },
       },
       {
         type: 'text',
@@ -43,27 +57,29 @@ export async function analyzeFood({ text, imageBase64, imageType }) {
     userContent = `Analyze this food and estimate calories and macros: ${text}`
   }
 
-  const res = await fetch(ANTHROPIC_API, {
+  const res = await fetch(OPENAI_API, {
     method: 'POST',
-    headers: { 
+    headers: {
       'Content-Type': 'application/json',
-      'anthropic-dangerous-direct-browser-access': 'true',
+      'Authorization': `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
+      model: 'gpt-4o',
       max_tokens: 1000,
-      system: SYSTEM_PROMPT,
-      messages: [{ role: 'user', content: userContent }],
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'user', content: userContent },
+      ],
     }),
   })
 
   if (!res.ok) {
     const err = await res.json()
-    throw new Error(err.error?.message || `Claude API error ${res.status}`)
+    throw new Error(err.error?.message || `OpenAI API error ${res.status}`)
   }
 
   const data = await res.json()
-  const raw = data.content.map(b => b.text || '').join('')
+  const raw = data.choices[0].message.content
   const clean = raw.replace(/```json|```/g, '').trim()
   return JSON.parse(clean)
 }
