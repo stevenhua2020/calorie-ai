@@ -1,0 +1,20 @@
+{
+  "goals": {
+    "calories": 2000,
+    "protein": 150,
+    "carbs": 200,
+    "fat": 65,
+    "fiber": 30
+  },
+  "app": {
+    "logRetentionDays": 90,
+    "timezone": "Asia/Hong_Kong",
+    "weightUnit": "kg",
+    "theme": "dark"
+  },
+  "github": {
+    "dataRepo": "calorie-ai",
+    "dataBranch": "main",
+    "dataPath": "logs"
+  }
+}
