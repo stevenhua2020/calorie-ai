@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Minced meat with vegetables",
+          "portion": "small portion",
+          "calories": 150,
+          "protein": 10,
+          "carbs": 5,
+          "fat": 10,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 150,
+      "totalProtein": 10,
+      "totalCarbs": 5,
+      "totalFat": 10,
+      "totalFiber": 1,
+      "notes": "Estimate based on visible minced meat and green vegetables.",
+      "label": "📷 Photo analysis",
+      "time": "19:31",
+      "id": 1779528668487
+    },
+    {
+      "foods": [
+        {
           "name": "Hard boiled egg",
           "portion": "50g",
           "calories": 77,
@@ -43,7 +66,7 @@
       "totalFat": 15,
       "totalFiber": 5,
       "notes": "Estimate based on typical preparation of rice noodles and minced meat with beans.",
-      "label": "Ã©ÂÂ¸Ã¨Â±ÂÃ¨Â§ÂÃ¨ÂÂÃ¦Â²Â«Ã§Â±Â³Ã§Â²Â 200gÃ§Â±Â³Ã§Â²Â 100gÃ©ÂÂ¸Ã¨Â±ÂÃ¨Â§ÂÃ¨ÂÂÃ¦Â²Â«",
+      "label": "ÃÂ©ÃÂÃÂ¸ÃÂ¨ÃÂ±ÃÂÃÂ¨ÃÂ§ÃÂÃÂ¨ÃÂÃÂÃÂ¦ÃÂ²ÃÂ«ÃÂ§ÃÂ±ÃÂ³ÃÂ§ÃÂ²ÃÂ 200gÃÂ§ÃÂ±ÃÂ³ÃÂ§ÃÂ²ÃÂ 100gÃÂ©ÃÂÃÂ¸ÃÂ¨ÃÂ±ÃÂÃÂ¨ÃÂ§ÃÂÃÂ¨ÃÂÃÂÃÂ¦ÃÂ²ÃÂ«",
       "time": "19:21",
       "id": 1779528107734
     },
@@ -101,10 +124,10 @@
       "id": 1779528064223
     }
   ],
-  "totalCalories": 1314,
-  "totalProtein": 66,
-  "totalCarbs": 187,
-  "totalFat": 36,
-  "totalFiber": 11,
-  "savedAt": "2026-05-23T09:25:49.363Z"
+  "totalCalories": 1464,
+  "totalProtein": 76,
+  "totalCarbs": 192,
+  "totalFat": 46,
+  "totalFiber": 12,
+  "savedAt": "2026-05-23T09:31:08.487Z"
 }
