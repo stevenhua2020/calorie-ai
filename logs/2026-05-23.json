@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Rice noodles with minced meat and sour beans",
+          "portion": "200g rice noodles, 100g minced meat with sour beans",
+          "calories": 680,
+          "protein": 30,
+          "carbs": 115,
+          "fat": 15,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 680,
+      "totalProtein": 30,
+      "totalCarbs": 115,
+      "totalFat": 15,
+      "totalFiber": 5,
+      "notes": "Estimate based on typical preparation of rice noodles and minced meat with beans.",
+      "label": "酸豆角肉沫米粉 200g米粉 100g酸豆角肉沫",
+      "time": "19:21",
+      "id": 1779528107734
+    },
+    {
+      "foods": [
+        {
           "name": "Wheat bread",
           "portion": "80g",
           "calories": 207,
@@ -55,10 +78,10 @@
       "id": 1779528064223
     }
   ],
-  "totalCalories": 557,
-  "totalProtein": 30,
-  "totalCarbs": 71,
-  "totalFat": 16,
-  "totalFiber": 6,
-  "savedAt": "2026-05-23T09:21:04.224Z"
+  "totalCalories": 1237,
+  "totalProtein": 60,
+  "totalCarbs": 186,
+  "totalFat": 31,
+  "totalFiber": 11,
+  "savedAt": "2026-05-23T09:21:47.734Z"
 }
