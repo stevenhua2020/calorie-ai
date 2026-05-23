@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Stir-fried minced meat with vegetables",
+          "portion": "small portion",
+          "calories": 150,
+          "protein": 10,
+          "carbs": 8,
+          "fat": 9,
+          "fiber": 2,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 150,
+      "totalProtein": 10,
+      "totalCarbs": 8,
+      "totalFat": 9,
+      "totalFiber": 2,
+      "notes": "Estimate based on visible small amount of minced meat and vegetables.",
+      "label": "📷 Photo analysis",
+      "time": "19:00",
+      "id": 1779526801309
+    },
+    {
+      "foods": [
+        {
           "name": "Fried Egg",
           "portion": "50g",
           "calories": 90,
@@ -71,10 +94,10 @@
       "id": 1779526322347
     }
   ],
-  "totalCalories": 252,
-  "totalProtein": 19,
-  "totalCarbs": 3,
-  "totalFat": 18,
-  "totalFiber": 0,
-  "savedAt": "2026-05-23T08:59:13.712Z"
+  "totalCalories": 402,
+  "totalProtein": 29,
+  "totalCarbs": 11,
+  "totalFat": 27,
+  "totalFiber": 2,
+  "savedAt": "2026-05-23T09:00:01.310Z"
 }
