@@ -1,10 +1,64 @@
 {
   "date": "2026-05-23",
-  "entries": [],
-  "totalCalories": 0,
-  "totalProtein": 0,
-  "totalCarbs": 0,
-  "totalFat": 0,
-  "totalFiber": 0,
-  "savedAt": "2026-05-23T09:19:47.310Z"
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Wheat bread",
+          "portion": "80g",
+          "calories": 207,
+          "protein": 6,
+          "carbs": 38,
+          "fat": 2,
+          "fiber": 4,
+          "confidence": "high"
+        },
+        {
+          "name": "Fried eggs",
+          "portion": "100g",
+          "calories": 150,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Skim milk",
+          "portion": "200ml",
+          "calories": 70,
+          "protein": 7,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Yoghurt with strawberry and green grapes",
+          "portion": "total 130g",
+          "calories": 130,
+          "protein": 4,
+          "carbs": 22,
+          "fat": 3,
+          "fiber": 2,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 557,
+      "totalProtein": 30,
+      "totalCarbs": 71,
+      "totalFat": 16,
+      "totalFiber": 6,
+      "notes": "Estimates based on typical compositions of these foods; fruit in yoghurt bowl affects confidence.",
+      "label": "80g wheat bread with 100g fried eggs, and 200ml sk",
+      "time": "19:21",
+      "id": 1779528064223
+    }
+  ],
+  "totalCalories": 557,
+  "totalProtein": 30,
+  "totalCarbs": 71,
+  "totalFat": 16,
+  "totalFiber": 6,
+  "savedAt": "2026-05-23T09:21:04.224Z"
 }
