@@ -23,35 +23,12 @@
       "label": "ð· Photo analysis",
       "time": "19:00",
       "id": 1779526801309
-    },
-    {
-      "foods": [
-        {
-          "name": "Hard boiled egg",
-          "portion": "50 g",
-          "calories": 68,
-          "protein": 6,
-          "carbs": 1,
-          "fat": 5,
-          "fiber": 0,
-          "confidence": "high"
-        }
-      ],
-      "totalCalories": 68,
-      "totalProtein": 6,
-      "totalCarbs": 1,
-      "totalFat": 5,
-      "totalFiber": 0,
-      "notes": "Standard macros for a large hard boiled egg",
-      "label": "a hard boiled 50 g egg\n",
-      "time": "18:52",
-      "id": 1779526322347
     }
   ],
-  "totalCalories": 218,
-  "totalProtein": 16,
-  "totalCarbs": 9,
-  "totalFat": 14,
+  "totalCalories": 150,
+  "totalProtein": 10,
+  "totalCarbs": 8,
+  "totalFat": 9,
   "totalFiber": 2,
-  "savedAt": "2026-05-23T09:19:38.969Z"
+  "savedAt": "2026-05-23T09:19:40.134Z"
 }
