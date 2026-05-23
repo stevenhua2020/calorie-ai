@@ -1,6 +1,3 @@
-// GitHub OAuth via personal access token (PAT)
-// Users store their PAT securely in localStorage (encrypted with their PIN)
-
 const GH_API = 'https://api.github.com'
 
 export function saveToken(token) {
@@ -36,8 +33,17 @@ export async function getRepoFile(token, owner, repo, path) {
   return { content: JSON.parse(content), sha: data.sha }
 }
 
-// Create or update file in repo
-export async function putRepoFile(token, owner, repo, path, content, sha = null, message = 'Update log') {
+// Create or update file — always fetches latest SHA first to avoid 409 conflicts
+export async function putRepoFile(token, owner, repo, path, content, _sha = null, message = 'Update log') {
+  // Always fetch the latest SHA from GitHub before writing
+  let sha = null
+  try {
+    const existing = await getRepoFile(token, owner, repo, path)
+    if (existing) sha = existing.sha
+  } catch (e) {
+    // File doesn't exist yet, sha stays null
+  }
+
   const body = {
     message,
     content: btoa(unescape(encodeURIComponent(JSON.stringify(content, null, 2)))),
@@ -73,14 +79,13 @@ export async function listRepoDir(token, owner, repo, path) {
 
 // Date helpers
 export function todayKey() {
-  return new Date().toISOString().slice(0, 10) // YYYY-MM-DD
+  return new Date().toISOString().slice(0, 10)
 }
 
 export function logPath(dateKey, dataPath) {
   return `${dataPath}/${dateKey}.json`
 }
 
-// Prune logs older than retentionDays
 export function pruneOldLogs(logs, retentionDays = 90) {
   const cutoff = new Date()
   cutoff.setDate(cutoff.getDate() - retentionDays)

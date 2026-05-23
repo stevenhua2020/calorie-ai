@@ -221,7 +221,6 @@ export default function App() {
 
   // Today's log state
   const [todayEntries, setTodayEntries] = useState([])
-  const [logSha, setLogSha] = useState(null)
   const [logLoading, setLogLoading] = useState(false)
   const [logSaving, setLogSaving] = useState(false)
 
@@ -253,7 +252,6 @@ export default function App() {
       .then(result => {
         if (result) {
           setTodayEntries(result.content.entries || [])
-          setLogSha(result.sha)
         }
       })
       .catch(console.error)
@@ -275,8 +273,7 @@ export default function App() {
       savedAt: new Date().toISOString(),
     }
     try {
-      const result = await putRepoFile(token, user.login, repo, path, content, logSha, `Log ${todayKey()}`)
-      setLogSha(result.content.sha)
+      await putRepoFile(token, user.login, repo, path, content, null, `Log ${todayKey()}`)
     } catch (e) {
       console.error('Save failed:', e)
     } finally {
