@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Lanzhou Ramen (per 100g)",
+          "portion": "100g",
+          "calories": 393,
+          "protein": 8.5,
+          "carbs": 69,
+          "fat": 8.8,
+          "fiber": 3,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 393,
+      "totalProtein": 8.5,
+      "totalCarbs": 69,
+      "totalFat": 8.8,
+      "totalFiber": 3,
+      "notes": "Values are based on per 100g serving size as specified.",
+      "label": "📷 Photo analysis",
+      "time": "19:25",
+      "id": 1779528330876
+    },
+    {
+      "foods": [
+        {
           "name": "Hard boiled egg",
           "portion": "50g",
           "calories": 77,
@@ -101,10 +124,10 @@
       "id": 1779528064223
     }
   ],
-  "totalCalories": 1314,
-  "totalProtein": 66,
-  "totalCarbs": 187,
-  "totalFat": 36,
-  "totalFiber": 11,
-  "savedAt": "2026-05-23T09:24:59.530Z"
+  "totalCalories": 1707,
+  "totalProtein": 74.5,
+  "totalCarbs": 256,
+  "totalFat": 44.8,
+  "totalFiber": 14,
+  "savedAt": "2026-05-23T09:25:30.877Z"
 }
