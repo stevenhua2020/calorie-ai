@@ -1,34 +1,10 @@
 {
   "date": "2026-05-23",
-  "entries": [
-    {
-      "foods": [
-        {
-          "name": "Stir-fried minced meat with vegetables",
-          "portion": "small portion",
-          "calories": 150,
-          "protein": 10,
-          "carbs": 8,
-          "fat": 9,
-          "fiber": 2,
-          "confidence": "medium"
-        }
-      ],
-      "totalCalories": 150,
-      "totalProtein": 10,
-      "totalCarbs": 8,
-      "totalFat": 9,
-      "totalFiber": 2,
-      "notes": "Estimate based on visible small amount of minced meat and vegetables.",
-      "label": "ð· Photo analysis",
-      "time": "19:00",
-      "id": 1779526801309
-    }
-  ],
-  "totalCalories": 150,
-  "totalProtein": 10,
-  "totalCarbs": 8,
-  "totalFat": 9,
-  "totalFiber": 2,
-  "savedAt": "2026-05-23T09:19:40.134Z"
+  "entries": [],
+  "totalCalories": 0,
+  "totalProtein": 0,
+  "totalCarbs": 0,
+  "totalFat": 0,
+  "totalFiber": 0,
+  "savedAt": "2026-05-23T09:19:47.310Z"
 }
