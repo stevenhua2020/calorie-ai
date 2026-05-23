@@ -4,29 +4,6 @@
     {
       "foods": [
         {
-          "name": "HSU FU CHI Fluffy Egg Flavor Pastry (Sachima)",
-          "portion": "33g",
-          "calories": 168,
-          "protein": 2.6,
-          "carbs": 18.1,
-          "fat": 9.5,
-          "fiber": 0,
-          "confidence": "high"
-        }
-      ],
-      "totalCalories": 168,
-      "totalProtein": 2.6,
-      "totalCarbs": 18.1,
-      "totalFat": 9.5,
-      "totalFiber": 0,
-      "notes": "Values based on provided nutrition information per 33g serving.",
-      "label": "📷 Photo analysis",
-      "time": "19:24",
-      "id": 1779528240862
-    },
-    {
-      "foods": [
-        {
           "name": "Hard boiled egg",
           "portion": "50g",
           "calories": 77,
@@ -66,7 +43,7 @@
       "totalFat": 15,
       "totalFiber": 5,
       "notes": "Estimate based on typical preparation of rice noodles and minced meat with beans.",
-      "label": "é¸è±è§èæ²«ç±³ç² 200gç±³ç² 100gé¸è±è§èæ²«",
+      "label": "Ã©ÂÂ¸Ã¨Â±ÂÃ¨Â§ÂÃ¨ÂÂÃ¦Â²Â«Ã§Â±Â³Ã§Â²Â 200gÃ§Â±Â³Ã§Â²Â 100gÃ©ÂÂ¸Ã¨Â±ÂÃ¨Â§ÂÃ¨ÂÂÃ¦Â²Â«",
       "time": "19:21",
       "id": 1779528107734
     },
@@ -124,10 +101,10 @@
       "id": 1779528064223
     }
   ],
-  "totalCalories": 1482,
-  "totalProtein": 68.6,
-  "totalCarbs": 205.1,
-  "totalFat": 45.5,
+  "totalCalories": 1314,
+  "totalProtein": 66,
+  "totalCarbs": 187,
+  "totalFat": 36,
   "totalFiber": 11,
-  "savedAt": "2026-05-23T09:24:00.864Z"
+  "savedAt": "2026-05-23T09:24:59.530Z"
 }
