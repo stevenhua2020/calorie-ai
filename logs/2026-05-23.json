@@ -5,20 +5,20 @@
       "foods": [
         {
           "name": "Stir-fried greens with black bean sauce",
-          "portion": "1 cup",
-          "calories": 150,
-          "protein": 5,
-          "carbs": 15,
-          "fat": 8,
-          "fiber": 4,
+          "portion": "1 cup ×⅓",
+          "calories": 50,
+          "protein": 1.7,
+          "carbs": 5,
+          "fat": 2.7,
+          "fiber": 1.3,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 150,
-      "totalProtein": 5,
-      "totalCarbs": 15,
-      "totalFat": 8,
-      "totalFiber": 4,
+      "totalCalories": 50,
+      "totalProtein": 1.7,
+      "totalCarbs": 5,
+      "totalFat": 2.7,
+      "totalFiber": 1.3,
       "notes": "Estimate based on typical stir-fried greens with black bean sauce.",
       "label": "📷 Photo analysis",
       "time": "22:12",
@@ -170,10 +170,10 @@
       "id": 1779528064223
     }
   ],
-  "totalCalories": 1830,
-  "totalProtein": 87,
-  "totalCarbs": 260,
-  "totalFat": 52,
-  "totalFiber": 18,
-  "savedAt": "2026-05-23T12:12:22.901Z"
+  "totalCalories": 1730,
+  "totalProtein": 83.7,
+  "totalCarbs": 250,
+  "totalFat": 46.7,
+  "totalFiber": 15.3,
+  "savedAt": "2026-05-23T12:12:30.221Z"
 }
