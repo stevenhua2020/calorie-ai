@@ -242,12 +242,19 @@ export default function App() {
 
   const [configLoaded, setConfigLoaded] = useState(false)
 
-  // Load config first, then trigger log load
+  // Load config — localStorage takes priority over config.json
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + 'config.json')
-      .then(r => r.json())
-      .then(c => { setConfig(c); setConfigLoaded(true) })
-      .catch(() => setConfigLoaded(true))
+    const saved = localStorage.getItem('user_config')
+    if (saved) {
+      // User has saved settings — just mark config loaded, keep localStorage values
+      setConfigLoaded(true)
+    } else {
+      // No saved settings yet — load defaults from config.json
+      fetch(import.meta.env.BASE_URL + 'config.json')
+        .then(r => r.json())
+        .then(c => { setConfig(c); setConfigLoaded(true) })
+        .catch(() => setConfigLoaded(true))
+    }
   }, [])
 
   // Load today's log from GitHub — waits for config to be ready
