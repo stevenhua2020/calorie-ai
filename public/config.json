@@ -1,9 +1,9 @@
 {
   "goals": {
-    "calories": 2000,
-    "protein": 150,
+    "calories": 1700,
+    "protein": 100,
     "carbs": 200,
-    "fat": 65,
+    "fat": 60,
     "fiber": 30
   },
   "app": {
