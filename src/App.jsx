@@ -215,7 +215,12 @@ export default function App() {
   const [user, setUser] = useState(() => {
     try { return JSON.parse(localStorage.getItem('gh_user')) } catch { return null }
   })
-  const [config, setConfig] = useState(DEFAULT_CONFIG)
+  const [config, setConfig] = useState(() => {
+    try {
+      const saved = localStorage.getItem('user_config')
+      return saved ? JSON.parse(saved) : DEFAULT_CONFIG
+    } catch { return DEFAULT_CONFIG }
+  })
   const [screen, setScreen] = useState('main') // main | settings | history
   const [tab, setTab] = useState('note') // note | photo
 

@@ -8,7 +8,7 @@ const C = {
   green: '#22c55e', red: '#ef4444',
 }
 
-function Field({ label, value, onChange, suffix = '', type = 'number', hint }) {
+function Field({ label, value, onChange, suffix = '', hint }) {
   return (
     <div style={{ marginBottom: 16 }}>
       <label style={{ color: C.muted, fontSize: 12, display: 'block', marginBottom: 6, letterSpacing: '0.05em' }}>
@@ -16,13 +16,13 @@ function Field({ label, value, onChange, suffix = '', type = 'number', hint }) {
       </label>
       <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
         <input
-          type={type}
+          type="number"
           value={value}
-          onChange={e => onChange(type === 'number' ? Number(e.target.value) : e.target.value)}
+          onChange={e => onChange(Number(e.target.value))}
           style={{
             flex: 1, background: C.input, border: `1px solid ${C.border}`,
             borderRadius: 10, color: C.text, padding: '11px 14px', fontSize: 15,
-            outline: 'none', fontFamily: 'Space Mono',
+            outline: 'none', fontFamily: 'Space Mono', boxSizing: 'border-box',
           }}
         />
         {suffix && <span style={{ color: C.muted, fontSize: 13, minWidth: 30 }}>{suffix}</span>}
@@ -40,10 +40,13 @@ export default function SettingsScreen({ config, onSave, onClose, user, onLogout
   const set = (key) => (val) => setGoals(g => ({ ...g, [key]: val }))
 
   const handleSave = () => {
-    onSave({ ...config, goals })
+    // Save goals to localStorage so they persist across refreshes
+    const updatedConfig = { ...config, goals }
+    localStorage.setItem('user_config', JSON.stringify(updatedConfig))
+    onSave(updatedConfig)
     if (apiKey.trim()) saveApiKey(apiKey.trim())
     setSaved(true)
-    setTimeout(() => setSaved(false), 2000)
+    setTimeout(() => { setSaved(false); onClose() }, 1200)
   }
 
   return (
@@ -74,14 +77,14 @@ export default function SettingsScreen({ config, onSave, onClose, user, onLogout
             padding: '8px 16px', cursor: 'pointer', fontWeight: 600, fontSize: 13,
             transition: 'all 0.3s',
           }}>
-            {saved ? '✓ Saved' : 'Save'}
+            {saved ? '✓ Saved!' : 'Save'}
           </button>
         </div>
 
         {/* User info */}
         <div style={{
           background: C.card, border: `1px solid ${C.border}`, borderRadius: 16,
-          padding: 16, marginBottom: 20, display: 'flex', alignItems: 'center', gap: 12,
+          padding: 16, marginBottom: 16, display: 'flex', alignItems: 'center', gap: 12,
         }}>
           <img src={user.avatar} alt={user.login} style={{ width: 44, height: 44, borderRadius: '50%' }} />
           <div style={{ flex: 1 }}>
@@ -95,10 +98,27 @@ export default function SettingsScreen({ config, onSave, onClose, user, onLogout
           }}>Sign out</button>
         </div>
 
+        {/* Goals */}
+        <div style={{
+          background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: 20, marginBottom: 16,
+        }}>
+          <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 4 }}>Daily Goals</div>
+          <div style={{ color: C.muted, fontSize: 13, marginBottom: 20 }}>
+            Tap a number to edit, then tap <strong style={{ color: C.accent }}>Save</strong> at the top.
+          </div>
+          <Field label="CALORIES" value={goals.calories} onChange={set('calories')} suffix="kcal" />
+          <Field label="PROTEIN" value={goals.protein} onChange={set('protein')} suffix="g"
+            hint="~0.8–2g per kg body weight" />
+          <Field label="CARBOHYDRATES" value={goals.carbs} onChange={set('carbs')} suffix="g" />
+          <Field label="FAT" value={goals.fat} onChange={set('fat')} suffix="g" />
+          <Field label="FIBER" value={goals.fiber} onChange={set('fiber')} suffix="g"
+            hint="Recommended: 25–38g/day" />
+        </div>
+
         {/* API Key */}
         <div style={{
           background: C.card, border: `1px solid ${C.border}`, borderRadius: 16,
-          padding: 20, marginTop: 16,
+          padding: 20, marginBottom: 16,
         }}>
           <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 4 }}>OpenAI API Key</div>
           <div style={{ color: C.muted, fontSize: 13, marginBottom: 12 }}>
@@ -110,44 +130,24 @@ export default function SettingsScreen({ config, onSave, onClose, user, onLogout
             type="password" value={apiKey} onChange={e => setApiKey(e.target.value)}
             placeholder="sk-xxxxxxxxxxxxxxxxxxxx"
             style={{
-              width: '100%', background: C.inputBg, border: `1px solid ${C.border}`,
+              width: '100%', background: C.input, border: `1px solid ${C.border}`,
               borderRadius: 10, color: C.text, padding: '11px 14px', fontSize: 14,
               outline: 'none', boxSizing: 'border-box',
             }}
           />
         </div>
 
-        {/* Goals */}
+        {/* Data info */}
         <div style={{
           background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: 20,
         }}>
-          <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 4 }}>Daily Goals</div>
-          <div style={{ color: C.muted, fontSize: 13, marginBottom: 20 }}>
-            Customize your nutrition targets. These affect the progress bars on the main screen.
-          </div>
-
-          <Field label="CALORIES" value={goals.calories} onChange={set('calories')} suffix="kcal" />
-          <Field label="PROTEIN" value={goals.protein} onChange={set('protein')} suffix="g"
-            hint="~0.8–2g per kg body weight" />
-          <Field label="CARBOHYDRATES" value={goals.carbs} onChange={set('carbs')} suffix="g" />
-          <Field label="FAT" value={goals.fat} onChange={set('fat')} suffix="g" />
-          <Field label="FIBER" value={goals.fiber} onChange={set('fiber')} suffix="g"
-            hint="Recommended: 25–38g/day" />
-        </div>
-
-        {/* Data info */}
-        <div style={{
-          background: C.card, border: `1px solid ${C.border}`, borderRadius: 16,
-          padding: 20, marginTop: 16,
-        }}>
           <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 4 }}>Data Storage</div>
           <div style={{ color: C.muted, fontSize: 13, lineHeight: 1.7 }}>
-            Logs are saved to your GitHub repo as:<br />
+            Logs saved to your GitHub repo as:<br />
             <span style={{ fontFamily: 'monospace', color: C.text, fontSize: 12 }}>
-              data/logs/YYYY-MM-DD.json
+              logs/YYYY-MM-DD.json
             </span><br /><br />
             Logs older than <strong style={{ color: C.text }}>90 days</strong> are automatically pruned.
-            You can view and download your raw data directly from GitHub.
           </div>
         </div>
       </div>
