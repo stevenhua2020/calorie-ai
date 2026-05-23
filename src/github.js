@@ -77,9 +77,13 @@ export async function listRepoDir(token, owner, repo, path) {
   return Array.isArray(data) ? data : []
 }
 
-// Date helpers
+// Date helpers — use local date, not UTC
 export function todayKey() {
-  return new Date().toISOString().slice(0, 10)
+  const d = new Date()
+  const yyyy = d.getFullYear()
+  const mm = String(d.getMonth() + 1).padStart(2, '0')
+  const dd = String(d.getDate()).padStart(2, '0')
+  return `${yyyy}-${mm}-${dd}`
 }
 
 export function logPath(dateKey, dataPath) {
