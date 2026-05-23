@@ -45,7 +45,10 @@ export async function analyzeFood({ text, imageBase64, imageType }) {
 
   const res = await fetch(ANTHROPIC_API, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 
+      'Content-Type': 'application/json',
+      'anthropic-dangerous-direct-browser-access': 'true',
+    },
     body: JSON.stringify({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 1000,
