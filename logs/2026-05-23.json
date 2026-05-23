@@ -4,32 +4,9 @@
     {
       "foods": [
         {
-          "name": "Minced meat and vegetables",
-          "portion": "small portion",
-          "calories": 180,
-          "protein": 12,
-          "carbs": 10,
-          "fat": 10,
-          "fiber": 2,
-          "confidence": "medium"
-        }
-      ],
-      "totalCalories": 180,
-      "totalProtein": 12,
-      "totalCarbs": 10,
-      "totalFat": 10,
-      "totalFiber": 2,
-      "notes": "The portion is small and partially eaten.",
-      "label": "📷 Photo analysis",
-      "time": "18:43",
-      "id": 1779525790052
-    },
-    {
-      "foods": [
-        {
-          "name": "Hard Boiled Egg",
-          "portion": "1 large egg",
-          "calories": 78,
+          "name": "Hard boiled egg",
+          "portion": "50 g",
+          "calories": 68,
           "protein": 6,
           "carbs": 1,
           "fat": 5,
@@ -37,21 +14,21 @@
           "confidence": "high"
         }
       ],
-      "totalCalories": 78,
+      "totalCalories": 68,
       "totalProtein": 6,
       "totalCarbs": 1,
       "totalFat": 5,
       "totalFiber": 0,
-      "notes": "A large hard boiled egg is well-documented for these nutritional values.",
-      "label": "a hard boiled egg",
-      "time": "18:39",
-      "id": 1779525544254
+      "notes": "Standard macros for a large hard boiled egg",
+      "label": "a hard boiled 50 g egg\n",
+      "time": "18:52",
+      "id": 1779526322347
     }
   ],
-  "totalCalories": 258,
-  "totalProtein": 18,
-  "totalCarbs": 11,
-  "totalFat": 15,
-  "totalFiber": 2,
-  "savedAt": "2026-05-23T08:43:10.053Z"
+  "totalCalories": 68,
+  "totalProtein": 6,
+  "totalCarbs": 1,
+  "totalFat": 5,
+  "totalFiber": 0,
+  "savedAt": "2026-05-23T08:52:02.348Z"
 }
