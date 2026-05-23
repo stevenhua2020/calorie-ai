@@ -15,7 +15,7 @@ const C = {
 const DEFAULT_CONFIG = {
   goals: { calories: 2000, protein: 150, carbs: 200, fat: 65, fiber: 30 },
   app: { logRetentionDays: 90 },
-  github: { dataPath: 'data/logs' },
+  github: { dataPath: 'logs' },
 }
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
@@ -235,19 +235,21 @@ export default function App() {
   const token = localStorage.getItem('gh_token')
   const repo = localStorage.getItem('gh_repo') || 'calorie-ai'
 
-  // Load config from public/config.json
+  const [configLoaded, setConfigLoaded] = useState(false)
+
+  // Load config first, then trigger log load
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + 'config.json')
       .then(r => r.json())
-      .then(c => setConfig(c))
-      .catch(() => {})
+      .then(c => { setConfig(c); setConfigLoaded(true) })
+      .catch(() => setConfigLoaded(true))
   }, [])
 
-  // Load today's log from GitHub
+  // Load today's log from GitHub — waits for config to be ready
   useEffect(() => {
-    if (!user || !token) return
+    if (!user || !token || !configLoaded) return
     setLogLoading(true)
-    const path = logPath(todayKey(), config.github?.dataPath || 'data/logs')
+    const path = logPath(todayKey(), config.github?.dataPath || 'logs')
     getRepoFile(token, user.login, repo, path)
       .then(result => {
         if (result) {
@@ -256,12 +258,12 @@ export default function App() {
       })
       .catch(console.error)
       .finally(() => setLogLoading(false))
-  }, [user, token, repo])
+  }, [user, token, repo, configLoaded])
 
   const saveLog = async (entries) => {
     if (!user || !token) return
     setLogSaving(true)
-    const path = logPath(todayKey(), config.github?.dataPath || 'data/logs')
+    const path = logPath(todayKey(), config.github?.dataPath || 'logs')
     const totalCalories = entries.reduce((s, e) => s + e.totalCalories, 0)
     const totalProtein = entries.reduce((s, e) => s + e.totalProtein, 0)
     const totalCarbs = entries.reduce((s, e) => s + e.totalCarbs, 0)
@@ -350,7 +352,7 @@ export default function App() {
   if (screen === 'history') return (
     <HistoryScreen
       token={token} owner={user.login} repo={repo}
-      dataPath={config.github?.dataPath || 'data/logs'}
+      dataPath={config.github?.dataPath || 'logs'}
       onClose={() => setScreen('main')}
     />
   )

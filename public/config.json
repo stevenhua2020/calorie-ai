@@ -8,13 +8,9 @@
   },
   "app": {
     "logRetentionDays": 90,
-    "timezone": "Asia/Hong_Kong",
-    "weightUnit": "kg",
     "theme": "dark"
   },
   "github": {
-    "dataRepo": "calorie-ai",
-    "dataBranch": "main",
     "dataPath": "logs"
   }
 }
