@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-23",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard Boiled Egg",
+          "portion": "1 large egg",
+          "calories": 78,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 78,
+      "totalProtein": 6,
+      "totalCarbs": 1,
+      "totalFat": 5,
+      "totalFiber": 0,
+      "notes": "A large hard boiled egg is well-documented for these nutritional values.",
+      "label": "a hard boiled egg",
+      "time": "18:39",
+      "id": 1779525544254
+    }
+  ],
+  "totalCalories": 78,
+  "totalProtein": 6,
+  "totalCarbs": 1,
+  "totalFat": 5,
+  "totalFiber": 0,
+  "savedAt": "2026-05-23T08:39:04.254Z"
+}
