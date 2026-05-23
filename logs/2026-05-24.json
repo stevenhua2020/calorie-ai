@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-24",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard Boiled Egg",
+          "portion": "50g",
+          "calories": 68,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 68,
+      "totalProtein": 6,
+      "totalCarbs": 1,
+      "totalFat": 5,
+      "totalFiber": 0,
+      "notes": "Single hard boiled egg, typical portion size and nutritional values.",
+      "label": "A hard boiled egg 50g ",
+      "time": "00:18",
+      "id": 1779545918728
+    }
+  ],
+  "totalCalories": 68,
+  "totalProtein": 6,
+  "totalCarbs": 1,
+  "totalFat": 5,
+  "totalFiber": 0,
+  "savedAt": "2026-05-23T14:18:38.729Z"
+}
