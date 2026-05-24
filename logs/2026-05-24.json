@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Rice drink",
+          "portion": "100 ml",
+          "calories": 106,
+          "protein": 2,
+          "carbs": 24,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 106,
+      "totalProtein": 2,
+      "totalCarbs": 24,
+      "totalFat": 0,
+      "totalFiber": 0,
+      "notes": "Nutritional information taken from label.",
+      "label": "📷 Photo analysis",
+      "time": "19:21",
+      "id": 1779614484399
+    },
+    {
+      "foods": [
+        {
           "name": "Bubble Tea",
           "portion": "medium glass",
           "calories": 300,
@@ -20,7 +43,7 @@
       "totalFat": 5,
       "totalFiber": 1,
       "notes": "Estimated as a standard bubble tea with milk and tapioca pearls.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:14",
       "id": 1779606869226
     },
@@ -43,7 +66,7 @@
       "totalFat": 6,
       "totalFiber": 0,
       "notes": "Estimated based on typical latte ingredients.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "15:03",
       "id": 1779598988343
     },
@@ -66,15 +89,15 @@
       "totalFat": 35,
       "totalFiber": 8,
       "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "13:17",
       "id": 1779592650227
     }
   ],
-  "totalCalories": 1270,
-  "totalProtein": 49,
-  "totalCarbs": 165,
+  "totalCalories": 1376,
+  "totalProtein": 51,
+  "totalCarbs": 189,
   "totalFat": 46,
   "totalFiber": 9,
-  "savedAt": "2026-05-24T07:14:29.227Z"
+  "savedAt": "2026-05-24T09:21:24.400Z"
 }
