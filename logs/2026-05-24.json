@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "Fried breaded fish",
+          "portion": "medium fillet",
+          "calories": 250,
+          "protein": 22,
+          "carbs": 10,
+          "fat": 13,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "White rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Scrambled eggs with zucchini",
+          "portion": "1 cup",
+          "calories": 180,
+          "protein": 12,
+          "carbs": 6,
+          "fat": 12,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Stir-fried bok choy",
+          "portion": "1/2 cup",
+          "calories": 20,
+          "protein": 2,
+          "carbs": 3,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 650,
+      "totalProtein": 40,
+      "totalCarbs": 64,
+      "totalFat": 25,
+      "totalFiber": 4,
+      "notes": "Estimates are based on typical portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "21:09",
+      "id": 1779620984826
+    },
+    {
+      "foods": [
+        {
           "name": "Rice drink",
           "portion": "100 ml",
           "calories": 106,
@@ -20,7 +73,7 @@
       "totalFat": 0,
       "totalFiber": 0,
       "notes": "Nutritional information taken from label.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "19:21",
       "id": 1779614484399
     },
@@ -43,7 +96,7 @@
       "totalFat": 5,
       "totalFiber": 1,
       "notes": "Estimated as a standard bubble tea with milk and tapioca pearls.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "17:14",
       "id": 1779606869226
     },
@@ -66,7 +119,7 @@
       "totalFat": 6,
       "totalFiber": 0,
       "notes": "Estimated based on typical latte ingredients.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "15:03",
       "id": 1779598988343
     },
@@ -89,15 +142,15 @@
       "totalFat": 35,
       "totalFiber": 8,
       "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
-      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "13:17",
       "id": 1779592650227
     }
   ],
-  "totalCalories": 1376,
-  "totalProtein": 51,
-  "totalCarbs": 189,
-  "totalFat": 46,
-  "totalFiber": 9,
-  "savedAt": "2026-05-24T09:21:24.400Z"
+  "totalCalories": 2026,
+  "totalProtein": 91,
+  "totalCarbs": 253,
+  "totalFat": 71,
+  "totalFiber": 13,
+  "savedAt": "2026-05-24T11:09:44.827Z"
 }
