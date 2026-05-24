@@ -1,10 +1,34 @@
 {
   "date": "2026-05-24",
-  "entries": [],
-  "totalCalories": 0,
-  "totalProtein": 0,
-  "totalCarbs": 0,
-  "totalFat": 0,
-  "totalFiber": 0,
-  "savedAt": "2026-05-23T14:19:38.526Z"
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hot Pot with Beef, Tofu, Bok Choy, and Noodles",
+          "portion": "large bowl",
+          "calories": 850,
+          "protein": 40,
+          "carbs": 95,
+          "fat": 35,
+          "fiber": 8,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 850,
+      "totalProtein": 40,
+      "totalCarbs": 95,
+      "totalFat": 35,
+      "totalFiber": 8,
+      "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "13:17",
+      "id": 1779592650227
+    }
+  ],
+  "totalCalories": 850,
+  "totalProtein": 40,
+  "totalCarbs": 95,
+  "totalFat": 35,
+  "totalFiber": 8,
+  "savedAt": "2026-05-24T03:17:30.228Z"
 }
