@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Latte",
+          "portion": "small cup",
+          "calories": 120,
+          "protein": 6,
+          "carbs": 10,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 120,
+      "totalProtein": 6,
+      "totalCarbs": 10,
+      "totalFat": 6,
+      "totalFiber": 0,
+      "notes": "Estimated based on typical latte ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "15:03",
+      "id": 1779598988343
+    },
+    {
+      "foods": [
+        {
           "name": "Hot Pot with Beef, Tofu, Bok Choy, and Noodles",
           "portion": "large bowl",
           "calories": 850,
@@ -20,15 +43,15 @@
       "totalFat": 35,
       "totalFiber": 8,
       "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:17",
       "id": 1779592650227
     }
   ],
-  "totalCalories": 850,
-  "totalProtein": 40,
-  "totalCarbs": 95,
-  "totalFat": 35,
+  "totalCalories": 970,
+  "totalProtein": 46,
+  "totalCarbs": 105,
+  "totalFat": 41,
   "totalFiber": 8,
-  "savedAt": "2026-05-24T03:17:30.228Z"
+  "savedAt": "2026-05-24T05:03:08.345Z"
 }
