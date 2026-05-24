@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Rice Krispies Treat",
+          "portion": "1 piece",
+          "calories": 150,
+          "protein": 1,
+          "carbs": 35,
+          "fat": 3,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 150,
+      "totalProtein": 1,
+      "totalCarbs": 35,
+      "totalFat": 3,
+      "totalFiber": 0,
+      "notes": "Estimation based on appearance similar to a typical Rice Krispies treat.",
+      "label": "📷 Photo analysis",
+      "time": "23:29",
+      "id": 1779629379773
+    },
+    {
+      "foods": [
+        {
           "name": "Apple slices",
           "portion": "small plate",
           "calories": 60,
@@ -20,7 +43,7 @@
       "totalFat": 0,
       "totalFiber": 3,
       "notes": "Estimate based on typical composition of apple slices.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "22:12",
       "id": 1779624774437
     },
@@ -28,7 +51,7 @@
       "foods": [
         {
           "name": "Fried breaded fish",
-          "portion": "medium fillet ÃÂ¾ ÃÂ½",
+          "portion": "medium fillet ÃÂÃÂ¾ ÃÂÃÂ½",
           "calories": 94,
           "protein": 8.3,
           "carbs": 3.8,
@@ -38,7 +61,7 @@
         },
         {
           "name": "White rice",
-          "portion": "1 cup ÃÂ¾ ÃÂ½",
+          "portion": "1 cup ÃÂÃÂ¾ ÃÂÃÂ½",
           "calories": 75,
           "protein": 1.5,
           "carbs": 16.9,
@@ -48,7 +71,7 @@
         },
         {
           "name": "Scrambled eggs with zucchini",
-          "portion": "1 cup ÃÂ¾",
+          "portion": "1 cup ÃÂÃÂ¾",
           "calories": 135,
           "protein": 9,
           "carbs": 4.5,
@@ -58,7 +81,7 @@
         },
         {
           "name": "Stir-fried bok choy",
-          "portion": "1/2 cup ÃÂ½",
+          "portion": "1/2 cup ÃÂÃÂ½",
           "calories": 10,
           "protein": 1,
           "carbs": 1.5,
@@ -73,7 +96,7 @@
       "totalFat": 13.9,
       "totalFiber": 2.4,
       "notes": "Estimates are based on typical portion sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "21:09",
       "id": 1779620984826
     },
@@ -96,7 +119,7 @@
       "totalFat": 0,
       "totalFiber": 0,
       "notes": "Nutritional information taken from label.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "19:21",
       "id": 1779614484399
     },
@@ -119,7 +142,7 @@
       "totalFat": 5,
       "totalFiber": 1,
       "notes": "Estimated as a standard bubble tea with milk and tapioca pearls.",
-      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "17:14",
       "id": 1779606869226
     },
@@ -142,7 +165,7 @@
       "totalFat": 6,
       "totalFiber": 0,
       "notes": "Estimated based on typical latte ingredients.",
-      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "15:03",
       "id": 1779598988343
     },
@@ -165,15 +188,15 @@
       "totalFat": 35,
       "totalFiber": 8,
       "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
-      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "13:17",
       "id": 1779592650227
     }
   ],
-  "totalCalories": 1750,
-  "totalProtein": 70.8,
-  "totalCarbs": 230.7,
-  "totalFat": 59.9,
+  "totalCalories": 1900,
+  "totalProtein": 71.8,
+  "totalCarbs": 265.7,
+  "totalFat": 62.9,
   "totalFiber": 14.4,
-  "savedAt": "2026-05-24T12:12:54.438Z"
+  "savedAt": "2026-05-24T13:29:39.776Z"
 }
