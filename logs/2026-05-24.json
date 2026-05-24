@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Bubble Tea",
+          "portion": "medium glass",
+          "calories": 300,
+          "protein": 3,
+          "carbs": 60,
+          "fat": 5,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 300,
+      "totalProtein": 3,
+      "totalCarbs": 60,
+      "totalFat": 5,
+      "totalFiber": 1,
+      "notes": "Estimated as a standard bubble tea with milk and tapioca pearls.",
+      "label": "📷 Photo analysis",
+      "time": "17:14",
+      "id": 1779606869226
+    },
+    {
+      "foods": [
+        {
           "name": "Latte",
           "portion": "small cup",
           "calories": 120,
@@ -20,7 +43,7 @@
       "totalFat": 6,
       "totalFiber": 0,
       "notes": "Estimated based on typical latte ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:03",
       "id": 1779598988343
     },
@@ -43,15 +66,15 @@
       "totalFat": 35,
       "totalFiber": 8,
       "notes": "Estimate based on typical components of a hot pot with visible ingredients.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "13:17",
       "id": 1779592650227
     }
   ],
-  "totalCalories": 970,
-  "totalProtein": 46,
-  "totalCarbs": 105,
-  "totalFat": 41,
-  "totalFiber": 8,
-  "savedAt": "2026-05-24T05:03:08.345Z"
+  "totalCalories": 1270,
+  "totalProtein": 49,
+  "totalCarbs": 165,
+  "totalFat": 46,
+  "totalFiber": 9,
+  "savedAt": "2026-05-24T07:14:29.227Z"
 }
