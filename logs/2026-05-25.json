@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Fried fish sticks",
+          "portion": "2 pieces",
+          "calories": 300,
+          "protein": 15,
+          "carbs": 20,
+          "fat": 15,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "White rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 44,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Steamed broccoli",
+          "portion": "half cup",
+          "calories": 25,
+          "protein": 2,
+          "carbs": 5,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 525,
+      "totalProtein": 21,
+      "totalCarbs": 69,
+      "totalFat": 15,
+      "totalFiber": 4,
+      "notes": "Fried fish sticks estimate varies with cooking method.",
+      "label": "📷 Photo analysis",
+      "time": "14:16",
+      "id": 1779682560925
+    },
+    {
+      "foods": [
+        {
           "name": "Fruit and nut salad",
           "portion": "1 bowl",
           "calories": 250,
@@ -70,15 +113,15 @@
       "totalFat": 23,
       "totalFiber": 7,
       "notes": "Portion sizes are estimated based on visual approximation.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "10:58",
       "id": 1779670696850
     }
   ],
-  "totalCalories": 750,
-  "totalProtein": 29,
-  "totalCarbs": 118,
-  "totalFat": 23,
-  "totalFiber": 7,
-  "savedAt": "2026-05-25T00:58:16.851Z"
+  "totalCalories": 1275,
+  "totalProtein": 50,
+  "totalCarbs": 187,
+  "totalFat": 38,
+  "totalFiber": 11,
+  "savedAt": "2026-05-25T04:16:00.925Z"
 }
