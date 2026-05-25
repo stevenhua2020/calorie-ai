@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Noodle soup with egg and greens",
+          "portion": "medium bowl",
+          "calories": 450,
+          "protein": 20,
+          "carbs": 60,
+          "fat": 15,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 450,
+      "totalProtein": 20,
+      "totalCarbs": 60,
+      "totalFat": 15,
+      "totalFiber": 5,
+      "notes": "Estimate based on visible noodles, boiled egg, and leafy greens.",
+      "label": "📷 Photo analysis",
+      "time": "19:07",
+      "id": 1779700057724
+    },
+    {
+      "foods": [
+        {
           "name": "Fried fish sticks",
           "portion": "2 pieces",
           "calories": 300,
@@ -118,10 +141,10 @@
       "id": 1779670696850
     }
   ],
-  "totalCalories": 1275,
-  "totalProtein": 50,
-  "totalCarbs": 187,
-  "totalFat": 38,
-  "totalFiber": 11,
-  "savedAt": "2026-05-25T09:07:10.014Z"
+  "totalCalories": 1725,
+  "totalProtein": 70,
+  "totalCarbs": 247,
+  "totalFat": 53,
+  "totalFiber": 16,
+  "savedAt": "2026-05-25T09:07:37.724Z"
 }
