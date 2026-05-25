@@ -1,0 +1,84 @@
+{
+  "date": "2026-05-25",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Fruit and nut salad",
+          "portion": "1 bowl",
+          "calories": 250,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 7,
+          "fiber": 5,
+          "confidence": "medium"
+        },
+        {
+          "name": "Steamed bun",
+          "portion": "1 piece",
+          "calories": 150,
+          "protein": 5,
+          "carbs": 30,
+          "fat": 3,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Milk",
+          "portion": "1 glass",
+          "calories": 120,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Hard boiled egg",
+          "portion": "2 halves",
+          "calories": 70,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Mantou",
+          "portion": "1 piece",
+          "calories": 110,
+          "protein": 4,
+          "carbs": 20,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Dumpling",
+          "portion": "1 piece",
+          "calories": 50,
+          "protein": 2,
+          "carbs": 10,
+          "fat": 1,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 750,
+      "totalProtein": 29,
+      "totalCarbs": 118,
+      "totalFat": 23,
+      "totalFiber": 7,
+      "notes": "Portion sizes are estimated based on visual approximation.",
+      "label": "📷 Photo analysis",
+      "time": "10:58",
+      "id": 1779670696850
+    }
+  ],
+  "totalCalories": 750,
+  "totalProtein": 29,
+  "totalCarbs": 118,
+  "totalFat": 23,
+  "totalFiber": 7,
+  "savedAt": "2026-05-25T00:58:16.851Z"
+}
