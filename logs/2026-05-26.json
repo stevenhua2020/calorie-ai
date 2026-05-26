@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "Salmon Sashimi",
+          "portion": "3 slices",
+          "calories": 120,
+          "protein": 15,
+          "carbs": 0,
+          "fat": 7,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Tuna Sashimi",
+          "portion": "1 slice",
+          "calories": 40,
+          "protein": 7,
+          "carbs": 0,
+          "fat": 1,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Yellowtail Sashimi",
+          "portion": "2 slices",
+          "calories": 70,
+          "protein": 10,
+          "carbs": 0,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Lemon Wedge",
+          "portion": "1 piece",
+          "calories": 3,
+          "protein": 0,
+          "carbs": 1,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 233,
+      "totalProtein": 32,
+      "totalCarbs": 1,
+      "totalFat": 10,
+      "totalFiber": 0,
+      "notes": "Sashimi portions and macros are estimated based on common serving sizes.",
+      "label": "📷 Photo analysis",
+      "time": "18:47",
+      "id": 1779785253893
+    },
+    {
+      "foods": [
+        {
           "name": "Ikura Sushi (Salmon Roe)",
           "portion": "2 pieces",
           "calories": 120,
@@ -104,10 +157,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 945,
-  "totalProtein": 62,
-  "totalCarbs": 51,
-  "totalFat": 60,
+  "totalCalories": 1178,
+  "totalProtein": 94,
+  "totalCarbs": 52,
+  "totalFat": 70,
   "totalFiber": 10,
-  "savedAt": "2026-05-26T08:45:57.824Z"
+  "savedAt": "2026-05-26T08:47:33.893Z"
 }
