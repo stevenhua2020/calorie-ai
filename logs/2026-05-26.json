@@ -5,20 +5,20 @@
       "foods": [
         {
           "name": "Sweet and Spicy Chicken",
-          "portion": "small bowl",
-          "calories": 300,
-          "protein": 20,
-          "carbs": 25,
-          "fat": 12,
-          "fiber": 1,
+          "portion": "small bowl ×¾",
+          "calories": 225,
+          "protein": 15,
+          "carbs": 18.8,
+          "fat": 9,
+          "fiber": 0.8,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 300,
-      "totalProtein": 20,
-      "totalCarbs": 25,
-      "totalFat": 12,
-      "totalFiber": 1,
+      "totalCalories": 225,
+      "totalProtein": 15,
+      "totalCarbs": 18.8,
+      "totalFat": 9,
+      "totalFiber": 0.8,
       "notes": "Estimate based on visible ingredients like chicken and sauce.",
       "label": "📷 Photo analysis",
       "time": "19:04",
@@ -249,10 +249,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 1858,
-  "totalProtein": 146,
-  "totalCarbs": 103,
-  "totalFat": 98,
-  "totalFiber": 12,
-  "savedAt": "2026-05-26T09:04:15.483Z"
+  "totalCalories": 1783,
+  "totalProtein": 141,
+  "totalCarbs": 96.8,
+  "totalFat": 95,
+  "totalFiber": 11.8,
+  "savedAt": "2026-05-26T09:04:19.633Z"
 }
