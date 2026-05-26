@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Salmon sushi with avocado and mayo",
+          "portion": "small piece",
+          "calories": 100,
+          "protein": 6,
+          "carbs": 2,
+          "fat": 8,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 100,
+      "totalProtein": 6,
+      "totalCarbs": 2,
+      "totalFat": 8,
+      "totalFiber": 1,
+      "notes": "Estimate includes salmon, avocado, and a small amount of mayonnaise.",
+      "label": "📷 Photo analysis",
+      "time": "18:44",
+      "id": 1779785040708
+    },
+    {
+      "foods": [
+        {
           "name": "Scrambled Eggs on Avocado Toast",
           "portion": "1 serving",
           "calories": 400,
@@ -20,7 +43,7 @@
       "totalFat": 28,
       "totalFiber": 8,
       "notes": "The estimate is based on typical portions of scrambled eggs and avocado toast.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:18",
       "id": 1779761888411
     },
@@ -58,10 +81,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 625,
-  "totalProtein": 38,
-  "totalCarbs": 35,
-  "totalFat": 39,
-  "totalFiber": 8,
-  "savedAt": "2026-05-26T02:18:08.411Z"
+  "totalCalories": 725,
+  "totalProtein": 44,
+  "totalCarbs": 37,
+  "totalFat": 47,
+  "totalFiber": 9,
+  "savedAt": "2026-05-26T08:44:00.709Z"
 }
