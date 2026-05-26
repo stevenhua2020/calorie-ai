@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Sushi with grilled salmon",
+          "portion": "2 pieces",
+          "calories": 180,
+          "protein": 12,
+          "carbs": 16,
+          "fat": 7,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 180,
+      "totalProtein": 12,
+      "totalCarbs": 16,
+      "totalFat": 7,
+      "totalFiber": 0,
+      "notes": "Estimate based on common sushi ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "18:51",
+      "id": 1779785505834
+    },
+    {
+      "foods": [
+        {
           "name": "Salmon Sashimi",
           "portion": "3 slices",
           "calories": 120,
@@ -157,10 +180,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 1178,
-  "totalProtein": 94,
-  "totalCarbs": 52,
-  "totalFat": 70,
+  "totalCalories": 1358,
+  "totalProtein": 106,
+  "totalCarbs": 68,
+  "totalFat": 77,
   "totalFiber": 10,
-  "savedAt": "2026-05-26T08:47:33.893Z"
+  "savedAt": "2026-05-26T08:51:45.835Z"
 }
