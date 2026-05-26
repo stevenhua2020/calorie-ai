@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-26",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard Boiled Eggs",
+          "portion": "100g",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Skim Milk",
+          "portion": "200ml",
+          "calories": 70,
+          "protein": 7,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 225,
+      "totalProtein": 20,
+      "totalCarbs": 11,
+      "totalFat": 11,
+      "totalFiber": 0,
+      "notes": "Standard estimates based on average nutritional values for hard boiled eggs and skim milk.",
+      "label": "100g hard boiled eggs and 200 ml skim milk ",
+      "time": "10:33",
+      "id": 1779755627462
+    }
+  ],
+  "totalCalories": 225,
+  "totalProtein": 20,
+  "totalCarbs": 11,
+  "totalFat": 11,
+  "totalFiber": 0,
+  "savedAt": "2026-05-26T00:33:47.463Z"
+}
