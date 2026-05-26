@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Mango-topped cheesecake slice",
+          "portion": "small slice",
+          "calories": 250,
+          "protein": 4,
+          "carbs": 30,
+          "fat": 15,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 250,
+      "totalProtein": 4,
+      "totalCarbs": 30,
+      "totalFat": 15,
+      "totalFiber": 1,
+      "notes": "Estimate based on typical cheesecake composition and size.",
+      "label": "📷 Photo analysis",
+      "time": "22:21",
+      "id": 1779798118903
+    },
+    {
+      "foods": [
+        {
           "name": "Herbal Tea",
           "portion": "1 cup",
           "calories": 0,
@@ -20,7 +43,7 @@
       "totalFat": 0,
       "totalFiber": 0,
       "notes": "Herbal tea generally has negligible calories and macros.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "19:10",
       "id": 1779786654125
     },
@@ -28,7 +51,7 @@
       "foods": [
         {
           "name": "Sweet and Spicy Chicken",
-          "portion": "small bowl ÃÂ¾",
+          "portion": "small bowl ÃÂÃÂ¾",
           "calories": 225,
           "protein": 15,
           "carbs": 18.8,
@@ -43,7 +66,7 @@
       "totalFat": 9,
       "totalFiber": 0.8,
       "notes": "Estimate based on visible ingredients like chicken and sauce.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "19:04",
       "id": 1779786255482
     },
@@ -66,7 +89,7 @@
       "totalFat": 6,
       "totalFiber": 0,
       "notes": "Estimate based on typical salmon sashimi portion.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "18:57",
       "id": 1779785855557
     },
@@ -89,7 +112,7 @@
       "totalFat": 3,
       "totalFiber": 1,
       "notes": "Estimate based on typical fried dumpling.",
-      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "18:53",
       "id": 1779785627712
     },
@@ -112,7 +135,7 @@
       "totalFat": 7,
       "totalFiber": 0,
       "notes": "Estimate based on common sushi ingredients.",
-      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "18:51",
       "id": 1779785505834
     },
@@ -165,7 +188,7 @@
       "totalFat": 10,
       "totalFiber": 0,
       "notes": "Sashimi portions and macros are estimated based on common serving sizes.",
-      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "18:47",
       "id": 1779785253893
     },
@@ -188,7 +211,7 @@
       "totalFat": 5,
       "totalFiber": 0,
       "notes": "Estimate based on common portion size for sushi.",
-      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "18:45",
       "id": 1779785157824
     },
@@ -196,7 +219,7 @@
       "foods": [
         {
           "name": "Salmon sushi with avocado and mayo",
-          "portion": "small piece ÃÂÃÂÃÂÃÂ2ÃÂÃÂÃÂÃÂ",
+          "portion": "small piece ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ2ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
           "calories": 200,
           "protein": 12,
           "carbs": 4,
@@ -211,7 +234,7 @@
       "totalFat": 16,
       "totalFiber": 2,
       "notes": "Estimate includes salmon, avocado, and a small amount of mayonnaise.",
-      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "18:44",
       "id": 1779785040708
     },
@@ -234,7 +257,7 @@
       "totalFat": 28,
       "totalFiber": 8,
       "notes": "The estimate is based on typical portions of scrambled eggs and avocado toast.",
-      "label": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "12:18",
       "id": 1779761888411
     },
@@ -272,10 +295,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 1783,
-  "totalProtein": 141,
-  "totalCarbs": 96.8,
-  "totalFat": 95,
-  "totalFiber": 11.8,
-  "savedAt": "2026-05-26T09:10:54.127Z"
+  "totalCalories": 2033,
+  "totalProtein": 145,
+  "totalCarbs": 126.8,
+  "totalFat": 110,
+  "totalFiber": 12.8,
+  "savedAt": "2026-05-26T12:21:58.904Z"
 }
