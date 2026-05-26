@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Salmon Sashimi",
+          "portion": "3 slices",
+          "calories": 120,
+          "protein": 17,
+          "carbs": 0,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 120,
+      "totalProtein": 17,
+      "totalCarbs": 0,
+      "totalFat": 6,
+      "totalFiber": 0,
+      "notes": "Estimate based on typical salmon sashimi portion.",
+      "label": "📷 Photo analysis",
+      "time": "18:57",
+      "id": 1779785855557
+    },
+    {
+      "foods": [
+        {
           "name": "Fried Dumpling",
           "portion": "1 piece",
           "calories": 80,
@@ -20,7 +43,7 @@
       "totalFat": 3,
       "totalFiber": 1,
       "notes": "Estimate based on typical fried dumpling.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "18:53",
       "id": 1779785627712
     },
@@ -43,7 +66,7 @@
       "totalFat": 7,
       "totalFiber": 0,
       "notes": "Estimate based on common sushi ingredients.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "18:51",
       "id": 1779785505834
     },
@@ -96,7 +119,7 @@
       "totalFat": 10,
       "totalFiber": 0,
       "notes": "Sashimi portions and macros are estimated based on common serving sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "18:47",
       "id": 1779785253893
     },
@@ -119,7 +142,7 @@
       "totalFat": 5,
       "totalFiber": 0,
       "notes": "Estimate based on common portion size for sushi.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "18:45",
       "id": 1779785157824
     },
@@ -127,7 +150,7 @@
       "foods": [
         {
           "name": "Salmon sushi with avocado and mayo",
-          "portion": "small piece Ã2Ã",
+          "portion": "small piece ÃÂ2ÃÂ",
           "calories": 200,
           "protein": 12,
           "carbs": 4,
@@ -142,7 +165,7 @@
       "totalFat": 16,
       "totalFiber": 2,
       "notes": "Estimate includes salmon, avocado, and a small amount of mayonnaise.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "18:44",
       "id": 1779785040708
     },
@@ -165,7 +188,7 @@
       "totalFat": 28,
       "totalFiber": 8,
       "notes": "The estimate is based on typical portions of scrambled eggs and avocado toast.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "12:18",
       "id": 1779761888411
     },
@@ -203,10 +226,10 @@
       "id": 1779755627462
     }
   ],
-  "totalCalories": 1438,
-  "totalProtein": 109,
+  "totalCalories": 1558,
+  "totalProtein": 126,
   "totalCarbs": 78,
-  "totalFat": 80,
+  "totalFat": 86,
   "totalFiber": 11,
-  "savedAt": "2026-05-26T08:53:47.715Z"
+  "savedAt": "2026-05-26T08:57:35.558Z"
 }
