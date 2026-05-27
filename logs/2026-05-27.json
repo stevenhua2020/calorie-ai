@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "Lotus root in soup",
+          "portion": "1 cup",
+          "calories": 60,
+          "protein": 2,
+          "carbs": 14,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Cooked leafy greens",
+          "portion": "1/2 cup",
+          "calories": 25,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Breaded fried item",
+          "portion": "half piece",
+          "calories": 120,
+          "protein": 4,
+          "carbs": 15,
+          "fat": 6,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Mixed grapes",
+          "portion": "1/4 cup",
+          "calories": 20,
+          "protein": 0,
+          "carbs": 5,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 225,
+      "totalProtein": 7,
+      "totalCarbs": 38,
+      "totalFat": 6,
+      "totalFiber": 5,
+      "notes": "Estimates are based on visible portions.",
+      "label": "📷 Photo analysis",
+      "time": "19:08",
+      "id": 1779872912622
+    },
+    {
+      "foods": [
+        {
           "name": "Mixed grapes",
           "portion": "1 cup",
           "calories": 70,
@@ -20,7 +73,7 @@
       "totalFat": 0,
       "totalFiber": 1,
       "notes": "Estimate based on typical grape serving size.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:46",
       "id": 1779867999539
     },
@@ -43,15 +96,15 @@
       "totalFat": 25,
       "totalFiber": 5,
       "notes": "Estimate includes chicken, tofu, and typical Pad Thai ingredients.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "12:27",
       "id": 1779848851680
     }
   ],
-  "totalCalories": 770,
-  "totalProtein": 35,
-  "totalCarbs": 108,
-  "totalFat": 25,
-  "totalFiber": 6,
-  "savedAt": "2026-05-27T07:46:39.540Z"
+  "totalCalories": 995,
+  "totalProtein": 42,
+  "totalCarbs": 146,
+  "totalFat": 31,
+  "totalFiber": 11,
+  "savedAt": "2026-05-27T09:08:32.622Z"
 }
