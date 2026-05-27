@@ -25,12 +25,12 @@
         },
         {
           "name": "Breaded fried item",
-          "portion": "half piece ×1½",
-          "calories": 180,
-          "protein": 6,
-          "carbs": 22.5,
-          "fat": 9,
-          "fiber": 1.5,
+          "portion": "half piece ×1½ ×2×",
+          "calories": 360,
+          "protein": 12,
+          "carbs": 45,
+          "fat": 18,
+          "fiber": 3,
           "confidence": "medium"
         },
         {
@@ -44,11 +44,11 @@
           "confidence": "medium"
         }
       ],
-      "totalCalories": 358,
-      "totalProtein": 11.5,
-      "totalCarbs": 61.5,
-      "totalFat": 9,
-      "totalFiber": 8.5,
+      "totalCalories": 538,
+      "totalProtein": 17.5,
+      "totalCarbs": 84,
+      "totalFat": 18,
+      "totalFiber": 10,
       "notes": "Estimates are based on visible portions.",
       "label": "📷 Photo analysis",
       "time": "19:08",
@@ -101,10 +101,10 @@
       "id": 1779848851680
     }
   ],
-  "totalCalories": 1128,
-  "totalProtein": 46.5,
-  "totalCarbs": 169.5,
-  "totalFat": 34,
-  "totalFiber": 14.5,
-  "savedAt": "2026-05-27T09:08:52.577Z"
+  "totalCalories": 1308,
+  "totalProtein": 52.5,
+  "totalCarbs": 192,
+  "totalFat": 43,
+  "totalFiber": 16,
+  "savedAt": "2026-05-27T09:08:56.099Z"
 }
