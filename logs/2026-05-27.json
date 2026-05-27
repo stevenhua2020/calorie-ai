@@ -15,12 +15,12 @@
         },
         {
           "name": "Cooked leafy greens",
-          "portion": "1/2 cup",
-          "calories": 25,
-          "protein": 1,
-          "carbs": 4,
+          "portion": "1/2 cup ×1½",
+          "calories": 38,
+          "protein": 1.5,
+          "carbs": 6,
           "fat": 0,
-          "fiber": 2,
+          "fiber": 3,
           "confidence": "medium"
         },
         {
@@ -44,11 +44,11 @@
           "confidence": "medium"
         }
       ],
-      "totalCalories": 285,
-      "totalProtein": 9,
-      "totalCarbs": 52,
+      "totalCalories": 298,
+      "totalProtein": 9.5,
+      "totalCarbs": 54,
       "totalFat": 6,
-      "totalFiber": 7,
+      "totalFiber": 8,
       "notes": "Estimates are based on visible portions.",
       "label": "📷 Photo analysis",
       "time": "19:08",
@@ -101,10 +101,10 @@
       "id": 1779848851680
     }
   ],
-  "totalCalories": 1055,
-  "totalProtein": 44,
-  "totalCarbs": 160,
+  "totalCalories": 1068,
+  "totalProtein": 44.5,
+  "totalCarbs": 162,
   "totalFat": 31,
-  "totalFiber": 13,
-  "savedAt": "2026-05-27T09:08:41.826Z"
+  "totalFiber": 14,
+  "savedAt": "2026-05-27T09:08:46.810Z"
 }
