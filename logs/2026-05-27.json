@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Mixed grapes",
+          "portion": "1 cup",
+          "calories": 70,
+          "protein": 0,
+          "carbs": 18,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 70,
+      "totalProtein": 0,
+      "totalCarbs": 18,
+      "totalFat": 0,
+      "totalFiber": 1,
+      "notes": "Estimate based on typical grape serving size.",
+      "label": "📷 Photo analysis",
+      "time": "17:46",
+      "id": 1779867999539
+    },
+    {
+      "foods": [
+        {
           "name": "Pad Thai with Chicken and Tofu",
           "portion": "large plate",
           "calories": 700,
@@ -20,15 +43,15 @@
       "totalFat": 25,
       "totalFiber": 5,
       "notes": "Estimate includes chicken, tofu, and typical Pad Thai ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:27",
       "id": 1779848851680
     }
   ],
-  "totalCalories": 700,
+  "totalCalories": 770,
   "totalProtein": 35,
-  "totalCarbs": 90,
+  "totalCarbs": 108,
   "totalFat": 25,
-  "totalFiber": 5,
-  "savedAt": "2026-05-27T02:27:31.681Z"
+  "totalFiber": 6,
+  "savedAt": "2026-05-27T07:46:39.540Z"
 }
