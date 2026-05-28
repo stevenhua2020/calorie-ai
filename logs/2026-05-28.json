@@ -5,20 +5,20 @@
       "foods": [
         {
           "name": "Hotpot",
-          "portion": "large bowl",
-          "calories": 500,
-          "protein": 40,
-          "carbs": 60,
-          "fat": 15,
-          "fiber": 8,
+          "portion": "large bowl ×1½",
+          "calories": 750,
+          "protein": 60,
+          "carbs": 90,
+          "fat": 22.5,
+          "fiber": 12,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 500,
-      "totalProtein": 40,
-      "totalCarbs": 60,
-      "totalFat": 15,
-      "totalFiber": 8,
+      "totalCalories": 750,
+      "totalProtein": 60,
+      "totalCarbs": 90,
+      "totalFat": 22.5,
+      "totalFiber": 12,
       "notes": "Estimate based on typical hotpot contents such as meat, tofu, vegetables, and noodles.",
       "label": "📷 Photo analysis",
       "time": "16:02",
@@ -68,10 +68,10 @@
       "id": 1779930149206
     }
   ],
-  "totalCalories": 1290,
-  "totalProtein": 74,
-  "totalCarbs": 147,
-  "totalFat": 50,
-  "totalFiber": 16,
-  "savedAt": "2026-05-28T06:02:51.561Z"
+  "totalCalories": 1540,
+  "totalProtein": 94,
+  "totalCarbs": 177,
+  "totalFat": 57.5,
+  "totalFiber": 20,
+  "savedAt": "2026-05-28T06:03:05.840Z"
 }
