@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-29",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Boiled Eggs",
+          "portion": "2 whole eggs",
+          "calories": 140,
+          "protein": 12,
+          "carbs": 1,
+          "fat": 10,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Milk",
+          "portion": "1 glass",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 290,
+      "totalProtein": 20,
+      "totalCarbs": 13,
+      "totalFat": 18,
+      "totalFiber": 0,
+      "notes": "Estimated portions for medium-sized eggs and standard glass of milk.",
+      "label": "📷 Photo analysis",
+      "time": "08:21",
+      "id": 1780006875790
+    }
+  ],
+  "totalCalories": 290,
+  "totalProtein": 20,
+  "totalCarbs": 13,
+  "totalFat": 18,
+  "totalFiber": 0,
+  "savedAt": "2026-05-28T22:21:15.791Z"
+}
