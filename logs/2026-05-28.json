@@ -4,39 +4,6 @@
     {
       "foods": [
         {
-          "name": "Fruit salad with yogurt",
-          "portion": "1 medium bowl",
-          "calories": 250,
-          "protein": 5,
-          "carbs": 45,
-          "fat": 5,
-          "fiber": 5,
-          "confidence": "medium"
-        },
-        {
-          "name": "Green grapes",
-          "portion": "small plate",
-          "calories": 60,
-          "protein": 1,
-          "carbs": 16,
-          "fat": 0,
-          "fiber": 1,
-          "confidence": "medium"
-        }
-      ],
-      "totalCalories": 310,
-      "totalProtein": 6,
-      "totalCarbs": 61,
-      "totalFat": 5,
-      "totalFiber": 6,
-      "notes": "Estimates based on common fruit salad and grape servings.",
-      "label": "📷 Photo analysis",
-      "time": "11:04",
-      "id": 1779930246899
-    },
-    {
-      "foods": [
-        {
           "name": "Milk",
           "portion": "glass",
           "calories": 120,
@@ -78,10 +45,10 @@
       "id": 1779930149206
     }
   ],
-  "totalCalories": 1100,
-  "totalProtein": 40,
-  "totalCarbs": 148,
-  "totalFat": 40,
-  "totalFiber": 14,
-  "savedAt": "2026-05-28T01:04:06.899Z"
+  "totalCalories": 790,
+  "totalProtein": 34,
+  "totalCarbs": 87,
+  "totalFat": 35,
+  "totalFiber": 8,
+  "savedAt": "2026-05-28T01:04:17.167Z"
 }
