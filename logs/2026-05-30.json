@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Beef",
+          "portion": "100g",
+          "calories": 250,
+          "protein": 26,
+          "carbs": 0,
+          "fat": 17,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Noodles",
+          "portion": "200g",
+          "calories": 266,
+          "protein": 8,
+          "carbs": 53,
+          "fat": 3,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Hard boiled eggs",
+          "portion": "100g",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 671,
+      "totalProtein": 47,
+      "totalCarbs": 54,
+      "totalFat": 31,
+      "totalFiber": 2,
+      "notes": "Based on typical values for each component; estimate is for total dish",
+      "label": "Beef noodle 100g beef, 200g noodles, and 100g hard",
+      "time": "21:49",
+      "id": 1780141798779
+    },
+    {
+      "foods": [
+        {
           "name": "Coffee with milk",
           "portion": "medium glass",
           "calories": 50,
@@ -30,7 +73,7 @@
       "totalFat": 10,
       "totalFiber": 1,
       "notes": "Estimated portions based on typical size and general appearance.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:16",
       "id": 1780125412080
     },
@@ -106,15 +149,15 @@
       "totalFat": 30,
       "totalFiber": 6,
       "notes": "Portion sizes are estimated; the drink's composition is uncertain.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "14:24",
       "id": 1780115054948
     }
   ],
-  "totalCalories": 1060,
-  "totalProtein": 38,
-  "totalCarbs": 138,
-  "totalFat": 40,
-  "totalFiber": 7,
-  "savedAt": "2026-05-30T07:16:52.081Z"
+  "totalCalories": 1731,
+  "totalProtein": 85,
+  "totalCarbs": 192,
+  "totalFat": 71,
+  "totalFiber": 9,
+  "savedAt": "2026-05-30T11:49:58.780Z"
 }
