@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "250ml coffee with skim milk",
+          "portion": "250ml",
+          "calories": 20,
+          "protein": 2,
+          "carbs": 2,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 20,
+      "totalProtein": 2,
+      "totalCarbs": 2,
+      "totalFat": 0,
+      "totalFiber": 0,
+      "notes": "Coffee itself is low in calories; skim milk adds a small amount of protein and carbs.",
+      "label": "250ml coffee with skim milk ",
+      "time": "16:43",
+      "id": 1780123407594
+    },
+    {
+      "foods": [
+        {
           "name": "Egg sandwich",
           "portion": "1 sandwich",
           "calories": 320,
@@ -55,10 +78,10 @@
       "id": 1780115054948
     }
   ],
-  "totalCalories": 790,
-  "totalProtein": 30,
-  "totalCarbs": 101,
+  "totalCalories": 810,
+  "totalProtein": 32,
+  "totalCarbs": 103,
   "totalFat": 30,
   "totalFiber": 6,
-  "savedAt": "2026-05-30T04:24:14.950Z"
+  "savedAt": "2026-05-30T06:43:27.595Z"
 }
