@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-30",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Egg sandwich",
+          "portion": "1 sandwich",
+          "calories": 320,
+          "protein": 14,
+          "carbs": 34,
+          "fat": 14,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Sausage slices",
+          "portion": "8 slices",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 2,
+          "fat": 12,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruit and yogurt bowl",
+          "portion": "1 bowl",
+          "calories": 200,
+          "protein": 8,
+          "carbs": 35,
+          "fat": 4,
+          "fiber": 4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Colored beverage",
+          "portion": "1 glass",
+          "calories": 120,
+          "protein": 0,
+          "carbs": 30,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "low"
+        }
+      ],
+      "totalCalories": 790,
+      "totalProtein": 30,
+      "totalCarbs": 101,
+      "totalFat": 30,
+      "totalFiber": 6,
+      "notes": "Portion sizes are estimated; the drink's composition is uncertain.",
+      "label": "📷 Photo analysis",
+      "time": "14:24",
+      "id": 1780115054948
+    }
+  ],
+  "totalCalories": 790,
+  "totalProtein": 30,
+  "totalCarbs": 101,
+  "totalFat": 30,
+  "totalFiber": 6,
+  "savedAt": "2026-05-30T04:24:14.950Z"
+}
