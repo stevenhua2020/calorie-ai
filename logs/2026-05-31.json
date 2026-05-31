@@ -5,20 +5,20 @@
       "foods": [
         {
           "name": "Spicy fried yam with beef and onions",
-          "portion": "large plate",
-          "calories": 650,
-          "protein": 25,
-          "carbs": 85,
-          "fat": 25,
-          "fiber": 8,
+          "portion": "large plate ×¾",
+          "calories": 488,
+          "protein": 18.8,
+          "carbs": 63.8,
+          "fat": 18.8,
+          "fiber": 6,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 650,
-      "totalProtein": 25,
-      "totalCarbs": 85,
-      "totalFat": 25,
-      "totalFiber": 8,
+      "totalCalories": 488,
+      "totalProtein": 18.8,
+      "totalCarbs": 63.8,
+      "totalFat": 18.8,
+      "totalFiber": 6,
       "notes": "Estimate based on visual assessment of fried yam, beef, and onions. Portion is large and includes significant oil usage.",
       "label": "📷 Photo analysis",
       "time": "12:57",
@@ -71,10 +71,10 @@
       "id": 1780195082722
     }
   ],
-  "totalCalories": 844,
-  "totalProtein": 37,
-  "totalCarbs": 102,
-  "totalFat": 34,
-  "totalFiber": 8,
-  "savedAt": "2026-05-31T02:57:13.990Z"
+  "totalCalories": 682,
+  "totalProtein": 30.8,
+  "totalCarbs": 80.8,
+  "totalFat": 27.8,
+  "totalFiber": 6,
+  "savedAt": "2026-05-31T02:57:22.245Z"
 }
