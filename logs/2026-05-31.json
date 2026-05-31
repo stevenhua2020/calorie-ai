@@ -4,8 +4,8 @@
     {
       "foods": [
         {
-          "name": "Spicy fried yam with beef and onions",
-          "portion": "large plate ×¾",
+          "name": "Spicy fried naan with beef and onions",
+          "portion": "large plate × 0.75",
           "calories": 488,
           "protein": 18.8,
           "carbs": 63.8,
@@ -76,5 +76,5 @@
   "totalCarbs": 80.8,
   "totalFat": 27.8,
   "totalFiber": 6,
-  "savedAt": "2026-05-31T02:57:22.245Z"
+  "savedAt": "2026-05-31T02:58:07.512Z"
 }
