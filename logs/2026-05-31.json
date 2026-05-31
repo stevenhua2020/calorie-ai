@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Plain Udon Noodles",
+          "portion": "1.5 cups",
+          "calories": 310,
+          "protein": 8,
+          "carbs": 62,
+          "fat": 1,
+          "fiber": 3,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 310,
+      "totalProtein": 8,
+      "totalCarbs": 62,
+      "totalFat": 1,
+      "totalFiber": 3,
+      "notes": "Estimate based on appearance of noodles; no additional condiments or toppings present.",
+      "label": "📷 Photo analysis",
+      "time": "13:03",
+      "id": 1780196632057
+    },
+    {
+      "foods": [
+        {
           "name": "Spicy chili oil sauce",
           "portion": "medium bowl",
           "calories": 150,
@@ -94,10 +117,10 @@
       "id": 1780195082722
     }
   ],
-  "totalCalories": 832,
-  "totalProtein": 31.8,
-  "totalCarbs": 83.8,
-  "totalFat": 42.8,
-  "totalFiber": 7,
-  "savedAt": "2026-05-31T03:03:24.204Z"
+  "totalCalories": 1142,
+  "totalProtein": 39.8,
+  "totalCarbs": 145.8,
+  "totalFat": 43.8,
+  "totalFiber": 10,
+  "savedAt": "2026-05-31T03:03:52.057Z"
 }
