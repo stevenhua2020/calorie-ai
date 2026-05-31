@@ -5,19 +5,19 @@
       "foods": [
         {
           "name": "Milk tea",
-          "portion": "small cup",
-          "calories": 50,
-          "protein": 2,
-          "carbs": 8,
-          "fat": 1,
+          "portion": "small cup ×2×",
+          "calories": 100,
+          "protein": 4,
+          "carbs": 16,
+          "fat": 2,
           "fiber": 0,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 50,
-      "totalProtein": 2,
-      "totalCarbs": 8,
-      "totalFat": 1,
+      "totalCalories": 100,
+      "totalProtein": 4,
+      "totalCarbs": 16,
+      "totalFat": 2,
       "totalFiber": 0,
       "notes": "Estimate based on appearance of milk tea in a small cup.",
       "label": "📷 Photo analysis",
@@ -71,10 +71,10 @@
       "id": 1780195082722
     }
   ],
-  "totalCalories": 204,
-  "totalProtein": 11.5,
-  "totalCarbs": 18,
-  "totalFat": 11,
+  "totalCalories": 254,
+  "totalProtein": 13.5,
+  "totalCarbs": 26,
+  "totalFat": 12,
   "totalFiber": 3,
-  "savedAt": "2026-05-31T02:56:04.176Z"
+  "savedAt": "2026-05-31T02:56:12.364Z"
 }
