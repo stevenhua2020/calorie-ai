@@ -5,20 +5,20 @@
       "foods": [
         {
           "name": "Stir-fried cabbage",
-          "portion": "1 cup",
-          "calories": 80,
-          "protein": 2,
-          "carbs": 12,
-          "fat": 4,
-          "fiber": 4,
+          "portion": "1 cup ×¾",
+          "calories": 60,
+          "protein": 1.5,
+          "carbs": 9,
+          "fat": 3,
+          "fiber": 3,
           "confidence": "high"
         }
       ],
-      "totalCalories": 80,
-      "totalProtein": 2,
-      "totalCarbs": 12,
-      "totalFat": 4,
-      "totalFiber": 4,
+      "totalCalories": 60,
+      "totalProtein": 1.5,
+      "totalCarbs": 9,
+      "totalFat": 3,
+      "totalFiber": 3,
       "notes": "Estimate based on typical stir-fried cabbage with oil and spices.",
       "label": "📷 Photo analysis",
       "time": "12:54",
@@ -48,10 +48,10 @@
       "id": 1780195082722
     }
   ],
-  "totalCalories": 174,
-  "totalProtein": 10,
-  "totalCarbs": 13,
-  "totalFat": 11,
-  "totalFiber": 4,
-  "savedAt": "2026-05-31T02:54:54.838Z"
+  "totalCalories": 154,
+  "totalProtein": 9.5,
+  "totalCarbs": 10,
+  "totalFat": 10,
+  "totalFiber": 3,
+  "savedAt": "2026-05-31T02:55:02.448Z"
 }
