@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-31",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard boiled egg",
+          "portion": "60g",
+          "calories": 94,
+          "protein": 8,
+          "carbs": 1,
+          "fat": 7,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 94,
+      "totalProtein": 8,
+      "totalCarbs": 1,
+      "totalFat": 7,
+      "totalFiber": 0,
+      "notes": "Standard macro profile for a 60g hard boiled egg.",
+      "label": "A 60g hard boiled egg ",
+      "time": "12:38",
+      "id": 1780195082722
+    }
+  ],
+  "totalCalories": 94,
+  "totalProtein": 8,
+  "totalCarbs": 1,
+  "totalFat": 7,
+  "totalFiber": 0,
+  "savedAt": "2026-05-31T02:38:02.723Z"
+}
