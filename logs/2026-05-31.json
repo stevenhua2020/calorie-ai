@@ -4,39 +4,6 @@
     {
       "foods": [
         {
-          "name": "Milk tea",
-          "portion": "small cup",
-          "calories": 100,
-          "protein": 2,
-          "carbs": 15,
-          "fat": 3,
-          "fiber": 0,
-          "confidence": "medium"
-        },
-        {
-          "name": "Steamed dumplings",
-          "portion": "small portion",
-          "calories": 150,
-          "protein": 6,
-          "carbs": 20,
-          "fat": 6,
-          "fiber": 1,
-          "confidence": "low"
-        }
-      ],
-      "totalCalories": 250,
-      "totalProtein": 8,
-      "totalCarbs": 35,
-      "totalFat": 9,
-      "totalFiber": 1,
-      "notes": "Estimated based on typical milk tea and dumplings.",
-      "label": "📷 Photo analysis",
-      "time": "12:55",
-      "id": 1780196127476
-    },
-    {
-      "foods": [
-        {
           "name": "Stir-fried cabbage",
           "portion": "1 cup ×¾",
           "calories": 60,
@@ -81,10 +48,10 @@
       "id": 1780195082722
     }
   ],
-  "totalCalories": 404,
-  "totalProtein": 17.5,
-  "totalCarbs": 45,
-  "totalFat": 19,
-  "totalFiber": 4,
-  "savedAt": "2026-05-31T02:55:27.476Z"
+  "totalCalories": 154,
+  "totalProtein": 9.5,
+  "totalCarbs": 10,
+  "totalFat": 10,
+  "totalFiber": 3,
+  "savedAt": "2026-05-31T02:55:39.140Z"
 }
