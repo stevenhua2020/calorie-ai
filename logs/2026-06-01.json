@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Cooked dish with vegetables and protein",
+          "portion": "medium pan",
+          "calories": 500,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 20,
+          "fiber": 5,
+          "confidence": "medium"
+        },
+        {
+          "name": "White rice",
+          "portion": "small bowl",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 700,
+      "totalProtein": 34,
+      "totalCarbs": 85,
+      "totalFat": 21,
+      "totalFiber": 6,
+      "notes": "The cooked dish contains vegetables and likely a protein; exact ingredients are unclear.",
+      "label": "📷 Photo analysis",
+      "time": "15:38",
+      "id": 1780292305611
+    },
+    {
+      "foods": [
+        {
           "name": "Beef noodle soup with egg",
           "portion": "medium bowl",
           "calories": 550,
@@ -20,15 +53,15 @@
       "totalFat": 20,
       "totalFiber": 5,
       "notes": "Estimation includes noodles, beef, egg, and broth.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "10:44",
       "id": 1780274674742
     }
   ],
-  "totalCalories": 550,
-  "totalProtein": 30,
-  "totalCarbs": 70,
-  "totalFat": 20,
-  "totalFiber": 5,
-  "savedAt": "2026-06-01T00:44:34.743Z"
+  "totalCalories": 1250,
+  "totalProtein": 64,
+  "totalCarbs": 155,
+  "totalFat": 41,
+  "totalFiber": 11,
+  "savedAt": "2026-06-01T05:38:25.612Z"
 }
