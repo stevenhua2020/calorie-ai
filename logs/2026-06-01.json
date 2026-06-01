@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Roasted sweet potato",
+          "portion": "medium whole sweet potato",
+          "calories": 180,
+          "protein": 4,
+          "carbs": 41,
+          "fat": 0,
+          "fiber": 6,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 180,
+      "totalProtein": 4,
+      "totalCarbs": 41,
+      "totalFat": 0,
+      "totalFiber": 6,
+      "notes": "Estimated based on typical sweet potato size and preparation.",
+      "label": "📷 Photo analysis",
+      "time": "20:03",
+      "id": 1780308199568
+    },
+    {
+      "foods": [
+        {
           "name": "Cooked dish with vegetables and protein",
           "portion": "medium pan",
           "calories": 500,
@@ -15,7 +38,7 @@
         },
         {
           "name": "White rice",
-          "portion": "small bowl ×¾",
+          "portion": "small bowl ÃÂ¾",
           "calories": 150,
           "protein": 3,
           "carbs": 33.8,
@@ -30,7 +53,7 @@
       "totalFat": 20.8,
       "totalFiber": 5.8,
       "notes": "The cooked dish contains vegetables and likely a protein; exact ingredients are unclear.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:38",
       "id": 1780292305611
     },
@@ -53,15 +76,15 @@
       "totalFat": 20,
       "totalFiber": 5,
       "notes": "Estimation includes noodles, beef, egg, and broth.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "10:44",
       "id": 1780274674742
     }
   ],
-  "totalCalories": 1200,
-  "totalProtein": 63,
-  "totalCarbs": 143.8,
+  "totalCalories": 1380,
+  "totalProtein": 67,
+  "totalCarbs": 184.8,
   "totalFat": 40.8,
-  "totalFiber": 10.8,
-  "savedAt": "2026-06-01T05:38:48.292Z"
+  "totalFiber": 16.8,
+  "savedAt": "2026-06-01T10:03:19.569Z"
 }
