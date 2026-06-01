@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-02",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Steamed Bun",
+          "portion": "1 medium bun",
+          "calories": 200,
+          "protein": 6,
+          "carbs": 36,
+          "fat": 4,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Mantou",
+          "portion": "1 medium piece",
+          "calories": 150,
+          "protein": 5,
+          "carbs": 30,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Dumpling",
+          "portion": "1 small piece",
+          "calories": 60,
+          "protein": 2,
+          "carbs": 10,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Milk",
+          "portion": "1 glass",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 560,
+      "totalProtein": 21,
+      "totalCarbs": 88,
+      "totalFat": 16,
+      "totalFiber": 3,
+      "notes": "Estimates based on typical portion sizes for steamed buns, mantou, dumpling, and milk.",
+      "label": "📷 Photo analysis",
+      "time": "08:28",
+      "id": 1780352896158
+    }
+  ],
+  "totalCalories": 560,
+  "totalProtein": 21,
+  "totalCarbs": 88,
+  "totalFat": 16,
+  "totalFiber": 3,
+  "savedAt": "2026-06-01T22:28:16.159Z"
+}
