@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Noodle soup with tofu and vegetables",
+          "portion": "large bowl",
+          "calories": 500,
+          "protein": 20,
+          "carbs": 70,
+          "fat": 15,
+          "fiber": 6,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 500,
+      "totalProtein": 20,
+      "totalCarbs": 70,
+      "totalFat": 15,
+      "totalFiber": 6,
+      "notes": "Estimate based on appearance of noodle soup with tofu and vegetables.",
+      "label": "📷 Photo analysis",
+      "time": "18:36",
+      "id": 1780389379786
+    },
+    {
+      "foods": [
+        {
           "name": "Beef Pho",
           "portion": "medium bowl",
           "calories": 450,
@@ -20,7 +43,7 @@
       "totalFat": 15,
       "totalFiber": 3,
       "notes": "Estimate based on common beef pho ingredients and portion size.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:41",
       "id": 1780368108344
     },
@@ -73,15 +96,15 @@
       "totalFat": 16,
       "totalFiber": 3,
       "notes": "Estimates based on typical portion sizes for steamed buns, mantou, dumpling, and milk.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "08:28",
       "id": 1780352896158
     }
   ],
-  "totalCalories": 1010,
-  "totalProtein": 51,
-  "totalCarbs": 138,
-  "totalFat": 31,
-  "totalFiber": 6,
-  "savedAt": "2026-06-02T02:41:48.345Z"
+  "totalCalories": 1510,
+  "totalProtein": 71,
+  "totalCarbs": 208,
+  "totalFat": 46,
+  "totalFiber": 12,
+  "savedAt": "2026-06-02T08:36:19.787Z"
 }
