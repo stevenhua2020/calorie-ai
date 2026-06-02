@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Beef Pho",
+          "portion": "medium bowl",
+          "calories": 450,
+          "protein": 30,
+          "carbs": 50,
+          "fat": 15,
+          "fiber": 3,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 450,
+      "totalProtein": 30,
+      "totalCarbs": 50,
+      "totalFat": 15,
+      "totalFiber": 3,
+      "notes": "Estimate based on common beef pho ingredients and portion size.",
+      "label": "📷 Photo analysis",
+      "time": "12:41",
+      "id": 1780368108344
+    },
+    {
+      "foods": [
+        {
           "name": "Steamed Bun",
           "portion": "1 medium bun",
           "calories": 200,
@@ -50,15 +73,15 @@
       "totalFat": 16,
       "totalFiber": 3,
       "notes": "Estimates based on typical portion sizes for steamed buns, mantou, dumpling, and milk.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "08:28",
       "id": 1780352896158
     }
   ],
-  "totalCalories": 560,
-  "totalProtein": 21,
-  "totalCarbs": 88,
-  "totalFat": 16,
-  "totalFiber": 3,
-  "savedAt": "2026-06-01T22:28:16.159Z"
+  "totalCalories": 1010,
+  "totalProtein": 51,
+  "totalCarbs": 138,
+  "totalFat": 31,
+  "totalFiber": 6,
+  "savedAt": "2026-06-02T02:41:48.345Z"
 }
