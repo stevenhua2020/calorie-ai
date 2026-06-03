@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-03",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "KFC wicked chicken x4",
+          "portion": "4 pieces",
+          "calories": 560,
+          "protein": 32,
+          "carbs": 20,
+          "fat": 36,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Kebab snack pack with beef and lamb, chips",
+          "portion": "small pack, 80g each meat and chips",
+          "calories": 840,
+          "protein": 46,
+          "carbs": 76,
+          "fat": 38,
+          "fiber": 8,
+          "confidence": "medium"
+        },
+        {
+          "name": "Zero coke",
+          "portion": "1 can",
+          "calories": 0,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 1400,
+      "totalProtein": 78,
+      "totalCarbs": 96,
+      "totalFat": 74,
+      "totalFiber": 10,
+      "notes": "Estimates based on typical values for these foods; actual values may vary.",
+      "label": "4 KFC wicked chicken for breakfast\nA small kebab s",
+      "time": "13:23",
+      "id": 1780456981807
+    }
+  ],
+  "totalCalories": 1400,
+  "totalProtein": 78,
+  "totalCarbs": 96,
+  "totalFat": 74,
+  "totalFiber": 10,
+  "savedAt": "2026-06-03T03:23:01.812Z"
+}
