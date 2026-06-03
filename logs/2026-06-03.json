@@ -15,12 +15,12 @@
         },
         {
           "name": "Stir-fried Chinese broccoli",
-          "portion": "small plate",
-          "calories": 40,
-          "protein": 3,
-          "carbs": 7,
-          "fat": 1,
-          "fiber": 2,
+          "portion": "small plate ×¾",
+          "calories": 30,
+          "protein": 2.3,
+          "carbs": 5.3,
+          "fat": 0.8,
+          "fiber": 1.5,
           "confidence": "medium"
         },
         {
@@ -34,11 +34,11 @@
           "confidence": "medium"
         }
       ],
-      "totalCalories": 308,
-      "totalProtein": 14,
-      "totalCarbs": 34,
-      "totalFat": 14.5,
-      "totalFiber": 8,
+      "totalCalories": 298,
+      "totalProtein": 13.3,
+      "totalCarbs": 32.3,
+      "totalFat": 14.3,
+      "totalFiber": 7.5,
       "notes": "Portion sizes were estimated based on the image as full servings.",
       "label": "📷 Photo analysis",
       "time": "20:30",
@@ -88,10 +88,10 @@
       "id": 1780456981807
     }
   ],
-  "totalCalories": 1708,
-  "totalProtein": 92,
-  "totalCarbs": 130,
-  "totalFat": 88.5,
-  "totalFiber": 18,
-  "savedAt": "2026-06-03T10:30:25.958Z"
+  "totalCalories": 1698,
+  "totalProtein": 91.3,
+  "totalCarbs": 128.3,
+  "totalFat": 88.3,
+  "totalFiber": 17.5,
+  "savedAt": "2026-06-03T10:30:30.005Z"
 }
