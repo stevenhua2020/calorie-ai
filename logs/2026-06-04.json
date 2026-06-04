@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Black garlic ramen",
+          "portion": "large bowl",
+          "calories": 600,
+          "protein": 20,
+          "carbs": 80,
+          "fat": 25,
+          "fiber": 5,
+          "confidence": "high"
+        },
+        {
+          "name": "Tempura",
+          "portion": "one piece",
+          "calories": 150,
+          "protein": 3,
+          "carbs": 18,
+          "fat": 7,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 750,
+      "totalProtein": 23,
+      "totalCarbs": 98,
+      "totalFat": 32,
+      "totalFiber": 6,
+      "notes": "Estimated values based on appearance of typical ramen and tempura.",
+      "label": "📷 Photo analysis",
+      "time": "17:45",
+      "id": 1780559136392
+    },
+    {
+      "foods": [
+        {
           "name": "Fried Eggs",
           "portion": "2 large eggs",
           "calories": 180,
@@ -70,15 +103,15 @@
       "totalFat": 43,
       "totalFiber": 6,
       "notes": "Estimates based on typical portion sizes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:10",
       "id": 1780539016731
     }
   ],
-  "totalCalories": 890,
-  "totalProtein": 42,
-  "totalCarbs": 86,
-  "totalFat": 43,
-  "totalFiber": 6,
-  "savedAt": "2026-06-04T02:10:16.733Z"
+  "totalCalories": 1640,
+  "totalProtein": 65,
+  "totalCarbs": 184,
+  "totalFat": 75,
+  "totalFiber": 12,
+  "savedAt": "2026-06-04T07:45:36.394Z"
 }
