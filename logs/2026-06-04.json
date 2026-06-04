@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-04",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Fried Eggs",
+          "portion": "2 large eggs",
+          "calories": 180,
+          "protein": 14,
+          "carbs": 1,
+          "fat": 14,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Small Sausages",
+          "portion": "2 pieces",
+          "calories": 160,
+          "protein": 8,
+          "carbs": 3,
+          "fat": 13,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Steamed Bun",
+          "portion": "1 piece",
+          "calories": 200,
+          "protein": 7,
+          "carbs": 32,
+          "fat": 5,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Dumpling",
+          "portion": "1 piece",
+          "calories": 80,
+          "protein": 3,
+          "carbs": 12,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruit Bowl with Yogurt",
+          "portion": "1 small bowl",
+          "calories": 150,
+          "protein": 4,
+          "carbs": 28,
+          "fat": 3,
+          "fiber": 3,
+          "confidence": "medium"
+        },
+        {
+          "name": "Latte",
+          "portion": "1 cup",
+          "calories": 120,
+          "protein": 6,
+          "carbs": 10,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 890,
+      "totalProtein": 42,
+      "totalCarbs": 86,
+      "totalFat": 43,
+      "totalFiber": 6,
+      "notes": "Estimates based on typical portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "12:10",
+      "id": 1780539016731
+    }
+  ],
+  "totalCalories": 890,
+  "totalProtein": 42,
+  "totalCarbs": 86,
+  "totalFat": 43,
+  "totalFiber": 6,
+  "savedAt": "2026-06-04T02:10:16.733Z"
+}
