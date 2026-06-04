@@ -5,12 +5,12 @@
       "foods": [
         {
           "name": "Black garlic ramen",
-          "portion": "large bowl",
-          "calories": 600,
-          "protein": 20,
-          "carbs": 80,
-          "fat": 25,
-          "fiber": 5,
+          "portion": "large bowl ×¾",
+          "calories": 450,
+          "protein": 15,
+          "carbs": 60,
+          "fat": 18.8,
+          "fiber": 3.8,
           "confidence": "high"
         },
         {
@@ -24,11 +24,11 @@
           "confidence": "medium"
         }
       ],
-      "totalCalories": 750,
-      "totalProtein": 23,
-      "totalCarbs": 98,
-      "totalFat": 32,
-      "totalFiber": 6,
+      "totalCalories": 600,
+      "totalProtein": 18,
+      "totalCarbs": 78,
+      "totalFat": 25.8,
+      "totalFiber": 4.8,
       "notes": "Estimated values based on appearance of typical ramen and tempura.",
       "label": "📷 Photo analysis",
       "time": "17:45",
@@ -108,10 +108,10 @@
       "id": 1780539016731
     }
   ],
-  "totalCalories": 1640,
-  "totalProtein": 65,
-  "totalCarbs": 184,
-  "totalFat": 75,
-  "totalFiber": 12,
-  "savedAt": "2026-06-04T07:45:36.394Z"
+  "totalCalories": 1490,
+  "totalProtein": 60,
+  "totalCarbs": 164,
+  "totalFat": 68.8,
+  "totalFiber": 10.8,
+  "savedAt": "2026-06-04T07:45:55.090Z"
 }
