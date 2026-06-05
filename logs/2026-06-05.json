@@ -25,19 +25,19 @@
         },
         {
           "name": "Chicken",
-          "portion": "2 oz",
-          "calories": 85,
-          "protein": 18,
+          "portion": "2 oz ×1½",
+          "calories": 128,
+          "protein": 27,
           "carbs": 0,
-          "fat": 2,
+          "fat": 3,
           "fiber": 0,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 283,
-      "totalProtein": 21.3,
+      "totalCalories": 326,
+      "totalProtein": 30.3,
       "totalCarbs": 44.9,
-      "totalFat": 2.6,
+      "totalFat": 3.6,
       "totalFiber": 1.4,
       "notes": "Estimates based on visual assessment of portion sizes.",
       "label": "📷 Photo analysis",
@@ -88,10 +88,10 @@
       "id": 1780624840280
     }
   ],
-  "totalCalories": 623,
-  "totalProtein": 32.3,
+  "totalCalories": 666,
+  "totalProtein": 41.3,
   "totalCarbs": 102.9,
-  "totalFat": 11.6,
+  "totalFat": 12.6,
   "totalFiber": 2.4,
-  "savedAt": "2026-06-05T06:36:08.208Z"
+  "savedAt": "2026-06-05T06:36:19.868Z"
 }
