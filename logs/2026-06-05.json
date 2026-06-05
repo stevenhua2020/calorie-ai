@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-05",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Steamed bun",
+          "portion": "1 piece",
+          "calories": 150,
+          "protein": 5,
+          "carbs": 30,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Dumpling",
+          "portion": "1 piece",
+          "calories": 50,
+          "protein": 2,
+          "carbs": 8,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Milk tea",
+          "portion": "1 cup",
+          "calories": 140,
+          "protein": 4,
+          "carbs": 20,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 340,
+      "totalProtein": 11,
+      "totalCarbs": 58,
+      "totalFat": 9,
+      "totalFiber": 1,
+      "notes": "Estimates are approximate based on common ingredients for these items.",
+      "label": "📷 Photo analysis",
+      "time": "12:00",
+      "id": 1780624840280
+    }
+  ],
+  "totalCalories": 340,
+  "totalProtein": 11,
+  "totalCarbs": 58,
+  "totalFat": 9,
+  "totalFiber": 1,
+  "savedAt": "2026-06-05T02:00:40.281Z"
+}
