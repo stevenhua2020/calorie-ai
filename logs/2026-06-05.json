@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Rice noodles",
+          "portion": "1 cup",
+          "calories": 190,
+          "protein": 3,
+          "carbs": 43,
+          "fat": 0.5,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Cucumber",
+          "portion": "1/2 cup",
+          "calories": 8,
+          "protein": 0.3,
+          "carbs": 1.9,
+          "fat": 0.1,
+          "fiber": 0.4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Chicken",
+          "portion": "2 oz",
+          "calories": 85,
+          "protein": 18,
+          "carbs": 0,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 283,
+      "totalProtein": 21.3,
+      "totalCarbs": 44.9,
+      "totalFat": 2.6,
+      "totalFiber": 1.4,
+      "notes": "Estimates based on visual assessment of portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "16:36",
+      "id": 1780641368205
+    },
+    {
+      "foods": [
+        {
           "name": "Steamed bun",
           "portion": "1 piece",
           "calories": 150,
@@ -40,15 +83,15 @@
       "totalFat": 9,
       "totalFiber": 1,
       "notes": "Estimates are approximate based on common ingredients for these items.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:00",
       "id": 1780624840280
     }
   ],
-  "totalCalories": 340,
-  "totalProtein": 11,
-  "totalCarbs": 58,
-  "totalFat": 9,
-  "totalFiber": 1,
-  "savedAt": "2026-06-05T02:00:40.281Z"
+  "totalCalories": 623,
+  "totalProtein": 32.3,
+  "totalCarbs": 102.9,
+  "totalFat": 11.6,
+  "totalFiber": 2.4,
+  "savedAt": "2026-06-05T06:36:08.208Z"
 }
