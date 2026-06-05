@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Noodle soup with tofu",
+          "portion": "large bowl",
+          "calories": 550,
+          "protein": 20,
+          "carbs": 85,
+          "fat": 15,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 550,
+      "totalProtein": 20,
+      "totalCarbs": 85,
+      "totalFat": 15,
+      "totalFiber": 5,
+      "notes": "Estimate based on typical noodle soup with tofu and visible ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "23:48",
+      "id": 1780667314416
+    },
+    {
+      "foods": [
+        {
           "name": "Matcha Latte",
           "portion": "medium glass",
           "calories": 150,
@@ -20,7 +43,7 @@
       "totalFat": 4,
       "totalFiber": 1,
       "notes": "Estimate based on visual appearance of a matcha latte made with milk.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "18:08",
       "id": 1780646930830
     },
@@ -48,7 +71,7 @@
         },
         {
           "name": "Chicken",
-          "portion": "2 oz Ã1Â½ Ã2Ã",
+          "portion": "2 oz ÃÂ1ÃÂ½ ÃÂ2ÃÂ",
           "calories": 256,
           "protein": 54,
           "carbs": 0,
@@ -63,7 +86,7 @@
       "totalFat": 6.6,
       "totalFiber": 1.4,
       "notes": "Estimates based on visual assessment of portion sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "16:36",
       "id": 1780641368205
     },
@@ -106,15 +129,15 @@
       "totalFat": 9,
       "totalFiber": 1,
       "notes": "Estimates are approximate based on common ingredients for these items.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "12:00",
       "id": 1780624840280
     }
   ],
-  "totalCalories": 944,
-  "totalProtein": 72.3,
-  "totalCarbs": 126.9,
-  "totalFat": 19.6,
-  "totalFiber": 3.4,
-  "savedAt": "2026-06-05T08:08:50.831Z"
+  "totalCalories": 1494,
+  "totalProtein": 92.3,
+  "totalCarbs": 211.9,
+  "totalFat": 34.6,
+  "totalFiber": 8.4,
+  "savedAt": "2026-06-05T13:48:34.417Z"
 }
