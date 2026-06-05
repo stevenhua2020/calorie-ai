@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Matcha Latte",
+          "portion": "medium glass",
+          "calories": 150,
+          "protein": 4,
+          "carbs": 24,
+          "fat": 4,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 150,
+      "totalProtein": 4,
+      "totalCarbs": 24,
+      "totalFat": 4,
+      "totalFiber": 1,
+      "notes": "Estimate based on visual appearance of a matcha latte made with milk.",
+      "label": "📷 Photo analysis",
+      "time": "18:08",
+      "id": 1780646930830
+    },
+    {
+      "foods": [
+        {
           "name": "Rice noodles",
           "portion": "1 cup",
           "calories": 190,
@@ -25,7 +48,7 @@
         },
         {
           "name": "Chicken",
-          "portion": "2 oz ×1½ ×2×",
+          "portion": "2 oz Ã1Â½ Ã2Ã",
           "calories": 256,
           "protein": 54,
           "carbs": 0,
@@ -40,7 +63,7 @@
       "totalFat": 6.6,
       "totalFiber": 1.4,
       "notes": "Estimates based on visual assessment of portion sizes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "16:36",
       "id": 1780641368205
     },
@@ -83,15 +106,15 @@
       "totalFat": 9,
       "totalFiber": 1,
       "notes": "Estimates are approximate based on common ingredients for these items.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "12:00",
       "id": 1780624840280
     }
   ],
-  "totalCalories": 794,
-  "totalProtein": 68.3,
-  "totalCarbs": 102.9,
-  "totalFat": 15.6,
-  "totalFiber": 2.4,
-  "savedAt": "2026-06-05T06:36:22.564Z"
+  "totalCalories": 944,
+  "totalProtein": 72.3,
+  "totalCarbs": 126.9,
+  "totalFat": 19.6,
+  "totalFiber": 3.4,
+  "savedAt": "2026-06-05T08:08:50.831Z"
 }
