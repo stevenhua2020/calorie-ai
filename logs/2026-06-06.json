@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Stir-fried vegetables and meat",
+          "portion": "medium portion",
+          "calories": 350,
+          "protein": 20,
+          "carbs": 15,
+          "fat": 25,
+          "fiber": 5,
+          "confidence": "medium"
+        },
+        {
+          "name": "Steamed buns",
+          "portion": "medium portion",
+          "calories": 200,
+          "protein": 5,
+          "carbs": 40,
+          "fat": 3,
+          "fiber": 2,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 550,
+      "totalProtein": 25,
+      "totalCarbs": 55,
+      "totalFat": 28,
+      "totalFiber": 7,
+      "notes": "Estimate based on portion sizes visible.",
+      "label": "📷 Photo analysis",
+      "time": "18:51",
+      "id": 1780735904235
+    },
+    {
+      "foods": [
+        {
           "name": "Cappuccino",
           "portion": "medium cup",
           "calories": 80,
@@ -20,7 +53,7 @@
       "totalFat": 4,
       "totalFiber": 0,
       "notes": "Estimate based on typical cappuccino with milk froth.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "14:22",
       "id": 1780719746631
     },
@@ -28,7 +61,7 @@
       "foods": [
         {
           "name": "Sourdough Bread",
-          "portion": "2 slices ×¾ ×½",
+          "portion": "2 slices ÃÂ¾ ÃÂ½",
           "calories": 113,
           "protein": 3.8,
           "carbs": 18.8,
@@ -103,15 +136,15 @@
       "totalFat": 51.5,
       "totalFiber": 10.5,
       "notes": "Estimates are based on standard portion sizes and typical preparation methods.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "14:21",
       "id": 1780719717852
     }
   ],
-  "totalCalories": 903,
-  "totalProtein": 40.8,
-  "totalCarbs": 63.8,
-  "totalFat": 55.5,
-  "totalFiber": 10.5,
-  "savedAt": "2026-06-06T04:22:26.631Z"
+  "totalCalories": 1453,
+  "totalProtein": 65.8,
+  "totalCarbs": 118.8,
+  "totalFat": 83.5,
+  "totalFiber": 17.5,
+  "savedAt": "2026-06-06T08:51:44.235Z"
 }
