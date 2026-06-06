@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-06",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Sourdough Bread",
+          "portion": "2 slices",
+          "calories": 300,
+          "protein": 10,
+          "carbs": 50,
+          "fat": 4,
+          "fiber": 4,
+          "confidence": "high"
+        },
+        {
+          "name": "Grilled Sausage",
+          "portion": "2 pieces",
+          "calories": 250,
+          "protein": 16,
+          "carbs": 2,
+          "fat": 20,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Roasted Tomatoes",
+          "portion": "4 pieces",
+          "calories": 20,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Hash Browns",
+          "portion": "3 pieces",
+          "calories": 180,
+          "protein": 3,
+          "carbs": 20,
+          "fat": 10,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Grilled Mushrooms",
+          "portion": "1/2 cup",
+          "calories": 40,
+          "protein": 3,
+          "carbs": 6,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Avocado",
+          "portion": "1/2",
+          "calories": 120,
+          "protein": 2,
+          "carbs": 6,
+          "fat": 11,
+          "fiber": 5,
+          "confidence": "high"
+        },
+        {
+          "name": "Grilled Cheese",
+          "portion": "1 slice",
+          "calories": 100,
+          "protein": 7,
+          "carbs": 1,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 1010,
+      "totalProtein": 42,
+      "totalCarbs": 89,
+      "totalFat": 54,
+      "totalFiber": 13,
+      "notes": "Estimates are based on standard portion sizes and typical preparation methods.",
+      "label": "📷 Photo analysis",
+      "time": "14:21",
+      "id": 1780719717852
+    }
+  ],
+  "totalCalories": 1010,
+  "totalProtein": 42,
+  "totalCarbs": 89,
+  "totalFat": 54,
+  "totalFiber": 13,
+  "savedAt": "2026-06-06T04:21:57.855Z"
+}
