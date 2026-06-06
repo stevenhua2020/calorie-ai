@@ -5,12 +5,12 @@
       "foods": [
         {
           "name": "Sourdough Bread",
-          "portion": "2 slices ×¾",
-          "calories": 225,
-          "protein": 7.5,
-          "carbs": 37.5,
-          "fat": 3,
-          "fiber": 3,
+          "portion": "2 slices ×¾ ×½",
+          "calories": 113,
+          "protein": 3.8,
+          "carbs": 18.8,
+          "fat": 1.5,
+          "fiber": 1.5,
           "confidence": "high"
         },
         {
@@ -74,21 +74,21 @@
           "confidence": "high"
         }
       ],
-      "totalCalories": 935,
-      "totalProtein": 39.5,
-      "totalCarbs": 76.5,
-      "totalFat": 53,
-      "totalFiber": 12,
+      "totalCalories": 823,
+      "totalProtein": 35.8,
+      "totalCarbs": 57.8,
+      "totalFat": 51.5,
+      "totalFiber": 10.5,
       "notes": "Estimates are based on standard portion sizes and typical preparation methods.",
       "label": "📷 Photo analysis",
       "time": "14:21",
       "id": 1780719717852
     }
   ],
-  "totalCalories": 935,
-  "totalProtein": 39.5,
-  "totalCarbs": 76.5,
-  "totalFat": 53,
-  "totalFiber": 12,
-  "savedAt": "2026-06-06T04:22:05.887Z"
+  "totalCalories": 823,
+  "totalProtein": 35.8,
+  "totalCarbs": 57.8,
+  "totalFat": 51.5,
+  "totalFiber": 10.5,
+  "savedAt": "2026-06-06T04:22:07.783Z"
 }
