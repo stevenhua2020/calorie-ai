@@ -38,30 +38,30 @@
       "foods": [
         {
           "name": "Spicy noodle soup with egg",
-          "portion": "large bowl",
-          "calories": 700,
-          "protein": 25,
-          "carbs": 100,
-          "fat": 25,
-          "fiber": 6,
+          "portion": "large bowl ×1½",
+          "calories": 1050,
+          "protein": 37.5,
+          "carbs": 150,
+          "fat": 37.5,
+          "fiber": 9,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 700,
-      "totalProtein": 25,
-      "totalCarbs": 100,
-      "totalFat": 25,
-      "totalFiber": 6,
+      "totalCalories": 1050,
+      "totalProtein": 37.5,
+      "totalCarbs": 150,
+      "totalFat": 37.5,
+      "totalFiber": 9,
       "notes": "Estimate based on appearance of ingredients like noodles, boiled egg, mushrooms, and possible broth components.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "13:43",
       "id": 1780803795160
     }
   ],
-  "totalCalories": 920,
-  "totalProtein": 34,
-  "totalCarbs": 138,
-  "totalFat": 27,
-  "totalFiber": 7,
-  "savedAt": "2026-06-07T08:33:36.802Z"
+  "totalCalories": 1270,
+  "totalProtein": 46.5,
+  "totalCarbs": 188,
+  "totalFat": 39.5,
+  "totalFiber": 10,
+  "savedAt": "2026-06-07T09:52:39.731Z"
 }
