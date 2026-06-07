@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Flat White with Skim Milk",
+          "portion": "200 ml",
+          "calories": 70,
+          "protein": 5,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Mocha Skim Milk Tea",
+          "portion": "250 ml",
+          "calories": 150,
+          "protein": 4,
+          "carbs": 28,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 220,
+      "totalProtein": 9,
+      "totalCarbs": 38,
+      "totalFat": 2,
+      "totalFiber": 1,
+      "notes": "Estimates are based on typical nutritional values for these drinks with skim milk.",
+      "label": "200 ml flat white with skim milk, and 250 ml mocha",
+      "time": "18:33",
+      "id": 1780821216802
+    },
+    {
+      "foods": [
+        {
           "name": "Spicy noodle soup with egg",
           "portion": "large bowl",
           "calories": 700,
@@ -20,15 +53,15 @@
       "totalFat": 25,
       "totalFiber": 6,
       "notes": "Estimate based on appearance of ingredients like noodles, boiled egg, mushrooms, and possible broth components.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:43",
       "id": 1780803795160
     }
   ],
-  "totalCalories": 700,
-  "totalProtein": 25,
-  "totalCarbs": 100,
-  "totalFat": 25,
-  "totalFiber": 6,
-  "savedAt": "2026-06-07T03:43:15.162Z"
+  "totalCalories": 920,
+  "totalProtein": 34,
+  "totalCarbs": 138,
+  "totalFat": 27,
+  "totalFiber": 7,
+  "savedAt": "2026-06-07T08:33:36.802Z"
 }
