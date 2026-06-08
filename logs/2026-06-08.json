@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Matcha latte with boba",
+          "portion": "medium glass",
+          "calories": 250,
+          "protein": 6,
+          "carbs": 45,
+          "fat": 5,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 250,
+      "totalProtein": 6,
+      "totalCarbs": 45,
+      "totalFat": 5,
+      "totalFiber": 1,
+      "notes": "Estimate based on appearance of matcha latte with tapioca pearls.",
+      "label": "📷 Photo analysis",
+      "time": "17:36",
+      "id": 1780904180839
+    },
+    {
+      "foods": [
+        {
           "name": "Noodle bowl with beef and egg",
           "portion": "1 medium bowl",
           "calories": 600,
@@ -20,7 +43,7 @@
       "totalFat": 20,
       "totalFiber": 5,
       "notes": "Estimate based on visible ingredients like noodles, beef, and egg.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "16:46",
       "id": 1780901167309
     },
@@ -53,15 +76,15 @@
       "totalFat": 18,
       "totalFiber": 5,
       "notes": "Estimate based on typical portion sizes for granola with yogurt and a standard latte.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "11:53",
       "id": 1780883580916
     }
   ],
-  "totalCalories": 1100,
-  "totalProtein": 47,
-  "totalCarbs": 140,
-  "totalFat": 38,
-  "totalFiber": 10,
-  "savedAt": "2026-06-08T06:46:07.310Z"
+  "totalCalories": 1350,
+  "totalProtein": 53,
+  "totalCarbs": 185,
+  "totalFat": 43,
+  "totalFiber": 11,
+  "savedAt": "2026-06-08T07:36:20.839Z"
 }
