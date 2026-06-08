@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-08",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Granola with yogurt and mixed fruits",
+          "portion": "1 cup",
+          "calories": 350,
+          "protein": 10,
+          "carbs": 55,
+          "fat": 12,
+          "fiber": 5,
+          "confidence": "medium"
+        },
+        {
+          "name": "Latte",
+          "portion": "1 cup",
+          "calories": 150,
+          "protein": 7,
+          "carbs": 15,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 500,
+      "totalProtein": 17,
+      "totalCarbs": 70,
+      "totalFat": 18,
+      "totalFiber": 5,
+      "notes": "Estimate based on typical portion sizes for granola with yogurt and a standard latte.",
+      "label": "📷 Photo analysis",
+      "time": "11:53",
+      "id": 1780883580916
+    }
+  ],
+  "totalCalories": 500,
+  "totalProtein": 17,
+  "totalCarbs": 70,
+  "totalFat": 18,
+  "totalFiber": 5,
+  "savedAt": "2026-06-08T01:53:00.916Z"
+}
