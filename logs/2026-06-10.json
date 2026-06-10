@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-10",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Rice with vegetables",
+          "portion": "1 cup",
+          "calories": 250,
+          "protein": 5,
+          "carbs": 50,
+          "fat": 3,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Papadum",
+          "portion": "1 piece",
+          "calories": 60,
+          "protein": 2,
+          "carbs": 8,
+          "fat": 3,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Fried vegetables",
+          "portion": "1/2 cup",
+          "calories": 150,
+          "protein": 2,
+          "carbs": 15,
+          "fat": 10,
+          "fiber": 3,
+          "confidence": "medium"
+        },
+        {
+          "name": "Lentil curry",
+          "portion": "1/2 cup",
+          "calories": 200,
+          "protein": 8,
+          "carbs": 30,
+          "fat": 6,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 660,
+      "totalProtein": 17,
+      "totalCarbs": 103,
+      "totalFat": 22,
+      "totalFiber": 11,
+      "notes": "Estimates based on common servings of similar dishes.",
+      "label": "📷 Photo analysis",
+      "time": "12:46",
+      "id": 1781059576039
+    }
+  ],
+  "totalCalories": 660,
+  "totalProtein": 17,
+  "totalCarbs": 103,
+  "totalFat": 22,
+  "totalFiber": 11,
+  "savedAt": "2026-06-10T02:46:16.041Z"
+}
