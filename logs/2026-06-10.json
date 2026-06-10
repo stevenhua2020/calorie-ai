@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Sichuan Green Beans",
+          "portion": "1 cup",
+          "calories": 150,
+          "protein": 4,
+          "carbs": 20,
+          "fat": 7,
+          "fiber": 5,
+          "confidence": "medium"
+        },
+        {
+          "name": "Mapo Tofu",
+          "portion": "1 cup",
+          "calories": 250,
+          "protein": 10,
+          "carbs": 15,
+          "fat": 15,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "White Rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 600,
+      "totalProtein": 18,
+      "totalCarbs": 80,
+      "totalFat": 22,
+      "totalFiber": 8,
+      "notes": "Portion sizes are estimated based on common serving sizes for these dishes.",
+      "label": "📷 Photo analysis",
+      "time": "19:02",
+      "id": 1781082179776
+    },
+    {
+      "foods": [
+        {
           "name": "Hard boiled eggs",
           "portion": "100g",
           "calories": 155,
@@ -73,15 +116,15 @@
       "totalFat": 22,
       "totalFiber": 11,
       "notes": "Estimates based on common servings of similar dishes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "12:46",
       "id": 1781059576039
     }
   ],
-  "totalCalories": 815,
-  "totalProtein": 30,
-  "totalCarbs": 104,
-  "totalFat": 33,
-  "totalFiber": 11,
-  "savedAt": "2026-06-10T07:41:39.838Z"
+  "totalCalories": 1415,
+  "totalProtein": 48,
+  "totalCarbs": 184,
+  "totalFat": 55,
+  "totalFiber": 19,
+  "savedAt": "2026-06-10T09:02:59.776Z"
 }
