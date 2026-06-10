@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-11",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Boiled Eggs",
+          "portion": "2 large eggs",
+          "calories": 140,
+          "protein": 12,
+          "carbs": 1,
+          "fat": 10,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Milk",
+          "portion": "1 cup",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Bread",
+          "portion": "1 small piece",
+          "calories": 80,
+          "protein": 2,
+          "carbs": 15,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 370,
+      "totalProtein": 22,
+      "totalCarbs": 28,
+      "totalFat": 19,
+      "totalFiber": 1,
+      "notes": "Estimates based on common portion sizes for each item.",
+      "label": "📷 Photo analysis",
+      "time": "08:19",
+      "id": 1781129953256
+    }
+  ],
+  "totalCalories": 370,
+  "totalProtein": 22,
+  "totalCarbs": 28,
+  "totalFat": 19,
+  "totalFiber": 1,
+  "savedAt": "2026-06-10T22:19:13.257Z"
+}
