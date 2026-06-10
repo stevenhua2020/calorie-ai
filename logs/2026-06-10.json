@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Hard boiled eggs",
+          "portion": "100g",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 155,
+      "totalProtein": 13,
+      "totalCarbs": 1,
+      "totalFat": 11,
+      "totalFiber": 0,
+      "notes": "Estimate based on a standard portion of two hard boiled eggs.",
+      "label": "Two hard boiled eggs 100g",
+      "time": "17:41",
+      "id": 1781077299837
+    },
+    {
+      "foods": [
+        {
           "name": "Rice with vegetables",
           "portion": "1 cup",
           "calories": 250,
@@ -50,15 +73,15 @@
       "totalFat": 22,
       "totalFiber": 11,
       "notes": "Estimates based on common servings of similar dishes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:46",
       "id": 1781059576039
     }
   ],
-  "totalCalories": 660,
-  "totalProtein": 17,
-  "totalCarbs": 103,
-  "totalFat": 22,
+  "totalCalories": 815,
+  "totalProtein": 30,
+  "totalCarbs": 104,
+  "totalFat": 33,
   "totalFiber": 11,
-  "savedAt": "2026-06-10T02:46:16.041Z"
+  "savedAt": "2026-06-10T07:41:39.838Z"
 }
