@@ -4,51 +4,51 @@
     {
       "foods": [
         {
-          "name": "Boiled Eggs",
-          "portion": "2 large eggs",
-          "calories": 140,
-          "protein": 12,
+          "name": "Hard boiled eggs",
+          "portion": "120g",
+          "calories": 170,
+          "protein": 14,
           "carbs": 1,
-          "fat": 10,
+          "fat": 12,
           "fiber": 0,
           "confidence": "high"
         },
         {
-          "name": "Milk",
-          "portion": "1 cup",
-          "calories": 150,
-          "protein": 8,
-          "carbs": 12,
-          "fat": 8,
+          "name": "Skim milk",
+          "portion": "200ml",
+          "calories": 70,
+          "protein": 7,
+          "carbs": 10,
+          "fat": 0,
           "fiber": 0,
-          "confidence": "medium"
+          "confidence": "high"
         },
         {
-          "name": "Bread",
-          "portion": "1 small piece",
-          "calories": 80,
-          "protein": 2,
-          "carbs": 15,
-          "fat": 1,
-          "fiber": 1,
-          "confidence": "medium"
+          "name": "Chicken burger with zero coke and chips",
+          "portion": "one meal",
+          "calories": 907,
+          "protein": 20,
+          "carbs": 110,
+          "fat": 40,
+          "fiber": 6,
+          "confidence": "high"
         }
       ],
-      "totalCalories": 370,
-      "totalProtein": 22,
-      "totalCarbs": 28,
-      "totalFat": 19,
-      "totalFiber": 1,
-      "notes": "Estimates based on common portion sizes for each item.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
-      "time": "08:19",
-      "id": 1781129953256
+      "totalCalories": 1147,
+      "totalProtein": 41,
+      "totalCarbs": 121,
+      "totalFat": 52,
+      "totalFiber": 6,
+      "notes": "Calorie and macro estimates are based on typical serving sizes and nutritional information. The McDonald's meal information is derived from the kilojoule value provided.",
+      "label": "Two hard boiled eggs 120g for breakfast, and 200ml",
+      "time": "13:05",
+      "id": 1781147154287
     }
   ],
-  "totalCalories": 370,
-  "totalProtein": 22,
-  "totalCarbs": 28,
-  "totalFat": 19,
-  "totalFiber": 1,
-  "savedAt": "2026-06-11T03:04:35.179Z"
+  "totalCalories": 1147,
+  "totalProtein": 41,
+  "totalCarbs": 121,
+  "totalFat": 52,
+  "totalFiber": 6,
+  "savedAt": "2026-06-11T03:05:54.288Z"
 }
