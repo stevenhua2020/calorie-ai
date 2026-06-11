@@ -4,49 +4,6 @@
     {
       "foods": [
         {
-          "name": "Hamburger with toppings",
-          "portion": "1 sandwich",
-          "calories": 500,
-          "protein": 25,
-          "carbs": 45,
-          "fat": 26,
-          "fiber": 3,
-          "confidence": "medium"
-        },
-        {
-          "name": "French fries",
-          "portion": "medium serving",
-          "calories": 340,
-          "protein": 4,
-          "carbs": 44,
-          "fat": 18,
-          "fiber": 4,
-          "confidence": "medium"
-        },
-        {
-          "name": "Soft drink",
-          "portion": "medium cup",
-          "calories": 200,
-          "protein": 0,
-          "carbs": 52,
-          "fat": 0,
-          "fiber": 0,
-          "confidence": "medium"
-        }
-      ],
-      "totalCalories": 1040,
-      "totalProtein": 29,
-      "totalCarbs": 141,
-      "totalFat": 44,
-      "totalFiber": 7,
-      "notes": "The estimates are based on typical portions from fast food chains.",
-      "label": "📷 Photo analysis",
-      "time": "12:23",
-      "id": 1781144624475
-    },
-    {
-      "foods": [
-        {
           "name": "Boiled Eggs",
           "portion": "2 large eggs",
           "calories": 140,
@@ -83,15 +40,15 @@
       "totalFat": 19,
       "totalFiber": 1,
       "notes": "Estimates based on common portion sizes for each item.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "08:19",
       "id": 1781129953256
     }
   ],
-  "totalCalories": 1410,
-  "totalProtein": 51,
-  "totalCarbs": 169,
-  "totalFat": 63,
-  "totalFiber": 8,
-  "savedAt": "2026-06-11T02:23:44.475Z"
+  "totalCalories": 370,
+  "totalProtein": 22,
+  "totalCarbs": 28,
+  "totalFat": 19,
+  "totalFiber": 1,
+  "savedAt": "2026-06-11T03:04:35.179Z"
 }
