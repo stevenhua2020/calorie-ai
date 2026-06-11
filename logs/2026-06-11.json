@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "White Rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Breaded Fish Sticks",
+          "portion": "2 sticks",
+          "calories": 200,
+          "protein": 10,
+          "carbs": 20,
+          "fat": 10,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Stir-fried Bok Choy",
+          "portion": "1 cup",
+          "calories": 20,
+          "protein": 2,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 3,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 420,
+      "totalProtein": 16,
+      "totalCarbs": 69,
+      "totalFat": 10,
+      "totalFiber": 5,
+      "notes": "Estimates are based on common portion sizes and typical preparation.",
+      "label": "📷 Photo analysis",
+      "time": "20:12",
+      "id": 1781172745538
+    },
+    {
+      "foods": [
+        {
           "name": "Hard boiled eggs",
           "portion": "120g",
           "calories": 170,
@@ -45,10 +88,10 @@
       "id": 1781147154287
     }
   ],
-  "totalCalories": 1147,
-  "totalProtein": 41,
-  "totalCarbs": 121,
-  "totalFat": 52,
-  "totalFiber": 6,
-  "savedAt": "2026-06-11T03:05:54.288Z"
+  "totalCalories": 1567,
+  "totalProtein": 57,
+  "totalCarbs": 190,
+  "totalFat": 62,
+  "totalFiber": 11,
+  "savedAt": "2026-06-11T10:12:25.540Z"
 }
