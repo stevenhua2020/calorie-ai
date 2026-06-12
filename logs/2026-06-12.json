@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-12",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Toast with fried egg",
+          "portion": "1 slice toast with 1 fried egg",
+          "calories": 180,
+          "protein": 9,
+          "carbs": 18,
+          "fat": 8,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Sausage",
+          "portion": "1 piece",
+          "calories": 100,
+          "protein": 5,
+          "carbs": 1,
+          "fat": 9,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Fruit bowl",
+          "portion": "1 small bowl",
+          "calories": 70,
+          "protein": 1,
+          "carbs": 18,
+          "fat": 0,
+          "fiber": 3,
+          "confidence": "high"
+        },
+        {
+          "name": "Latte",
+          "portion": "1 medium glass",
+          "calories": 120,
+          "protein": 6,
+          "carbs": 11,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 470,
+      "totalProtein": 21,
+      "totalCarbs": 48,
+      "totalFat": 23,
+      "totalFiber": 4,
+      "notes": "Estimated values are based on typical portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "11:26",
+      "id": 1781227566216
+    }
+  ],
+  "totalCalories": 470,
+  "totalProtein": 21,
+  "totalCarbs": 48,
+  "totalFat": 23,
+  "totalFiber": 4,
+  "savedAt": "2026-06-12T01:26:06.216Z"
+}
