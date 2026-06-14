@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Stir-fried dish with tofu skin, lotus root, and vegetables",
+          "portion": "medium pan serving",
+          "calories": 450,
+          "protein": 20,
+          "carbs": 45,
+          "fat": 20,
+          "fiber": 8,
+          "confidence": "medium"
+        },
+        {
+          "name": "White rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 44,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 650,
+      "totalProtein": 24,
+      "totalCarbs": 89,
+      "totalFat": 20,
+      "totalFiber": 9,
+      "notes": "Estimate based on visible ingredients and typical recipes.",
+      "label": "📷 Photo analysis",
+      "time": "14:57",
+      "id": 1781413038599
+    },
+    {
+      "foods": [
+        {
           "name": "Fried egg on toast",
           "portion": "2 slices",
           "calories": 300,
@@ -50,15 +83,15 @@
       "totalFat": 37,
       "totalFiber": 6,
       "notes": "Estimates based on typical portion sizes for visible items.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "11:59",
       "id": 1781402362925
     }
   ],
-  "totalCalories": 800,
-  "totalProtein": 37,
-  "totalCarbs": 76,
-  "totalFat": 37,
-  "totalFiber": 6,
-  "savedAt": "2026-06-14T01:59:22.926Z"
+  "totalCalories": 1450,
+  "totalProtein": 61,
+  "totalCarbs": 165,
+  "totalFat": 57,
+  "totalFiber": 15,
+  "savedAt": "2026-06-14T04:57:18.600Z"
 }
