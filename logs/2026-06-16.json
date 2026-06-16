@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Noodles",
+          "portion": "1 cup",
+          "calories": 220,
+          "protein": 6,
+          "carbs": 40,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Pork",
+          "portion": "2 ounces",
+          "calories": 150,
+          "protein": 15,
+          "carbs": 0,
+          "fat": 10,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Daikon",
+          "portion": "0.5 cup",
+          "calories": 20,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 390,
+      "totalProtein": 22,
+      "totalCarbs": 44,
+      "totalFat": 12,
+      "totalFiber": 2,
+      "notes": "Estimated based on visible items: noodles, pork, and daikon.",
+      "label": "📷 Photo analysis",
+      "time": "18:26",
+      "id": 1781598398414
+    },
+    {
+      "foods": [
+        {
           "name": "Snow Fungus Soup",
           "portion": "1 cup",
           "calories": 120,
@@ -20,15 +63,15 @@
       "totalFat": 0,
       "totalFiber": 5,
       "notes": "Estimate includes snow fungus and possible sweetener.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:33",
       "id": 1781595235280
     }
   ],
-  "totalCalories": 120,
-  "totalProtein": 2,
-  "totalCarbs": 30,
-  "totalFat": 0,
-  "totalFiber": 5,
-  "savedAt": "2026-06-16T07:33:55.281Z"
+  "totalCalories": 510,
+  "totalProtein": 24,
+  "totalCarbs": 74,
+  "totalFat": 12,
+  "totalFiber": 7,
+  "savedAt": "2026-06-16T08:26:38.415Z"
 }
