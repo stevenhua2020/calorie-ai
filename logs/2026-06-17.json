@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-17",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Waffle Fries",
+          "portion": "medium portion",
+          "calories": 450,
+          "protein": 6,
+          "carbs": 55,
+          "fat": 24,
+          "fiber": 5,
+          "confidence": "high"
+        },
+        {
+          "name": "Dipping Sauce 1",
+          "portion": "small serving",
+          "calories": 50,
+          "protein": 0,
+          "carbs": 8,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Dipping Sauce 2",
+          "portion": "small serving",
+          "calories": 60,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 4,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 560,
+      "totalProtein": 7,
+      "totalCarbs": 67,
+      "totalFat": 30,
+      "totalFiber": 5,
+      "notes": "Estimate based on typical portion sizes and visible items.",
+      "label": "📷 Photo analysis",
+      "time": "18:29",
+      "id": 1781684986242
+    }
+  ],
+  "totalCalories": 560,
+  "totalProtein": 7,
+  "totalCarbs": 67,
+  "totalFat": 30,
+  "totalFiber": 5,
+  "savedAt": "2026-06-17T08:29:46.245Z"
+}
