@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-19",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Granola",
+          "portion": "1/2 cup",
+          "calories": 200,
+          "protein": 5,
+          "carbs": 34,
+          "fat": 8,
+          "fiber": 3,
+          "confidence": "high"
+        },
+        {
+          "name": "Strawberries",
+          "portion": "1/4 cup",
+          "calories": 15,
+          "protein": 0,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Grapes",
+          "portion": "1/4 cup",
+          "calories": 25,
+          "protein": 0,
+          "carbs": 7,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Yogurt",
+          "portion": "1/4 cup",
+          "calories": 50,
+          "protein": 3,
+          "carbs": 6,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 290,
+      "totalProtein": 8,
+      "totalCarbs": 51,
+      "totalFat": 10,
+      "totalFiber": 4,
+      "notes": "Estimate based on typical portion sizes for granola, fruits, and yogurt.",
+      "label": "📷 Photo analysis",
+      "time": "10:44",
+      "id": 1781829868567
+    }
+  ],
+  "totalCalories": 290,
+  "totalProtein": 8,
+  "totalCarbs": 51,
+  "totalFat": 10,
+  "totalFiber": 4,
+  "savedAt": "2026-06-19T00:44:28.568Z"
+}
