@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "French toast with ice cream",
+          "portion": "2 slices with 2 scoops of ice cream",
+          "calories": 750,
+          "protein": 12,
+          "carbs": 95,
+          "fat": 34,
+          "fiber": 4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Banana",
+          "portion": "half banana",
+          "calories": 50,
+          "protein": 0,
+          "carbs": 13,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Strawberries and grapes",
+          "portion": "small handful",
+          "calories": 40,
+          "protein": 0,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Maple syrup",
+          "portion": "small cup",
+          "calories": 100,
+          "protein": 0,
+          "carbs": 26,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 940,
+      "totalProtein": 12,
+      "totalCarbs": 144,
+      "totalFat": 34,
+      "totalFiber": 6,
+      "notes": "Estimates based on common servings and visual analysis.",
+      "label": "📷 Photo analysis",
+      "time": "12:42",
+      "id": 1781836954759
+    },
+    {
+      "foods": [
+        {
           "name": "Granola",
           "portion": "1/2 cup",
           "calories": 200,
@@ -50,15 +103,15 @@
       "totalFat": 10,
       "totalFiber": 4,
       "notes": "Estimate based on typical portion sizes for granola, fruits, and yogurt.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "10:44",
       "id": 1781829868567
     }
   ],
-  "totalCalories": 290,
-  "totalProtein": 8,
-  "totalCarbs": 51,
-  "totalFat": 10,
-  "totalFiber": 4,
-  "savedAt": "2026-06-19T00:44:28.568Z"
+  "totalCalories": 1230,
+  "totalProtein": 20,
+  "totalCarbs": 195,
+  "totalFat": 44,
+  "totalFiber": 10,
+  "savedAt": "2026-06-19T02:42:34.760Z"
 }
