@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Noodle soup with egg",
+          "portion": "large bowl",
+          "calories": 550,
+          "protein": 20,
+          "carbs": 60,
+          "fat": 22,
+          "fiber": 4,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 550,
+      "totalProtein": 20,
+      "totalCarbs": 60,
+      "totalFat": 22,
+      "totalFiber": 4,
+      "notes": "Estimate based on typical ingredients like noodles, broth, vegetables, and egg.",
+      "label": "📷 Photo analysis",
+      "time": "20:36",
+      "id": 1782038195178
+    },
+    {
+      "foods": [
+        {
           "name": "Roasted lamb chops",
           "portion": "120g",
           "calories": 330,
@@ -30,7 +53,7 @@
       "totalFat": 25,
       "totalFiber": 1,
       "notes": "The estimates assume typical preparation for roasted lamb and raw shredded cabbage.",
-      "label": "烤小羊排 120g  手撕包菜 70g",
+      "label": "ç¤å°ç¾æ 120g  ææåè 70g",
       "time": "20:35",
       "id": 1782038135509
     },
@@ -53,7 +76,7 @@
       "totalFat": 20,
       "totalFiber": 4,
       "notes": "Estimated based on a typical beef stir fry dish with vegetables and sauce.",
-      "label": "çèçå 150",
+      "label": "Ã§ÂÂÃ¨ÂÂÃ§ÂÂÃ¥ÂÂ 150",
       "time": "17:51",
       "id": 1782028308111
     },
@@ -86,15 +109,15 @@
       "totalFat": 5,
       "totalFiber": 4,
       "notes": "The portion sizes are estimated based on visual cues.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "14:46",
       "id": 1782017213997
     }
   ],
-  "totalCalories": 1045,
-  "totalProtein": 61,
-  "totalCarbs": 84,
-  "totalFat": 50,
-  "totalFiber": 9,
-  "savedAt": "2026-06-21T10:35:35.510Z"
+  "totalCalories": 1595,
+  "totalProtein": 81,
+  "totalCarbs": 144,
+  "totalFat": 72,
+  "totalFiber": 13,
+  "savedAt": "2026-06-21T10:36:35.178Z"
 }
