@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Roasted lamb chops",
+          "portion": "120g",
+          "calories": 330,
+          "protein": 27,
+          "carbs": 0,
+          "fat": 25,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Shredded cabbage",
+          "portion": "70g",
+          "calories": 15,
+          "protein": 1,
+          "carbs": 3,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 345,
+      "totalProtein": 28,
+      "totalCarbs": 3,
+      "totalFat": 25,
+      "totalFiber": 1,
+      "notes": "The estimates assume typical preparation for roasted lamb and raw shredded cabbage.",
+      "label": "烤小羊排 120g  手撕包菜 70g",
+      "time": "20:35",
+      "id": 1782038135509
+    },
+    {
+      "foods": [
+        {
           "name": "Beef Stir Fry",
           "portion": "1 plate",
           "calories": 450,
@@ -20,7 +53,7 @@
       "totalFat": 20,
       "totalFiber": 4,
       "notes": "Estimated based on a typical beef stir fry dish with vegetables and sauce.",
-      "label": "牛肉炒囊 150",
+      "label": "çèçå 150",
       "time": "17:51",
       "id": 1782028308111
     },
@@ -53,15 +86,15 @@
       "totalFat": 5,
       "totalFiber": 4,
       "notes": "The portion sizes are estimated based on visual cues.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "14:46",
       "id": 1782017213997
     }
   ],
-  "totalCalories": 700,
-  "totalProtein": 33,
-  "totalCarbs": 81,
-  "totalFat": 25,
-  "totalFiber": 8,
-  "savedAt": "2026-06-21T07:51:48.111Z"
+  "totalCalories": 1045,
+  "totalProtein": 61,
+  "totalCarbs": 84,
+  "totalFat": 50,
+  "totalFiber": 9,
+  "savedAt": "2026-06-21T10:35:35.510Z"
 }
