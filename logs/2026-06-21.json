@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-21",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Boiled yam",
+          "portion": "3 small pieces",
+          "calories": 180,
+          "protein": 2,
+          "carbs": 40,
+          "fat": 0,
+          "fiber": 4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Boiled egg",
+          "portion": "1 whole",
+          "calories": 70,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 250,
+      "totalProtein": 8,
+      "totalCarbs": 41,
+      "totalFat": 5,
+      "totalFiber": 4,
+      "notes": "The portion sizes are estimated based on visual cues.",
+      "label": "📷 Photo analysis",
+      "time": "14:46",
+      "id": 1782017213997
+    }
+  ],
+  "totalCalories": 250,
+  "totalProtein": 8,
+  "totalCarbs": 41,
+  "totalFat": 5,
+  "totalFiber": 4,
+  "savedAt": "2026-06-21T04:46:53.998Z"
+}
