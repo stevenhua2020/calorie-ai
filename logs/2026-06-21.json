@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Beef Stir Fry",
+          "portion": "1 plate",
+          "calories": 450,
+          "protein": 25,
+          "carbs": 40,
+          "fat": 20,
+          "fiber": 4,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 450,
+      "totalProtein": 25,
+      "totalCarbs": 40,
+      "totalFat": 20,
+      "totalFiber": 4,
+      "notes": "Estimated based on a typical beef stir fry dish with vegetables and sauce.",
+      "label": "牛肉炒囊 150",
+      "time": "17:51",
+      "id": 1782028308111
+    },
+    {
+      "foods": [
+        {
           "name": "Boiled yam",
           "portion": "3 small pieces",
           "calories": 180,
@@ -35,10 +58,10 @@
       "id": 1782017213997
     }
   ],
-  "totalCalories": 250,
-  "totalProtein": 8,
-  "totalCarbs": 41,
-  "totalFat": 5,
-  "totalFiber": 4,
-  "savedAt": "2026-06-21T07:51:04.194Z"
+  "totalCalories": 700,
+  "totalProtein": 33,
+  "totalCarbs": 81,
+  "totalFat": 25,
+  "totalFiber": 8,
+  "savedAt": "2026-06-21T07:51:48.111Z"
 }
