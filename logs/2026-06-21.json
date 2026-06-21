@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Seasoned roasted potato wedges",
+          "portion": "medium plate",
+          "calories": 400,
+          "protein": 5,
+          "carbs": 60,
+          "fat": 18,
+          "fiber": 7,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 400,
+      "totalProtein": 5,
+      "totalCarbs": 60,
+      "totalFat": 18,
+      "totalFiber": 7,
+      "notes": "The estimate assumes the dish consists mainly of potatoes with seasoning.",
+      "label": "📷 Photo analysis",
+      "time": "17:50",
+      "id": 1782028212550
+    },
+    {
+      "foods": [
+        {
           "name": "Boiled yam",
           "portion": "3 small pieces",
           "calories": 180,
@@ -30,15 +53,15 @@
       "totalFat": 5,
       "totalFiber": 4,
       "notes": "The portion sizes are estimated based on visual cues.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "14:46",
       "id": 1782017213997
     }
   ],
-  "totalCalories": 250,
-  "totalProtein": 8,
-  "totalCarbs": 41,
-  "totalFat": 5,
-  "totalFiber": 4,
-  "savedAt": "2026-06-21T04:46:53.998Z"
+  "totalCalories": 650,
+  "totalProtein": 13,
+  "totalCarbs": 101,
+  "totalFat": 23,
+  "totalFiber": 11,
+  "savedAt": "2026-06-21T07:50:12.551Z"
 }
