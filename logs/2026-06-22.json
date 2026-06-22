@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-22",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Moin moin",
+          "portion": "medium",
+          "calories": 400,
+          "protein": 10,
+          "carbs": 60,
+          "fat": 15,
+          "fiber": 8,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 400,
+      "totalProtein": 10,
+      "totalCarbs": 60,
+      "totalFat": 15,
+      "totalFiber": 8,
+      "notes": "Estimate based on a typical portion of moin moin.",
+      "label": "📷 Photo analysis",
+      "time": "10:21",
+      "id": 1782087668063
+    }
+  ],
+  "totalCalories": 400,
+  "totalProtein": 10,
+  "totalCarbs": 60,
+  "totalFat": 15,
+  "totalFiber": 8,
+  "savedAt": "2026-06-22T00:21:08.064Z"
+}
