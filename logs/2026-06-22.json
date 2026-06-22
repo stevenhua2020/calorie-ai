@@ -1,10 +1,34 @@
 {
   "date": "2026-06-22",
-  "entries": [],
-  "totalCalories": 0,
-  "totalProtein": 0,
-  "totalCarbs": 0,
-  "totalFat": 0,
-  "totalFiber": 0,
-  "savedAt": "2026-06-22T00:21:25.857Z"
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "白粽子",
+          "portion": "120g",
+          "calories": 220,
+          "protein": 4,
+          "carbs": 48,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 220,
+      "totalProtein": 4,
+      "totalCarbs": 48,
+      "totalFat": 1,
+      "totalFiber": 1,
+      "notes": "Estimate based on typical nutritional content of 白粽子.",
+      "label": "120g白粽子",
+      "time": "10:21",
+      "id": 1782087713088
+    }
+  ],
+  "totalCalories": 220,
+  "totalProtein": 4,
+  "totalCarbs": 48,
+  "totalFat": 1,
+  "totalFiber": 1,
+  "savedAt": "2026-06-22T00:21:53.088Z"
 }
