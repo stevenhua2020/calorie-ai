@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-25",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Granola with fruit and yogurt",
+          "portion": "medium bowl",
+          "calories": 350,
+          "protein": 10,
+          "carbs": 60,
+          "fat": 12,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 350,
+      "totalProtein": 10,
+      "totalCarbs": 60,
+      "totalFat": 12,
+      "totalFiber": 5,
+      "notes": "Estimate includes granola, yogurt, strawberries, raspberries, and kiwi.",
+      "label": "📷 Photo analysis",
+      "time": "11:31",
+      "id": 1782351113646
+    }
+  ],
+  "totalCalories": 350,
+  "totalProtein": 10,
+  "totalCarbs": 60,
+  "totalFat": 12,
+  "totalFiber": 5,
+  "savedAt": "2026-06-25T01:31:53.647Z"
+}
