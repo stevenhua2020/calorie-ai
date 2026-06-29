@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-29",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Fried egg on toast",
+          "portion": "1 egg on 2 slices of toast",
+          "calories": 280,
+          "protein": 15,
+          "carbs": 30,
+          "fat": 10,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Small sausages",
+          "portion": "2 pieces",
+          "calories": 180,
+          "protein": 8,
+          "carbs": 2,
+          "fat": 16,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruit bowl with yogurt",
+          "portion": "1 small bowl",
+          "calories": 150,
+          "protein": 3,
+          "carbs": 30,
+          "fat": 2,
+          "fiber": 4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Cappuccino",
+          "portion": "1 cup",
+          "calories": 80,
+          "protein": 4,
+          "carbs": 10,
+          "fat": 3,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 690,
+      "totalProtein": 30,
+      "totalCarbs": 72,
+      "totalFat": 31,
+      "totalFiber": 6,
+      "notes": "Portion sizes and contents are based on visual estimation.",
+      "label": "📷 Photo analysis",
+      "time": "11:16",
+      "id": 1782695804913
+    }
+  ],
+  "totalCalories": 690,
+  "totalProtein": 30,
+  "totalCarbs": 72,
+  "totalFat": 31,
+  "totalFiber": 6,
+  "savedAt": "2026-06-29T01:16:44.915Z"
+}
