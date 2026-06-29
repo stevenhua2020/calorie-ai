@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Bubble Tea",
+          "portion": "medium glass",
+          "calories": 250,
+          "protein": 4,
+          "carbs": 40,
+          "fat": 8,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 250,
+      "totalProtein": 4,
+      "totalCarbs": 40,
+      "totalFat": 8,
+      "totalFiber": 1,
+      "notes": "Estimate based on visible size and typical ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "15:59",
+      "id": 1782712792793
+    },
+    {
+      "foods": [
+        {
           "name": "Breaded chicken fillet",
           "portion": "medium piece",
           "calories": 220,
@@ -40,7 +63,7 @@
       "totalFat": 12,
       "totalFiber": 3,
       "notes": "Portion sizes and ingredients estimated based on typical serving sizes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:35",
       "id": 1782711325097
     },
@@ -93,15 +116,15 @@
       "totalFat": 31,
       "totalFiber": 6,
       "notes": "Portion sizes and contents are based on visual estimation.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "11:16",
       "id": 1782695804913
     }
   ],
-  "totalCalories": 1120,
-  "totalProtein": 50,
-  "totalCarbs": 134,
-  "totalFat": 43,
-  "totalFiber": 9,
-  "savedAt": "2026-06-29T05:35:25.097Z"
+  "totalCalories": 1370,
+  "totalProtein": 54,
+  "totalCarbs": 174,
+  "totalFat": 51,
+  "totalFiber": 10,
+  "savedAt": "2026-06-29T05:59:52.794Z"
 }
