@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Breaded chicken fillet",
+          "portion": "medium piece",
+          "calories": 220,
+          "protein": 15,
+          "carbs": 15,
+          "fat": 12,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Cooked white rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Steamed bok choy",
+          "portion": "1/2 cup",
+          "calories": 10,
+          "protein": 1,
+          "carbs": 2,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 430,
+      "totalProtein": 20,
+      "totalCarbs": 62,
+      "totalFat": 12,
+      "totalFiber": 3,
+      "notes": "Portion sizes and ingredients estimated based on typical serving sizes.",
+      "label": "📷 Photo analysis",
+      "time": "15:35",
+      "id": 1782711325097
+    },
+    {
+      "foods": [
+        {
           "name": "Fried egg on toast",
           "portion": "1 egg on 2 slices of toast",
           "calories": 280,
@@ -50,15 +93,15 @@
       "totalFat": 31,
       "totalFiber": 6,
       "notes": "Portion sizes and contents are based on visual estimation.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "11:16",
       "id": 1782695804913
     }
   ],
-  "totalCalories": 690,
-  "totalProtein": 30,
-  "totalCarbs": 72,
-  "totalFat": 31,
-  "totalFiber": 6,
-  "savedAt": "2026-06-29T01:16:44.915Z"
+  "totalCalories": 1120,
+  "totalProtein": 50,
+  "totalCarbs": 134,
+  "totalFat": 43,
+  "totalFiber": 9,
+  "savedAt": "2026-06-29T05:35:25.097Z"
 }
