@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Ramen noodles with vegetables and tofu",
+          "portion": "large bowl",
+          "calories": 500,
+          "protein": 16,
+          "carbs": 70,
+          "fat": 18,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 500,
+      "totalProtein": 16,
+      "totalCarbs": 70,
+      "totalFat": 18,
+      "totalFiber": 5,
+      "notes": "Estimate includes noodles, tofu, and visible vegetables.",
+      "label": "📷 Photo analysis",
+      "time": "20:25",
+      "id": 1782728739091
+    },
+    {
+      "foods": [
+        {
           "name": "Bubble Tea",
           "portion": "medium glass",
           "calories": 250,
@@ -20,7 +43,7 @@
       "totalFat": 8,
       "totalFiber": 1,
       "notes": "Estimate based on visible size and typical ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:59",
       "id": 1782712792793
     },
@@ -63,7 +86,7 @@
       "totalFat": 12,
       "totalFiber": 3,
       "notes": "Portion sizes and ingredients estimated based on typical serving sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "15:35",
       "id": 1782711325097
     },
@@ -116,15 +139,15 @@
       "totalFat": 31,
       "totalFiber": 6,
       "notes": "Portion sizes and contents are based on visual estimation.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "11:16",
       "id": 1782695804913
     }
   ],
-  "totalCalories": 1370,
-  "totalProtein": 54,
-  "totalCarbs": 174,
-  "totalFat": 51,
-  "totalFiber": 10,
-  "savedAt": "2026-06-29T05:59:52.794Z"
+  "totalCalories": 1870,
+  "totalProtein": 70,
+  "totalCarbs": 244,
+  "totalFat": 69,
+  "totalFiber": 15,
+  "savedAt": "2026-06-29T10:25:39.092Z"
 }
