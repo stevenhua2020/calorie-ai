@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Grilled Chicken with Sauce",
+          "portion": "1 large piece",
+          "calories": 380,
+          "protein": 45,
+          "carbs": 10,
+          "fat": 18,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 380,
+      "totalProtein": 45,
+      "totalCarbs": 10,
+      "totalFat": 18,
+      "totalFiber": 0,
+      "notes": "Estimated values for grilled chicken with sauce. Sauce contributes to carbs.",
+      "label": "📷 Photo analysis",
+      "time": "19:17",
+      "id": 1782811040956
+    },
+    {
+      "foods": [
+        {
           "name": "Yogurt with strawberries, blackberries, and peach slices",
           "portion": "small bowl",
           "calories": 180,
@@ -20,7 +43,7 @@
       "totalFat": 4,
       "totalFiber": 4,
       "notes": "Estimate based on typical serving size of yogurt with fresh fruit.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:22",
       "id": 1782786121749
     },
@@ -63,15 +86,15 @@
       "totalFat": 24,
       "totalFiber": 5,
       "notes": "Estimated values based on typical ingredients and portion sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "10:32",
       "id": 1782779555228
     }
   ],
-  "totalCalories": 810,
-  "totalProtein": 33,
-  "totalCarbs": 122,
-  "totalFat": 28,
+  "totalCalories": 1190,
+  "totalProtein": 78,
+  "totalCarbs": 132,
+  "totalFat": 46,
   "totalFiber": 9,
-  "savedAt": "2026-06-30T02:22:01.750Z"
+  "savedAt": "2026-06-30T09:17:20.957Z"
 }
