@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Yogurt with strawberries, blackberries, and peach slices",
+          "portion": "small bowl",
+          "calories": 180,
+          "protein": 6,
+          "carbs": 30,
+          "fat": 4,
+          "fiber": 4,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 180,
+      "totalProtein": 6,
+      "totalCarbs": 30,
+      "totalFat": 4,
+      "totalFiber": 4,
+      "notes": "Estimate based on typical serving size of yogurt with fresh fruit.",
+      "label": "📷 Photo analysis",
+      "time": "12:22",
+      "id": 1782786121749
+    },
+    {
+      "foods": [
+        {
           "name": "Fried eggs on toast",
           "portion": "2 servings",
           "calories": 360,
@@ -40,15 +63,15 @@
       "totalFat": 24,
       "totalFiber": 5,
       "notes": "Estimated values based on typical ingredients and portion sizes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "10:32",
       "id": 1782779555228
     }
   ],
-  "totalCalories": 630,
-  "totalProtein": 27,
-  "totalCarbs": 92,
-  "totalFat": 24,
-  "totalFiber": 5,
-  "savedAt": "2026-06-30T00:32:35.229Z"
+  "totalCalories": 810,
+  "totalProtein": 33,
+  "totalCarbs": 122,
+  "totalFat": 28,
+  "totalFiber": 9,
+  "savedAt": "2026-06-30T02:22:01.750Z"
 }
