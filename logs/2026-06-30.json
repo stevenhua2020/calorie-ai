@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-30",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Fried eggs on toast",
+          "portion": "2 servings",
+          "calories": 360,
+          "protein": 18,
+          "carbs": 45,
+          "fat": 18,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Dates",
+          "portion": "2 pieces",
+          "calories": 120,
+          "protein": 1,
+          "carbs": 32,
+          "fat": 0,
+          "fiber": 3,
+          "confidence": "high"
+        },
+        {
+          "name": "Latte",
+          "portion": "1 medium glass",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 15,
+          "fat": 6,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 630,
+      "totalProtein": 27,
+      "totalCarbs": 92,
+      "totalFat": 24,
+      "totalFiber": 5,
+      "notes": "Estimated values based on typical ingredients and portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "10:32",
+      "id": 1782779555228
+    }
+  ],
+  "totalCalories": 630,
+  "totalProtein": 27,
+  "totalCarbs": 92,
+  "totalFat": 24,
+  "totalFiber": 5,
+  "savedAt": "2026-06-30T00:32:35.229Z"
+}
