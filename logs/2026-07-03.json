@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Spicy noodle soup with vegetables and egg",
+          "portion": "medium bowl",
+          "calories": 450,
+          "protein": 18,
+          "carbs": 55,
+          "fat": 18,
+          "fiber": 6,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 450,
+      "totalProtein": 18,
+      "totalCarbs": 55,
+      "totalFat": 18,
+      "totalFiber": 6,
+      "notes": "Estimated based on typical ingredients in a spicy noodle soup.",
+      "label": "📷 Photo analysis",
+      "time": "19:46",
+      "id": 1783072005210
+    },
+    {
+      "foods": [
+        {
           "name": "Pan-fried breaded fish",
           "portion": "1 piece",
           "calories": 200,
@@ -40,15 +63,15 @@
       "totalFat": 10.5,
       "totalFiber": 3,
       "notes": "Calories and macros are estimated based on typical portions and preparation methods.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:01",
       "id": 1783054908784
     }
   ],
-  "totalCalories": 415,
-  "totalProtein": 19.5,
-  "totalCarbs": 62,
-  "totalFat": 10.5,
-  "totalFiber": 3,
-  "savedAt": "2026-07-03T05:01:48.784Z"
+  "totalCalories": 865,
+  "totalProtein": 37.5,
+  "totalCarbs": 117,
+  "totalFat": 28.5,
+  "totalFiber": 9,
+  "savedAt": "2026-07-03T09:46:45.211Z"
 }
