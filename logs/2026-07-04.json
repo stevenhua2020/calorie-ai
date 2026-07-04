@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-04",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Pork Belly",
+          "portion": "small portion",
+          "calories": 220,
+          "protein": 18,
+          "carbs": 2,
+          "fat": 16,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Spicy Pork Stew",
+          "portion": "medium bowl",
+          "calories": 350,
+          "protein": 24,
+          "carbs": 10,
+          "fat": 24,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Cabbage Salad",
+          "portion": "small portion",
+          "calories": 50,
+          "protein": 1,
+          "carbs": 8,
+          "fat": 2,
+          "fiber": 3,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 620,
+      "totalProtein": 43,
+      "totalCarbs": 20,
+      "totalFat": 42,
+      "totalFiber": 5,
+      "notes": "Estimates based on visible ingredients and typical portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "14:02",
+      "id": 1783137729402
+    }
+  ],
+  "totalCalories": 620,
+  "totalProtein": 43,
+  "totalCarbs": 20,
+  "totalFat": 42,
+  "totalFiber": 5,
+  "savedAt": "2026-07-04T04:02:09.403Z"
+}
