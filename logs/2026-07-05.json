@@ -4,6 +4,69 @@
     {
       "foods": [
         {
+          "name": "Steamed White Rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Stir-fried Beef with Peppers",
+          "portion": "1 cup",
+          "calories": 250,
+          "protein": 20,
+          "carbs": 10,
+          "fat": 15,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Braised Pork Belly",
+          "portion": "1/2 cup",
+          "calories": 300,
+          "protein": 15,
+          "carbs": 5,
+          "fat": 25,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Fried Tofu with Vegetables",
+          "portion": "1 cup",
+          "calories": 260,
+          "protein": 15,
+          "carbs": 20,
+          "fat": 15,
+          "fiber": 4,
+          "confidence": "medium"
+        },
+        {
+          "name": "Steamed Lettuce with Sauce",
+          "portion": "1 cup",
+          "calories": 50,
+          "protein": 2,
+          "carbs": 8,
+          "fat": 2,
+          "fiber": 3,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 1060,
+      "totalProtein": 56,
+      "totalCarbs": 88,
+      "totalFat": 57,
+      "totalFiber": 10,
+      "notes": "Portions estimated based on typical servings. Macros approximate.",
+      "label": "📷 Photo analysis",
+      "time": "20:42",
+      "id": 1783248171311
+    },
+    {
+      "foods": [
+        {
           "name": "Hard boiled egg",
           "portion": "55g",
           "calories": 78,
@@ -28,7 +91,7 @@
       "foods": [
         {
           "name": "Noodle soup with vegetables and meat",
-          "portion": "large bowl ×¾",
+          "portion": "large bowl ÃÂ¾",
           "calories": 450,
           "protein": 22.5,
           "carbs": 60,
@@ -43,15 +106,15 @@
       "totalFat": 13.5,
       "totalFiber": 4.5,
       "notes": "Estimate based on visible ingredients such as noodles, meat, and vegetables.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:27",
       "id": 1783222047828
     }
   ],
-  "totalCalories": 528,
-  "totalProtein": 28.5,
-  "totalCarbs": 61,
-  "totalFat": 18.5,
-  "totalFiber": 4.5,
-  "savedAt": "2026-07-05T03:27:52.192Z"
+  "totalCalories": 1588,
+  "totalProtein": 84.5,
+  "totalCarbs": 149,
+  "totalFat": 75.5,
+  "totalFiber": 14.5,
+  "savedAt": "2026-07-05T10:42:51.312Z"
 }
