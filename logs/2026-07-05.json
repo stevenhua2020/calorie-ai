@@ -5,30 +5,30 @@
       "foods": [
         {
           "name": "Noodle soup with vegetables and meat",
-          "portion": "large bowl",
-          "calories": 600,
-          "protein": 30,
-          "carbs": 80,
-          "fat": 18,
-          "fiber": 6,
+          "portion": "large bowl ×¾",
+          "calories": 450,
+          "protein": 22.5,
+          "carbs": 60,
+          "fat": 13.5,
+          "fiber": 4.5,
           "confidence": "medium"
         }
       ],
-      "totalCalories": 600,
-      "totalProtein": 30,
-      "totalCarbs": 80,
-      "totalFat": 18,
-      "totalFiber": 6,
+      "totalCalories": 450,
+      "totalProtein": 22.5,
+      "totalCarbs": 60,
+      "totalFat": 13.5,
+      "totalFiber": 4.5,
       "notes": "Estimate based on visible ingredients such as noodles, meat, and vegetables.",
       "label": "📷 Photo analysis",
       "time": "13:27",
       "id": 1783222047828
     }
   ],
-  "totalCalories": 600,
-  "totalProtein": 30,
-  "totalCarbs": 80,
-  "totalFat": 18,
-  "totalFiber": 6,
-  "savedAt": "2026-07-05T03:27:27.829Z"
+  "totalCalories": 450,
+  "totalProtein": 22.5,
+  "totalCarbs": 60,
+  "totalFat": 13.5,
+  "totalFiber": 4.5,
+  "savedAt": "2026-07-05T03:27:38.498Z"
 }
