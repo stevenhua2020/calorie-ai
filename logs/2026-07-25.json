@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Zero Fanta",
+          "portion": "500ml",
+          "calories": 0,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 0,
+      "totalProtein": 0,
+      "totalCarbs": 0,
+      "totalFat": 0,
+      "totalFiber": 0,
+      "notes": "Zero-calorie soft drink with artificial sweeteners contains negligible calories and macros.",
+      "label": "500ml zero fanta",
+      "time": "22:42",
+      "id": 1784983339981
+    },
+    {
+      "foods": [
+        {
           "name": "芋圆甜品 (Taro Balls Dessert)",
           "portion": "100g",
           "calories": 180,
@@ -149,5 +172,5 @@
   "totalCarbs": 217,
   "totalFat": 54.5,
   "totalFiber": 15,
-  "savedAt": "2026-07-25T12:41:03.078Z"
+  "savedAt": "2026-07-25T12:42:19.982Z"
 }
