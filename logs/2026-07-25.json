@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "芋圆甜品 (Taro Balls Dessert)",
+          "portion": "100g",
+          "calories": 180,
+          "protein": 1,
+          "carbs": 40,
+          "fat": 2,
+          "fiber": 2,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 180,
+      "totalProtein": 1,
+      "totalCarbs": 40,
+      "totalFat": 2,
+      "totalFiber": 2,
+      "notes": "The estimates are based on typical nutritional values for taro balls and similar dessert components.",
+      "label": "100g芋圆甜品",
+      "time": "22:41",
+      "id": 1784983263077
+    },
+    {
+      "foods": [
+        {
           "name": "锅包肉",
           "portion": "120g",
           "calories": 350,
@@ -121,10 +144,10 @@
       "id": 1784951056277
     }
   ],
-  "totalCalories": 1408,
-  "totalProtein": 59,
-  "totalCarbs": 177,
-  "totalFat": 52.5,
-  "totalFiber": 13,
-  "savedAt": "2026-07-25T12:40:27.546Z"
+  "totalCalories": 1588,
+  "totalProtein": 60,
+  "totalCarbs": 217,
+  "totalFat": 54.5,
+  "totalFiber": 15,
+  "savedAt": "2026-07-25T12:41:03.078Z"
 }
