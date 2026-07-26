@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Pomelo segments",
+          "portion": "1 cup",
+          "calories": 72,
+          "protein": 1,
+          "carbs": 18,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 72,
+      "totalProtein": 1,
+      "totalCarbs": 18,
+      "totalFat": 0,
+      "totalFiber": 2,
+      "notes": "The estimate is based on common portion size for peeled pomelo.",
+      "label": "📷 Photo analysis",
+      "time": "22:01",
+      "id": 1785067319582
+    },
+    {
+      "foods": [
+        {
           "name": "Rice noodles",
           "portion": "120g",
           "calories": 130,
@@ -50,14 +73,14 @@
       "totalFat": 4,
       "totalFiber": 7,
       "notes": "Calorie and macro estimates are based on typical nutritional content of the specified amounts of each ingredient.",
-      "label": "120g米粉 80g藕 50g豆腐 120g白菜",
+      "label": "120gç±³ç² 80gè 50gè±è 120gç½è",
       "time": "21:23",
       "id": 1785064981651
     },
     {
       "foods": [
         {
-          "name": "è¨å¶é©¬",
+          "name": "Ã¨ÂÂ¨Ã¥ÂÂ¶Ã©Â©Â¬",
           "portion": "40g",
           "calories": 170,
           "protein": 2,
@@ -67,7 +90,7 @@
           "confidence": "medium"
         },
         {
-          "name": "çç±³è±",
+          "name": "Ã§ÂÂÃ§Â±Â³Ã¨ÂÂ±",
           "portion": "20g",
           "calories": 80,
           "protein": 1,
@@ -93,7 +116,7 @@
       "totalFat": 10,
       "totalFiber": 3,
       "notes": "Estimated based on typical portions and ingredients for the listed items.",
-      "label": "40gè¨å¶é©¬ 20gçç±³è± 300ml mocha skim milk tea",
+      "label": "40gÃ¨ÂÂ¨Ã¥ÂÂ¶Ã©Â©Â¬ 20gÃ§ÂÂÃ§Â±Â³Ã¨ÂÂ± 300ml mocha skim milk tea",
       "time": "18:09",
       "id": 1785053392179
     },
@@ -123,7 +146,7 @@
     {
       "foods": [
         {
-          "name": "ÃÂ©ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ¨ÃÂÃÂ",
+          "name": "ÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ",
           "portion": "50g",
           "calories": 180,
           "protein": 7,
@@ -133,7 +156,7 @@
           "confidence": "medium"
         },
         {
-          "name": "ÃÂ¨ÃÂÃÂÃÂ¤ÃÂ¹ÃÂ³ÃÂ¥ÃÂ°ÃÂÃÂ§ÃÂÃÂ½ÃÂ¨ÃÂÃÂ",
+          "name": "ÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ¤ÃÂÃÂ¹ÃÂÃÂ³ÃÂÃÂ¥ÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ½ÃÂÃÂ¨ÃÂÃÂÃÂÃÂ",
           "portion": "60g",
           "calories": 75,
           "protein": 3,
@@ -143,7 +166,7 @@
           "confidence": "medium"
         },
         {
-          "name": "ÃÂ§ÃÂÃÂ½ÃÂ§ÃÂ±ÃÂ³ÃÂ©ÃÂ¥ÃÂ­",
+          "name": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂ½ÃÂÃÂ§ÃÂÃÂ±ÃÂÃÂ³ÃÂÃÂ©ÃÂÃÂ¥ÃÂÃÂ­",
           "portion": "50g",
           "calories": 65,
           "protein": 1,
@@ -169,15 +192,15 @@
       "totalFat": 16,
       "totalFiber": 2,
       "notes": "Estimated based on typical portion sizes and food items.",
-      "label": "50gÃÂ©ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ¨ÃÂÃÂ 60gÃÂ¨ÃÂÃÂÃÂ¤ÃÂ¹ÃÂ³ÃÂ¥ÃÂ°ÃÂÃÂ§ÃÂÃÂ½ÃÂ¨ÃÂÃÂ 50gÃÂ§ÃÂÃÂ½ÃÂ§ÃÂ±ÃÂ³ÃÂ©ÃÂ¥ÃÂ­ 200ml cuppcino ",
+      "label": "50gÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ 60gÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ¤ÃÂÃÂ¹ÃÂÃÂ³ÃÂÃÂ¥ÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ½ÃÂÃÂ¨ÃÂÃÂÃÂÃÂ 50gÃÂÃÂ§ÃÂÃÂÃÂÃÂ½ÃÂÃÂ§ÃÂÃÂ±ÃÂÃÂ³ÃÂÃÂ©ÃÂÃÂ¥ÃÂÃÂ­ 200ml cuppcino ",
       "time": "14:59",
       "id": 1785041976551
     }
   ],
-  "totalCalories": 1122,
-  "totalProtein": 35,
-  "totalCarbs": 175,
+  "totalCalories": 1194,
+  "totalProtein": 36,
+  "totalCarbs": 193,
   "totalFat": 30,
-  "totalFiber": 13,
-  "savedAt": "2026-07-26T11:23:01.652Z"
+  "totalFiber": 15,
+  "savedAt": "2026-07-26T12:01:59.584Z"
 }
