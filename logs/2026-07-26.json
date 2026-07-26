@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-26",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "锅包肉",
+          "portion": "50g",
+          "calories": 180,
+          "protein": 7,
+          "carbs": 15,
+          "fat": 10,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "腐乳小白菜",
+          "portion": "60g",
+          "calories": 75,
+          "protein": 3,
+          "carbs": 9,
+          "fat": 4,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "白米饭",
+          "portion": "50g",
+          "calories": 65,
+          "protein": 1,
+          "carbs": 14,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Cappuccino",
+          "portion": "200ml",
+          "calories": 60,
+          "protein": 3,
+          "carbs": 6,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 380,
+      "totalProtein": 14,
+      "totalCarbs": 44,
+      "totalFat": 16,
+      "totalFiber": 2,
+      "notes": "Estimated based on typical portion sizes and food items.",
+      "label": "50g锅包肉 60g腐乳小白菜 50g白米饭 200ml cuppcino ",
+      "time": "14:59",
+      "id": 1785041976551
+    }
+  ],
+  "totalCalories": 380,
+  "totalProtein": 14,
+  "totalCarbs": 44,
+  "totalFat": 16,
+  "totalFiber": 2,
+  "savedAt": "2026-07-26T04:59:36.552Z"
+}
