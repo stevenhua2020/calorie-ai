@@ -4,7 +4,60 @@
     {
       "foods": [
         {
-          "name": "萨其马",
+          "name": "Rice noodles",
+          "portion": "120g",
+          "calories": 130,
+          "protein": 2,
+          "carbs": 30,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Lotus root",
+          "portion": "80g",
+          "calories": 56,
+          "protein": 1,
+          "carbs": 13,
+          "fat": 0,
+          "fiber": 3,
+          "confidence": "high"
+        },
+        {
+          "name": "Tofu",
+          "portion": "50g",
+          "calories": 76,
+          "protein": 8,
+          "carbs": 2,
+          "fat": 4,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Napa cabbage",
+          "portion": "120g",
+          "calories": 20,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 282,
+      "totalProtein": 12,
+      "totalCarbs": 49,
+      "totalFat": 4,
+      "totalFiber": 7,
+      "notes": "Calorie and macro estimates are based on typical nutritional content of the specified amounts of each ingredient.",
+      "label": "120g米粉 80g藕 50g豆腐 120g白菜",
+      "time": "21:23",
+      "id": 1785064981651
+    },
+    {
+      "foods": [
+        {
+          "name": "è¨å¶é©¬",
           "portion": "40g",
           "calories": 170,
           "protein": 2,
@@ -14,7 +67,7 @@
           "confidence": "medium"
         },
         {
-          "name": "爆米花",
+          "name": "çç±³è±",
           "portion": "20g",
           "calories": 80,
           "protein": 1,
@@ -40,7 +93,7 @@
       "totalFat": 10,
       "totalFiber": 3,
       "notes": "Estimated based on typical portions and ingredients for the listed items.",
-      "label": "40g萨其马 20g爆米花 300ml mocha skim milk tea",
+      "label": "40gè¨å¶é©¬ 20gçç±³è± 300ml mocha skim milk tea",
       "time": "18:09",
       "id": 1785053392179
     },
@@ -70,7 +123,7 @@
     {
       "foods": [
         {
-          "name": "Ã©ÂÂÃ¥ÂÂÃ¨ÂÂ",
+          "name": "ÃÂ©ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ¨ÃÂÃÂ",
           "portion": "50g",
           "calories": 180,
           "protein": 7,
@@ -80,7 +133,7 @@
           "confidence": "medium"
         },
         {
-          "name": "Ã¨ÂÂÃ¤Â¹Â³Ã¥Â°ÂÃ§ÂÂ½Ã¨ÂÂ",
+          "name": "ÃÂ¨ÃÂÃÂÃÂ¤ÃÂ¹ÃÂ³ÃÂ¥ÃÂ°ÃÂÃÂ§ÃÂÃÂ½ÃÂ¨ÃÂÃÂ",
           "portion": "60g",
           "calories": 75,
           "protein": 3,
@@ -90,7 +143,7 @@
           "confidence": "medium"
         },
         {
-          "name": "Ã§ÂÂ½Ã§Â±Â³Ã©Â¥Â­",
+          "name": "ÃÂ§ÃÂÃÂ½ÃÂ§ÃÂ±ÃÂ³ÃÂ©ÃÂ¥ÃÂ­",
           "portion": "50g",
           "calories": 65,
           "protein": 1,
@@ -116,15 +169,15 @@
       "totalFat": 16,
       "totalFiber": 2,
       "notes": "Estimated based on typical portion sizes and food items.",
-      "label": "50gÃ©ÂÂÃ¥ÂÂÃ¨ÂÂ 60gÃ¨ÂÂÃ¤Â¹Â³Ã¥Â°ÂÃ§ÂÂ½Ã¨ÂÂ 50gÃ§ÂÂ½Ã§Â±Â³Ã©Â¥Â­ 200ml cuppcino ",
+      "label": "50gÃÂ©ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ¨ÃÂÃÂ 60gÃÂ¨ÃÂÃÂÃÂ¤ÃÂ¹ÃÂ³ÃÂ¥ÃÂ°ÃÂÃÂ§ÃÂÃÂ½ÃÂ¨ÃÂÃÂ 50gÃÂ§ÃÂÃÂ½ÃÂ§ÃÂ±ÃÂ³ÃÂ©ÃÂ¥ÃÂ­ 200ml cuppcino ",
       "time": "14:59",
       "id": 1785041976551
     }
   ],
-  "totalCalories": 840,
-  "totalProtein": 23,
-  "totalCarbs": 126,
-  "totalFat": 26,
-  "totalFiber": 6,
-  "savedAt": "2026-07-26T08:09:52.180Z"
+  "totalCalories": 1122,
+  "totalProtein": 35,
+  "totalCarbs": 175,
+  "totalFat": 30,
+  "totalFiber": 13,
+  "savedAt": "2026-07-26T11:23:01.652Z"
 }
