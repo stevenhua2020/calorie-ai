@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "萨其马",
+          "portion": "40g",
+          "calories": 170,
+          "protein": 2,
+          "carbs": 27,
+          "fat": 6,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "爆米花",
+          "portion": "20g",
+          "calories": 80,
+          "protein": 1,
+          "carbs": 12,
+          "fat": 3,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Mocha skim milk tea",
+          "portion": "300ml",
+          "calories": 150,
+          "protein": 5,
+          "carbs": 28,
+          "fat": 1,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 400,
+      "totalProtein": 8,
+      "totalCarbs": 67,
+      "totalFat": 10,
+      "totalFiber": 3,
+      "notes": "Estimated based on typical portions and ingredients for the listed items.",
+      "label": "40g萨其马 20g爆米花 300ml mocha skim milk tea",
+      "time": "18:09",
+      "id": 1785053392179
+    },
+    {
+      "foods": [
+        {
           "name": "Fresh Watermelon",
           "portion": "200g",
           "calories": 60,
@@ -27,7 +70,7 @@
     {
       "foods": [
         {
-          "name": "éåè",
+          "name": "Ã©ÂÂÃ¥ÂÂÃ¨ÂÂ",
           "portion": "50g",
           "calories": 180,
           "protein": 7,
@@ -37,7 +80,7 @@
           "confidence": "medium"
         },
         {
-          "name": "èä¹³å°ç½è",
+          "name": "Ã¨ÂÂÃ¤Â¹Â³Ã¥Â°ÂÃ§ÂÂ½Ã¨ÂÂ",
           "portion": "60g",
           "calories": 75,
           "protein": 3,
@@ -47,7 +90,7 @@
           "confidence": "medium"
         },
         {
-          "name": "ç½ç±³é¥­",
+          "name": "Ã§ÂÂ½Ã§Â±Â³Ã©Â¥Â­",
           "portion": "50g",
           "calories": 65,
           "protein": 1,
@@ -73,15 +116,15 @@
       "totalFat": 16,
       "totalFiber": 2,
       "notes": "Estimated based on typical portion sizes and food items.",
-      "label": "50géåè 60gèä¹³å°ç½è 50gç½ç±³é¥­ 200ml cuppcino ",
+      "label": "50gÃ©ÂÂÃ¥ÂÂÃ¨ÂÂ 60gÃ¨ÂÂÃ¤Â¹Â³Ã¥Â°ÂÃ§ÂÂ½Ã¨ÂÂ 50gÃ§ÂÂ½Ã§Â±Â³Ã©Â¥Â­ 200ml cuppcino ",
       "time": "14:59",
       "id": 1785041976551
     }
   ],
-  "totalCalories": 440,
-  "totalProtein": 15,
-  "totalCarbs": 59,
-  "totalFat": 16,
-  "totalFiber": 3,
-  "savedAt": "2026-07-26T06:14:39.676Z"
+  "totalCalories": 840,
+  "totalProtein": 23,
+  "totalCarbs": 126,
+  "totalFat": 26,
+  "totalFiber": 6,
+  "savedAt": "2026-07-26T08:09:52.180Z"
 }
