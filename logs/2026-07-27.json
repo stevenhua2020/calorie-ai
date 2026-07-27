@@ -5,12 +5,12 @@
       "foods": [
         {
           "name": "Stir-fried cucumber with egg",
-          "portion": "1 cup",
-          "calories": 120,
-          "protein": 6,
-          "carbs": 8,
-          "fat": 8,
-          "fiber": 1,
+          "portion": "1 cup ×½",
+          "calories": 60,
+          "protein": 3,
+          "carbs": 4,
+          "fat": 4,
+          "fiber": 0.5,
           "confidence": "medium"
         },
         {
@@ -44,11 +44,11 @@
           "confidence": "high"
         }
       ],
-      "totalCalories": 710,
-      "totalProtein": 28,
-      "totalCarbs": 61,
-      "totalFat": 39,
-      "totalFiber": 5,
+      "totalCalories": 650,
+      "totalProtein": 25,
+      "totalCarbs": 57,
+      "totalFat": 35,
+      "totalFiber": 4.5,
       "notes": "Estimates based on common recipes and portions. Sausage portion might vary.",
       "label": "📷 Photo analysis",
       "time": "17:26",
@@ -154,10 +154,10 @@
       "id": 1785113277455
     }
   ],
-  "totalCalories": 1500,
-  "totalProtein": 53,
-  "totalCarbs": 186.5,
-  "totalFat": 56.5,
-  "totalFiber": 14,
-  "savedAt": "2026-07-27T07:26:13.039Z"
+  "totalCalories": 1440,
+  "totalProtein": 50,
+  "totalCarbs": 182.5,
+  "totalFat": 52.5,
+  "totalFiber": 13.5,
+  "savedAt": "2026-07-27T07:26:42.901Z"
 }
