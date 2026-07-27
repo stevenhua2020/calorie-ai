@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-27",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Fruit and Yogurt with Bran",
+          "portion": "small bowl",
+          "calories": 220,
+          "protein": 7,
+          "carbs": 40,
+          "fat": 3,
+          "fiber": 6,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 220,
+      "totalProtein": 7,
+      "totalCarbs": 40,
+      "totalFat": 3,
+      "totalFiber": 6,
+      "notes": "Estimate includes mixed fruits, yogurt, and bran cereal.",
+      "label": "📷 Photo analysis",
+      "time": "10:47",
+      "id": 1785113277455
+    }
+  ],
+  "totalCalories": 220,
+  "totalProtein": 7,
+  "totalCarbs": 40,
+  "totalFat": 3,
+  "totalFiber": 6,
+  "savedAt": "2026-07-27T00:47:57.455Z"
+}
