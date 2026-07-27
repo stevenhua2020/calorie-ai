@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Boiled eggs with sauce",
+          "portion": "2 eggs",
+          "calories": 160,
+          "protein": 12,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Toast with jam",
+          "portion": "2 slices",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 36,
+          "fat": 2,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Latte",
+          "portion": "1 cup",
+          "calories": 100,
+          "protein": 6,
+          "carbs": 9,
+          "fat": 4,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 460,
+      "totalProtein": 22,
+      "totalCarbs": 46,
+      "totalFat": 17,
+      "totalFiber": 2,
+      "notes": "The estimates are based on typical serving sizes and common ingredients.",
+      "label": "📷 Photo analysis",
+      "time": "12:45",
+      "id": 1785120334128
+    },
+    {
+      "foods": [
+        {
           "name": "Fruit and Yogurt with Bran",
           "portion": "small bowl",
           "calories": 220,
@@ -20,15 +63,15 @@
       "totalFat": 3,
       "totalFiber": 6,
       "notes": "Estimate includes mixed fruits, yogurt, and bran cereal.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "10:47",
       "id": 1785113277455
     }
   ],
-  "totalCalories": 220,
-  "totalProtein": 7,
-  "totalCarbs": 40,
-  "totalFat": 3,
-  "totalFiber": 6,
-  "savedAt": "2026-07-27T00:47:57.455Z"
+  "totalCalories": 680,
+  "totalProtein": 29,
+  "totalCarbs": 86,
+  "totalFat": 20,
+  "totalFiber": 8,
+  "savedAt": "2026-07-27T02:45:34.129Z"
 }
