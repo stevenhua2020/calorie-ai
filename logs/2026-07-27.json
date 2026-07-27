@@ -4,8 +4,41 @@
     {
       "foods": [
         {
+          "name": "Glass of dark soda",
+          "portion": "8 oz",
+          "calories": 100,
+          "protein": 0,
+          "carbs": 26,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Pack of round crackers",
+          "portion": "6 crackers",
+          "calories": 90,
+          "protein": 2,
+          "carbs": 14,
+          "fat": 3,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 190,
+      "totalProtein": 2,
+      "totalCarbs": 40,
+      "totalFat": 3,
+      "totalFiber": 1,
+      "notes": "Estimates based on typical portions for soda and crackers.",
+      "label": "📷 Photo analysis",
+      "time": "15:16",
+      "id": 1785129372150
+    },
+    {
+      "foods": [
+        {
           "name": "Boiled eggs with sauce",
-          "portion": "2 eggs ×½",
+          "portion": "2 eggs ÃÂ½",
           "calories": 80,
           "protein": 6,
           "carbs": 0.5,
@@ -40,7 +73,7 @@
       "totalFat": 11.5,
       "totalFiber": 2,
       "notes": "The estimates are based on typical serving sizes and common ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:45",
       "id": 1785120334128
     },
@@ -63,15 +96,15 @@
       "totalFat": 3,
       "totalFiber": 6,
       "notes": "Estimate includes mixed fruits, yogurt, and bran cereal.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "10:47",
       "id": 1785113277455
     }
   ],
-  "totalCalories": 600,
-  "totalProtein": 23,
-  "totalCarbs": 85.5,
-  "totalFat": 14.5,
-  "totalFiber": 8,
-  "savedAt": "2026-07-27T02:45:41.902Z"
+  "totalCalories": 790,
+  "totalProtein": 25,
+  "totalCarbs": 125.5,
+  "totalFat": 17.5,
+  "totalFiber": 9,
+  "savedAt": "2026-07-27T05:16:12.150Z"
 }
