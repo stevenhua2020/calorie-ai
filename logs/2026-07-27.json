@@ -4,8 +4,41 @@
     {
       "foods": [
         {
+          "name": "Skim milk cappuccino",
+          "portion": "200ml",
+          "calories": 60,
+          "protein": 6,
+          "carbs": 9,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Fresh watermelon",
+          "portion": "200g",
+          "calories": 60,
+          "protein": 1,
+          "carbs": 15,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 120,
+      "totalProtein": 7,
+      "totalCarbs": 24,
+      "totalFat": 0,
+      "totalFiber": 1,
+      "notes": "The estimates are based on typical values for skim milk and watermelon.",
+      "label": "200ml skim milk cuppcino and 200g fresh watermelon",
+      "time": "18:24",
+      "id": 1785140689858
+    },
+    {
+      "foods": [
+        {
           "name": "Stir-fried cucumber with egg",
-          "portion": "1 cup ×½",
+          "portion": "1 cup ÃÂ½",
           "calories": 60,
           "protein": 3,
           "carbs": 4,
@@ -15,7 +48,7 @@
         },
         {
           "name": "Stir-fried bok choy",
-          "portion": "1 cup ×½",
+          "portion": "1 cup ÃÂ½",
           "calories": 20,
           "protein": 1.5,
           "carbs": 2.5,
@@ -25,7 +58,7 @@
         },
         {
           "name": "Grilled sausage",
-          "portion": "100 grams ×¾",
+          "portion": "100 grams ÃÂ¾",
           "calories": 263,
           "protein": 11.3,
           "carbs": 2.3,
@@ -35,7 +68,7 @@
         },
         {
           "name": "White rice",
-          "portion": "1 cup ×½",
+          "portion": "1 cup ÃÂ½",
           "calories": 100,
           "protein": 2,
           "carbs": 22.5,
@@ -50,7 +83,7 @@
       "totalFat": 27,
       "totalFiber": 2.5,
       "notes": "Estimates based on common recipes and portions. Sausage portion might vary.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:26",
       "id": 1785137173038
     },
@@ -83,7 +116,7 @@
       "totalFat": 3,
       "totalFiber": 1,
       "notes": "Estimates based on typical portions for soda and crackers.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "15:16",
       "id": 1785129372150
     },
@@ -91,7 +124,7 @@
       "foods": [
         {
           "name": "Boiled eggs with sauce",
-          "portion": "2 eggs ÃÂÃÂ½",
+          "portion": "2 eggs ÃÂÃÂÃÂÃÂ½",
           "calories": 80,
           "protein": 6,
           "carbs": 0.5,
@@ -126,7 +159,7 @@
       "totalFat": 11.5,
       "totalFiber": 2,
       "notes": "The estimates are based on typical serving sizes and common ingredients.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "12:45",
       "id": 1785120334128
     },
@@ -149,15 +182,15 @@
       "totalFat": 3,
       "totalFiber": 6,
       "notes": "Estimate includes mixed fruits, yogurt, and bran cereal.",
-      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "10:47",
       "id": 1785113277455
     }
   ],
-  "totalCalories": 1233,
-  "totalProtein": 42.8,
-  "totalCarbs": 156.8,
+  "totalCalories": 1353,
+  "totalProtein": 49.8,
+  "totalCarbs": 180.8,
   "totalFat": 44.5,
-  "totalFiber": 11.5,
-  "savedAt": "2026-07-27T07:26:52.686Z"
+  "totalFiber": 12.5,
+  "savedAt": "2026-07-27T08:24:49.860Z"
 }
