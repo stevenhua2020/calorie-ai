@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Hot chocolate",
+          "portion": "300ml",
+          "calories": 210,
+          "protein": 5,
+          "carbs": 28,
+          "fat": 9,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Hard boiled egg",
+          "portion": "50g",
+          "calories": 70,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 280,
+      "totalProtein": 11,
+      "totalCarbs": 29,
+      "totalFat": 14,
+      "totalFiber": 2,
+      "notes": "Estimated nutritional values are based on typical preparations of hot chocolate and egg.",
+      "label": "300ml hot chocolate and 50g hard boiled egg ",
+      "time": "18:32",
+      "id": 1785227531016
+    },
+    {
+      "foods": [
+        {
           "name": "Chinese sausage",
           "portion": "1 link",
           "calories": 180,
@@ -40,7 +73,7 @@
       "totalFat": 15,
       "totalFiber": 2,
       "notes": "Estimates based on typical servings and ingredients.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:39",
       "id": 1785209973277
     },
@@ -73,15 +106,15 @@
       "totalFat": 11,
       "totalFiber": 8,
       "notes": "Estimates based on common ingredients for breakfast bowls and lattes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "11:22",
       "id": 1785201775476
     }
   ],
-  "totalCalories": 820,
-  "totalProtein": 29,
-  "totalCarbs": 111,
-  "totalFat": 26,
-  "totalFiber": 10,
-  "savedAt": "2026-07-28T03:39:33.278Z"
+  "totalCalories": 1100,
+  "totalProtein": 40,
+  "totalCarbs": 140,
+  "totalFat": 40,
+  "totalFiber": 12,
+  "savedAt": "2026-07-28T08:32:11.017Z"
 }
