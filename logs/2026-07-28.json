@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "Lotus soup",
+          "portion": "200g",
+          "calories": 120,
+          "protein": 4,
+          "carbs": 22,
+          "fat": 2,
+          "fiber": 3,
+          "confidence": "medium"
+        },
+        {
+          "name": "Rice noodle",
+          "portion": "130g",
+          "calories": 150,
+          "protein": 3,
+          "carbs": 33,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Broccoli",
+          "portion": "50g",
+          "calories": 18,
+          "protein": 2,
+          "carbs": 4,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "German sausage",
+          "portion": "30g",
+          "calories": 90,
+          "protein": 5,
+          "carbs": 1,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 378,
+      "totalProtein": 14,
+      "totalCarbs": 60,
+      "totalFat": 10,
+      "totalFiber": 6,
+      "notes": "Estimates based on typical nutritional values.",
+      "label": "200g lotus soup, 130g rice noodle, 50g broccoli, 3",
+      "time": "20:12",
+      "id": 1785233563297
+    },
+    {
+      "foods": [
+        {
           "name": "Hot chocolate",
           "portion": "300ml",
           "calories": 210,
@@ -73,7 +126,7 @@
       "totalFat": 15,
       "totalFiber": 2,
       "notes": "Estimates based on typical servings and ingredients.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "13:39",
       "id": 1785209973277
     },
@@ -106,15 +159,15 @@
       "totalFat": 11,
       "totalFiber": 8,
       "notes": "Estimates based on common ingredients for breakfast bowls and lattes.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "11:22",
       "id": 1785201775476
     }
   ],
-  "totalCalories": 1100,
-  "totalProtein": 40,
-  "totalCarbs": 140,
-  "totalFat": 40,
-  "totalFiber": 12,
-  "savedAt": "2026-07-28T08:32:11.017Z"
+  "totalCalories": 1478,
+  "totalProtein": 54,
+  "totalCarbs": 200,
+  "totalFat": 50,
+  "totalFiber": 18,
+  "savedAt": "2026-07-28T10:12:43.299Z"
 }
