@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-29",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Teriyaki Chicken with Rice",
+          "portion": "medium portion",
+          "calories": 500,
+          "protein": 30,
+          "carbs": 60,
+          "fat": 15,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Cabbage Salad with Dressing",
+          "portion": "small portion",
+          "calories": 100,
+          "protein": 1,
+          "carbs": 10,
+          "fat": 7,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Japchae (Stir-Fried Noodles)",
+          "portion": "small portion",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 35,
+          "fat": 6,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Edamame",
+          "portion": "very small portion",
+          "calories": 50,
+          "protein": 4,
+          "carbs": 5,
+          "fat": 2,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Spring Roll",
+          "portion": "single piece",
+          "calories": 120,
+          "protein": 3,
+          "carbs": 15,
+          "fat": 6,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 970,
+      "totalProtein": 42,
+      "totalCarbs": 125,
+      "totalFat": 36,
+      "totalFiber": 9,
+      "notes": "Estimates based on visual assessment of portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "13:15",
+      "id": 1785294910138
+    }
+  ],
+  "totalCalories": 970,
+  "totalProtein": 42,
+  "totalCarbs": 125,
+  "totalFat": 36,
+  "totalFiber": 9,
+  "savedAt": "2026-07-29T03:15:10.139Z"
+}
