@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-30",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard boiled eggs",
+          "portion": "100g",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 155,
+      "totalProtein": 13,
+      "totalCarbs": 1,
+      "totalFat": 11,
+      "totalFiber": 0,
+      "notes": "Nutritional content based on an average serving of hard boiled eggs.",
+      "label": "100g hard boiled eggs ",
+      "time": "09:08",
+      "id": 1785366495844
+    }
+  ],
+  "totalCalories": 155,
+  "totalProtein": 13,
+  "totalCarbs": 1,
+  "totalFat": 11,
+  "totalFiber": 0,
+  "savedAt": "2026-07-29T23:08:15.845Z"
+}
