@@ -4,6 +4,49 @@
     {
       "foods": [
         {
+          "name": "Skim Milk",
+          "portion": "200ml",
+          "calories": 70,
+          "protein": 7,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "沙琪玛",
+          "portion": "30g",
+          "calories": 130,
+          "protein": 1,
+          "carbs": 20,
+          "fat": 5,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "White Bread with Strawberry Jam",
+          "portion": "30g bread, 10g jam",
+          "calories": 110,
+          "protein": 3,
+          "carbs": 21,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 310,
+      "totalProtein": 11,
+      "totalCarbs": 51,
+      "totalFat": 6,
+      "totalFiber": 2,
+      "notes": "The portion sizes are estimated based on standard servings. 沙琪玛 composition may vary slightly.",
+      "label": "200ml skim milk 30g沙琪玛 30g white breadwith 10g str",
+      "time": "18:51",
+      "id": 1785401471560
+    },
+    {
+      "foods": [
+        {
           "name": "Lentil Soup",
           "portion": "1 bowl",
           "calories": 250,
@@ -30,7 +73,7 @@
       "totalFat": 14,
       "totalFiber": 14,
       "notes": "Estimate based on portion sizes typical for lentil soup and sesame bread.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:29",
       "id": 1785378563503
     },
@@ -58,10 +101,10 @@
       "id": 1785366495844
     }
   ],
-  "totalCalories": 705,
-  "totalProtein": 33,
-  "totalCarbs": 86,
-  "totalFat": 25,
-  "totalFiber": 14,
-  "savedAt": "2026-07-30T02:29:23.506Z"
+  "totalCalories": 1015,
+  "totalProtein": 44,
+  "totalCarbs": 137,
+  "totalFat": 31,
+  "totalFiber": 16,
+  "savedAt": "2026-07-30T08:51:11.561Z"
 }
