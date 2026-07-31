@@ -35,30 +35,30 @@
         },
         {
           "name": "White rice",
-          "portion": "1 cup",
-          "calories": 200,
-          "protein": 4,
-          "carbs": 44,
+          "portion": "1 cup ×½",
+          "calories": 100,
+          "protein": 2,
+          "carbs": 22,
           "fat": 0,
-          "fiber": 1,
+          "fiber": 0.5,
           "confidence": "high"
         }
       ],
-      "totalCalories": 595,
-      "totalProtein": 30.5,
-      "totalCarbs": 65,
+      "totalCalories": 495,
+      "totalProtein": 28.5,
+      "totalCarbs": 43,
       "totalFat": 23,
-      "totalFiber": 4.5,
+      "totalFiber": 4,
       "notes": "Portion sizes are estimated based on typical serving sizes.",
       "label": "📷 Photo analysis",
       "time": "11:12",
       "id": 1785460347593
     }
   ],
-  "totalCalories": 595,
-  "totalProtein": 30.5,
-  "totalCarbs": 65,
+  "totalCalories": 495,
+  "totalProtein": 28.5,
+  "totalCarbs": 43,
   "totalFat": 23,
-  "totalFiber": 4.5,
-  "savedAt": "2026-07-31T01:12:42.694Z"
+  "totalFiber": 4,
+  "savedAt": "2026-07-31T01:12:48.160Z"
 }
