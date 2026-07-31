@@ -15,12 +15,12 @@
         },
         {
           "name": "Mixed vegetables with edamame",
-          "portion": "1 cup",
-          "calories": 150,
-          "protein": 9,
-          "carbs": 16,
-          "fat": 6,
-          "fiber": 5,
+          "portion": "1 cup ×½",
+          "calories": 75,
+          "protein": 4.5,
+          "carbs": 8,
+          "fat": 3,
+          "fiber": 2.5,
           "confidence": "medium"
         },
         {
@@ -44,21 +44,21 @@
           "confidence": "high"
         }
       ],
-      "totalCalories": 690,
-      "totalProtein": 36,
-      "totalCarbs": 77,
-      "totalFat": 26.5,
-      "totalFiber": 8,
+      "totalCalories": 615,
+      "totalProtein": 31.5,
+      "totalCarbs": 69,
+      "totalFat": 23.5,
+      "totalFiber": 5.5,
       "notes": "Portion sizes are estimated based on typical serving sizes.",
       "label": "📷 Photo analysis",
       "time": "11:12",
       "id": 1785460347593
     }
   ],
-  "totalCalories": 690,
-  "totalProtein": 36,
-  "totalCarbs": 77,
-  "totalFat": 26.5,
-  "totalFiber": 8,
-  "savedAt": "2026-07-31T01:12:33.938Z"
+  "totalCalories": 615,
+  "totalProtein": 31.5,
+  "totalCarbs": 69,
+  "totalFat": 23.5,
+  "totalFiber": 5.5,
+  "savedAt": "2026-07-31T01:12:38.382Z"
 }
