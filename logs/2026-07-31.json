@@ -25,12 +25,12 @@
         },
         {
           "name": "Stir-fried bok choy",
-          "portion": "1 cup",
-          "calories": 40,
-          "protein": 2,
-          "carbs": 8,
-          "fat": 1,
-          "fiber": 2,
+          "portion": "1 cup ×½",
+          "calories": 20,
+          "protein": 1,
+          "carbs": 4,
+          "fat": 0.5,
+          "fiber": 1,
           "confidence": "medium"
         },
         {
@@ -44,21 +44,21 @@
           "confidence": "high"
         }
       ],
-      "totalCalories": 615,
-      "totalProtein": 31.5,
-      "totalCarbs": 69,
-      "totalFat": 23.5,
-      "totalFiber": 5.5,
+      "totalCalories": 595,
+      "totalProtein": 30.5,
+      "totalCarbs": 65,
+      "totalFat": 23,
+      "totalFiber": 4.5,
       "notes": "Portion sizes are estimated based on typical serving sizes.",
       "label": "📷 Photo analysis",
       "time": "11:12",
       "id": 1785460347593
     }
   ],
-  "totalCalories": 615,
-  "totalProtein": 31.5,
-  "totalCarbs": 69,
-  "totalFat": 23.5,
-  "totalFiber": 5.5,
-  "savedAt": "2026-07-31T01:12:38.382Z"
+  "totalCalories": 595,
+  "totalProtein": 30.5,
+  "totalCarbs": 65,
+  "totalFat": 23,
+  "totalFiber": 4.5,
+  "savedAt": "2026-07-31T01:12:42.694Z"
 }
