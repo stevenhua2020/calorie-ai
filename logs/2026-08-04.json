@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-04",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Breaded Fish Sticks",
+          "portion": "2 pieces",
+          "calories": 200,
+          "protein": 12,
+          "carbs": 15,
+          "fat": 10,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "White Rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Bok Choy",
+          "portion": "1 cup",
+          "calories": 20,
+          "protein": 1,
+          "carbs": 3,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 420,
+      "totalProtein": 17,
+      "totalCarbs": 63,
+      "totalFat": 10,
+      "totalFiber": 3,
+      "notes": "Estimates based on visual portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "15:04",
+      "id": 1785819857452
+    }
+  ],
+  "totalCalories": 420,
+  "totalProtein": 17,
+  "totalCarbs": 63,
+  "totalFat": 10,
+  "totalFiber": 3,
+  "savedAt": "2026-08-04T05:04:17.452Z"
+}
