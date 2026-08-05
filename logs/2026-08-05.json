@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-05",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Polenta",
+          "portion": "2 slices",
+          "calories": 150,
+          "protein": 3,
+          "carbs": 30,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Broccolini",
+          "portion": "1 serving",
+          "calories": 35,
+          "protein": 3,
+          "carbs": 6,
+          "fat": 0,
+          "fiber": 3,
+          "confidence": "medium"
+        },
+        {
+          "name": "Roasted tomato",
+          "portion": "1 slice",
+          "calories": 10,
+          "protein": 0,
+          "carbs": 2,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Beef stew",
+          "portion": "1 serving",
+          "calories": 220,
+          "protein": 25,
+          "carbs": 6,
+          "fat": 12,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 415,
+      "totalProtein": 31,
+      "totalCarbs": 44,
+      "totalFat": 14,
+      "totalFiber": 5,
+      "notes": "Portion sizes and ingredients are estimated based on visual assessment.",
+      "label": "📷 Photo analysis",
+      "time": "12:15",
+      "id": 1785896116982
+    }
+  ],
+  "totalCalories": 415,
+  "totalProtein": 31,
+  "totalCarbs": 44,
+  "totalFat": 14,
+  "totalFiber": 5,
+  "savedAt": "2026-08-05T02:15:16.983Z"
+}
