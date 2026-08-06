@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-06",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Hard boiled eggs",
+          "portion": "100g",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1,
+          "fat": 11,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Steamed buns",
+          "portion": "50g",
+          "calories": 116,
+          "protein": 3,
+          "carbs": 22,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Skim milk",
+          "portion": "200ml",
+          "calories": 70,
+          "protein": 7,
+          "carbs": 10,
+          "fat": 0,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Small chicken burger",
+          "portion": "1 portion",
+          "calories": 350,
+          "protein": 16,
+          "carbs": 34,
+          "fat": 15,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Hash brown",
+          "portion": "1 piece",
+          "calories": 150,
+          "protein": 2,
+          "carbs": 15,
+          "fat": 10,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Small chips",
+          "portion": "1 portion",
+          "calories": 230,
+          "protein": 3,
+          "carbs": 30,
+          "fat": 11,
+          "fiber": 3,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 1071,
+      "totalProtein": 44,
+      "totalCarbs": 112,
+      "totalFat": 49,
+      "totalFiber": 8,
+      "notes": "Values are estimated based on typical portion sizes and common nutritional databases.",
+      "label": "100g hard boiled eggs and 50g steamed buns and 200",
+      "time": "16:33",
+      "id": 1785998033400
+    }
+  ],
+  "totalCalories": 1071,
+  "totalProtein": 44,
+  "totalCarbs": 112,
+  "totalFat": 49,
+  "totalFiber": 8,
+  "savedAt": "2026-08-06T06:33:53.400Z"
+}
