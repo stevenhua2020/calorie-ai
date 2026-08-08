@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Slice of bread with jam",
+          "portion": "1 slice",
+          "calories": 110,
+          "protein": 3,
+          "carbs": 20,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Plain slice of bread",
+          "portion": "1 slice",
+          "calories": 70,
+          "protein": 2,
+          "carbs": 14,
+          "fat": 1,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 180,
+      "totalProtein": 5,
+      "totalCarbs": 34,
+      "totalFat": 2,
+      "totalFiber": 2,
+      "notes": "Standard estimates for bread and jam.",
+      "label": "📷 Photo analysis",
+      "time": "13:46",
+      "id": 1786160775517
+    },
+    {
+      "foods": [
+        {
           "name": "Fried pastry",
           "portion": "4 small pieces",
           "calories": 300,
@@ -30,7 +63,7 @@
       "totalFat": 19,
       "totalFiber": 2,
       "notes": "Estimates based on common ingredients and portion sizes.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:24",
       "id": 1786159466860
     },
@@ -53,15 +86,15 @@
       "totalFat": 5,
       "totalFiber": 8,
       "notes": "Estimate includes a mix of strawberries, bananas, raspberries, blackberries, yogurt, and bran cereal.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "12:14",
       "id": 1786155260683
     }
   ],
-  "totalCalories": 720,
-  "totalProtein": 22,
-  "totalCarbs": 107,
-  "totalFat": 24,
-  "totalFiber": 10,
-  "savedAt": "2026-08-08T03:24:26.862Z"
+  "totalCalories": 900,
+  "totalProtein": 27,
+  "totalCarbs": 141,
+  "totalFat": 26,
+  "totalFiber": 12,
+  "savedAt": "2026-08-08T03:46:15.519Z"
 }
