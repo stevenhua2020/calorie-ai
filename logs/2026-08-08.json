@@ -4,6 +4,79 @@
     {
       "foods": [
         {
+          "name": "Beef",
+          "portion": "50g",
+          "calories": 135,
+          "protein": 13,
+          "carbs": 0,
+          "fat": 9,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Ramen noodles",
+          "portion": "100g",
+          "calories": 130,
+          "protein": 4,
+          "carbs": 24,
+          "fat": 2,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Bok choy",
+          "portion": "50g",
+          "calories": 9,
+          "protein": 1,
+          "carbs": 2,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Bean curd sheet",
+          "portion": "80g",
+          "calories": 120,
+          "protein": 12,
+          "carbs": 5,
+          "fat": 7,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Lotus root",
+          "portion": "30g",
+          "calories": 23,
+          "protein": 1,
+          "carbs": 6,
+          "fat": 0,
+          "fiber": 2,
+          "confidence": "high"
+        },
+        {
+          "name": "Tofu",
+          "portion": "30g",
+          "calories": 28,
+          "protein": 3,
+          "carbs": 1,
+          "fat": 2,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 445,
+      "totalProtein": 34,
+      "totalCarbs": 38,
+      "totalFat": 20,
+      "totalFiber": 5,
+      "notes": "Calorie and macro estimates are based on average values for unseasoned and uncooked ingredients. Variations may occur if prepared differently.",
+      "label": "火锅 50g牛肉 100g拉面 50g小白菜 80g豆皮 30g藕 30g豆腐",
+      "time": "22:27",
+      "id": 1786192064018
+    },
+    {
+      "foods": [
+        {
           "name": "Slice of bread with jam",
           "portion": "1 slice",
           "calories": 110,
@@ -30,7 +103,7 @@
       "totalFat": 2,
       "totalFiber": 2,
       "notes": "Standard estimates for bread and jam.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "13:46",
       "id": 1786160775517
     },
@@ -63,7 +136,7 @@
       "totalFat": 19,
       "totalFiber": 2,
       "notes": "Estimates based on common ingredients and portion sizes.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "13:24",
       "id": 1786159466860
     },
@@ -86,15 +159,15 @@
       "totalFat": 5,
       "totalFiber": 8,
       "notes": "Estimate includes a mix of strawberries, bananas, raspberries, blackberries, yogurt, and bran cereal.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "12:14",
       "id": 1786155260683
     }
   ],
-  "totalCalories": 900,
-  "totalProtein": 27,
-  "totalCarbs": 141,
-  "totalFat": 26,
-  "totalFiber": 12,
-  "savedAt": "2026-08-08T03:46:15.519Z"
+  "totalCalories": 1345,
+  "totalProtein": 61,
+  "totalCarbs": 179,
+  "totalFat": 46,
+  "totalFiber": 17,
+  "savedAt": "2026-08-08T12:27:44.019Z"
 }
