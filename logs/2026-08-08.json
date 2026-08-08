@@ -4,6 +4,39 @@
     {
       "foods": [
         {
+          "name": "Fried pastry",
+          "portion": "4 small pieces",
+          "calories": 300,
+          "protein": 6,
+          "carbs": 40,
+          "fat": 15,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowl of milk",
+          "portion": "1 cup",
+          "calories": 120,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 4,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 420,
+      "totalProtein": 14,
+      "totalCarbs": 52,
+      "totalFat": 19,
+      "totalFiber": 2,
+      "notes": "Estimates based on common ingredients and portion sizes.",
+      "label": "📷 Photo analysis",
+      "time": "13:24",
+      "id": 1786159466860
+    },
+    {
+      "foods": [
+        {
           "name": "Mixed fruit with yogurt and bran cereal",
           "portion": "1 medium bowl",
           "calories": 300,
@@ -20,15 +53,15 @@
       "totalFat": 5,
       "totalFiber": 8,
       "notes": "Estimate includes a mix of strawberries, bananas, raspberries, blackberries, yogurt, and bran cereal.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "12:14",
       "id": 1786155260683
     }
   ],
-  "totalCalories": 300,
-  "totalProtein": 8,
-  "totalCarbs": 55,
-  "totalFat": 5,
-  "totalFiber": 8,
-  "savedAt": "2026-08-08T02:14:20.686Z"
+  "totalCalories": 720,
+  "totalProtein": 22,
+  "totalCarbs": 107,
+  "totalFat": 24,
+  "totalFiber": 10,
+  "savedAt": "2026-08-08T03:24:26.862Z"
 }
