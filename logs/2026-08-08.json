@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-08",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Mixed fruit with yogurt and bran cereal",
+          "portion": "1 medium bowl",
+          "calories": 300,
+          "protein": 8,
+          "carbs": 55,
+          "fat": 5,
+          "fiber": 8,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 300,
+      "totalProtein": 8,
+      "totalCarbs": 55,
+      "totalFat": 5,
+      "totalFiber": 8,
+      "notes": "Estimate includes a mix of strawberries, bananas, raspberries, blackberries, yogurt, and bran cereal.",
+      "label": "📷 Photo analysis",
+      "time": "12:14",
+      "id": 1786155260683
+    }
+  ],
+  "totalCalories": 300,
+  "totalProtein": 8,
+  "totalCarbs": 55,
+  "totalFat": 5,
+  "totalFiber": 8,
+  "savedAt": "2026-08-08T02:14:20.686Z"
+}
