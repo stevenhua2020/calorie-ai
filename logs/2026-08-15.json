@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-15",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Cereal with Berries and Yogurt",
+          "portion": "medium bowl",
+          "calories": 400,
+          "protein": 12,
+          "carbs": 75,
+          "fat": 8,
+          "fiber": 8,
+          "confidence": "medium"
+        },
+        {
+          "name": "Latte",
+          "portion": "large glass",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 15,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 550,
+      "totalProtein": 20,
+      "totalCarbs": 90,
+      "totalFat": 13,
+      "totalFiber": 8,
+      "notes": "Estimates based on typical ingredients and portions.",
+      "label": "📷 Photo analysis",
+      "time": "11:45",
+      "id": 1786758332854
+    }
+  ],
+  "totalCalories": 550,
+  "totalProtein": 20,
+  "totalCarbs": 90,
+  "totalFat": 13,
+  "totalFiber": 8,
+  "savedAt": "2026-08-15T01:45:32.854Z"
+}
