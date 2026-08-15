@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Fresh avocado",
+          "portion": "60g",
+          "calories": 96,
+          "protein": 1,
+          "carbs": 5,
+          "fat": 9,
+          "fiber": 4,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 96,
+      "totalProtein": 1,
+      "totalCarbs": 5,
+      "totalFat": 9,
+      "totalFiber": 4,
+      "notes": "The estimate is based on average nutritional values of avocado.",
+      "label": "60g fresh Avoca ",
+      "time": "19:43",
+      "id": 1786787007498
+    },
+    {
+      "foods": [
+        {
           "name": "Noodle bowl with braised pork, egg, and bok choy",
           "portion": "medium bowl",
           "calories": 720,
@@ -20,7 +43,7 @@
       "totalFat": 28,
       "totalFiber": 6,
       "notes": "Estimate based on typical ingredients for noodle bowl with pork and vegetables.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "15:32",
       "id": 1786771952914
     },
@@ -76,15 +99,15 @@
       "totalFat": 13,
       "totalFiber": 8,
       "notes": "Estimates based on typical ingredients and portions.",
-      "label": "Ã°ÂÂÂ· Photo analysis",
+      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
       "time": "11:45",
       "id": 1786758332854
     }
   ],
-  "totalCalories": 1420,
-  "totalProtein": 60,
-  "totalCarbs": 194,
-  "totalFat": 45,
-  "totalFiber": 15,
-  "savedAt": "2026-08-15T05:32:32.915Z"
+  "totalCalories": 1516,
+  "totalProtein": 61,
+  "totalCarbs": 199,
+  "totalFat": 54,
+  "totalFiber": 19,
+  "savedAt": "2026-08-15T09:43:27.499Z"
 }
