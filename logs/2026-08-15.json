@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Pancakes",
+          "portion": "60g",
+          "calories": 150,
+          "protein": 4,
+          "carbs": 24,
+          "fat": 4,
+          "fiber": 1,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 150,
+      "totalProtein": 4,
+      "totalCarbs": 24,
+      "totalFat": 4,
+      "totalFiber": 1,
+      "notes": "Standard estimate for 60g of pancakes without toppings or syrup.",
+      "label": "60g pancakes ",
+      "time": "13:05",
+      "id": 1786763156376
+    },
+    {
+      "foods": [
+        {
           "name": "Cereal with Berries and Yogurt",
           "portion": "medium bowl",
           "calories": 400,
@@ -30,15 +53,15 @@
       "totalFat": 13,
       "totalFiber": 8,
       "notes": "Estimates based on typical ingredients and portions.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "11:45",
       "id": 1786758332854
     }
   ],
-  "totalCalories": 550,
-  "totalProtein": 20,
-  "totalCarbs": 90,
-  "totalFat": 13,
-  "totalFiber": 8,
-  "savedAt": "2026-08-15T01:45:32.854Z"
+  "totalCalories": 700,
+  "totalProtein": 24,
+  "totalCarbs": 114,
+  "totalFat": 17,
+  "totalFiber": 9,
+  "savedAt": "2026-08-15T03:05:56.377Z"
 }
