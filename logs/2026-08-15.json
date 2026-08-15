@@ -4,6 +4,59 @@
     {
       "foods": [
         {
+          "name": "Broccoli",
+          "portion": "1 cup",
+          "calories": 55,
+          "protein": 4,
+          "carbs": 11,
+          "fat": 0,
+          "fiber": 5,
+          "confidence": "high"
+        },
+        {
+          "name": "Rice",
+          "portion": "1 cup",
+          "calories": 206,
+          "protein": 4,
+          "carbs": 45,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Breaded Fish Fillet",
+          "portion": "1 piece",
+          "calories": 200,
+          "protein": 14,
+          "carbs": 18,
+          "fat": 8,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Boiled Egg",
+          "portion": "1 large",
+          "calories": 78,
+          "protein": 6,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "high"
+        }
+      ],
+      "totalCalories": 539,
+      "totalProtein": 28,
+      "totalCarbs": 75,
+      "totalFat": 13,
+      "totalFiber": 7,
+      "notes": "Estimates based on visible portions and common serving sizes.",
+      "label": "📷 Photo analysis",
+      "time": "20:40",
+      "id": 1786790446595
+    },
+    {
+      "foods": [
+        {
           "name": "Fresh avocado",
           "portion": "60g",
           "calories": 96,
@@ -43,7 +96,7 @@
       "totalFat": 28,
       "totalFiber": 6,
       "notes": "Estimate based on typical ingredients for noodle bowl with pork and vegetables.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "15:32",
       "id": 1786771952914
     },
@@ -99,15 +152,15 @@
       "totalFat": 13,
       "totalFiber": 8,
       "notes": "Estimates based on typical ingredients and portions.",
-      "label": "ÃÂ°ÃÂÃÂÃÂ· Photo analysis",
+      "label": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ· Photo analysis",
       "time": "11:45",
       "id": 1786758332854
     }
   ],
-  "totalCalories": 1516,
-  "totalProtein": 61,
-  "totalCarbs": 199,
-  "totalFat": 54,
-  "totalFiber": 19,
-  "savedAt": "2026-08-15T09:43:27.499Z"
+  "totalCalories": 2055,
+  "totalProtein": 89,
+  "totalCarbs": 274,
+  "totalFat": 67,
+  "totalFiber": 26,
+  "savedAt": "2026-08-15T10:40:46.597Z"
 }
