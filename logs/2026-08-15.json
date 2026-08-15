@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Noodle bowl with braised pork, egg, and bok choy",
+          "portion": "medium bowl",
+          "calories": 720,
+          "protein": 36,
+          "carbs": 80,
+          "fat": 28,
+          "fiber": 6,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 720,
+      "totalProtein": 36,
+      "totalCarbs": 80,
+      "totalFat": 28,
+      "totalFiber": 6,
+      "notes": "Estimate based on typical ingredients for noodle bowl with pork and vegetables.",
+      "label": "📷 Photo analysis",
+      "time": "15:32",
+      "id": 1786771952914
+    },
+    {
+      "foods": [
+        {
           "name": "Pancakes",
           "portion": "60g",
           "calories": 150,
@@ -53,15 +76,15 @@
       "totalFat": 13,
       "totalFiber": 8,
       "notes": "Estimates based on typical ingredients and portions.",
-      "label": "ð· Photo analysis",
+      "label": "Ã°ÂÂÂ· Photo analysis",
       "time": "11:45",
       "id": 1786758332854
     }
   ],
-  "totalCalories": 700,
-  "totalProtein": 24,
-  "totalCarbs": 114,
-  "totalFat": 17,
-  "totalFiber": 9,
-  "savedAt": "2026-08-15T03:05:56.377Z"
+  "totalCalories": 1420,
+  "totalProtein": 60,
+  "totalCarbs": 194,
+  "totalFat": 45,
+  "totalFiber": 15,
+  "savedAt": "2026-08-15T05:32:32.915Z"
 }
