@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-22",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Boiled eggs",
+          "portion": "4 eggs",
+          "calories": 280,
+          "protein": 24,
+          "carbs": 2,
+          "fat": 20,
+          "fiber": 0,
+          "confidence": "high"
+        },
+        {
+          "name": "Cereal with yogurt and berries",
+          "portion": "1 bowl",
+          "calories": 350,
+          "protein": 10,
+          "carbs": 55,
+          "fat": 8,
+          "fiber": 8,
+          "confidence": "medium"
+        },
+        {
+          "name": "Milk",
+          "portion": "1 glass",
+          "calories": 150,
+          "protein": 8,
+          "carbs": 12,
+          "fat": 8,
+          "fiber": 0,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 780,
+      "totalProtein": 42,
+      "totalCarbs": 69,
+      "totalFat": 36,
+      "totalFiber": 8,
+      "notes": "Estimates based on visible portion sizes. Berries include strawberries and raspberries.",
+      "label": "📷 Photo analysis",
+      "time": "12:30",
+      "id": 1787365846847
+    }
+  ],
+  "totalCalories": 780,
+  "totalProtein": 42,
+  "totalCarbs": 69,
+  "totalFat": 36,
+  "totalFiber": 8,
+  "savedAt": "2026-08-22T02:30:46.848Z"
+}
