@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-27",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Beef noodle soup",
+          "portion": "large bowl",
+          "calories": 450,
+          "protein": 35,
+          "carbs": 55,
+          "fat": 15,
+          "fiber": 5,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 450,
+      "totalProtein": 35,
+      "totalCarbs": 55,
+      "totalFat": 15,
+      "totalFiber": 5,
+      "notes": "Estimate based on typical ingredients in a beef noodle soup.",
+      "label": "📷 Photo analysis",
+      "time": "12:30",
+      "id": 1787797804927
+    }
+  ],
+  "totalCalories": 450,
+  "totalProtein": 35,
+  "totalCarbs": 55,
+  "totalFat": 15,
+  "totalFiber": 5,
+  "savedAt": "2026-08-27T02:30:04.927Z"
+}
