@@ -4,6 +4,29 @@
     {
       "foods": [
         {
+          "name": "Mango Snowy Mooncake",
+          "portion": "1 mooncake",
+          "calories": 220,
+          "protein": 3,
+          "carbs": 45,
+          "fat": 6,
+          "fiber": 2,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 220,
+      "totalProtein": 3,
+      "totalCarbs": 45,
+      "totalFat": 6,
+      "totalFiber": 2,
+      "notes": "Estimate based on typical snowy mooncake serving.",
+      "label": "📷 Photo analysis",
+      "time": "17:48",
+      "id": 1790149735483
+    },
+    {
+      "foods": [
+        {
           "name": "White Lotus Seed Paste Mooncake with 2 Egg Yolks",
           "portion": "1 mooncake",
           "calories": 800,
@@ -20,15 +43,15 @@
       "totalFat": 35,
       "totalFiber": 4,
       "notes": "Estimate based on typical ingredients and portion size of a mooncake.",
-      "label": "📷 Photo analysis",
+      "label": "ð· Photo analysis",
       "time": "17:46",
       "id": 1790149567765
     }
   ],
-  "totalCalories": 800,
-  "totalProtein": 15,
-  "totalCarbs": 110,
-  "totalFat": 35,
-  "totalFiber": 4,
-  "savedAt": "2026-09-23T07:46:07.766Z"
+  "totalCalories": 1020,
+  "totalProtein": 18,
+  "totalCarbs": 155,
+  "totalFat": 41,
+  "totalFiber": 6,
+  "savedAt": "2026-09-23T07:48:55.484Z"
 }
