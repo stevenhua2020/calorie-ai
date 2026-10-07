@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-07",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Braised meat",
+          "portion": "150g",
+          "calories": 290,
+          "protein": 24,
+          "carbs": 0,
+          "fat": 21,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "White rice",
+          "portion": "200g",
+          "calories": 260,
+          "protein": 5,
+          "carbs": 56,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        },
+        {
+          "name": "Boiled eggs",
+          "portion": "2 halves",
+          "calories": 80,
+          "protein": 7,
+          "carbs": 1,
+          "fat": 5,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Broccoli",
+          "portion": "30g",
+          "calories": 10,
+          "protein": 1,
+          "carbs": 2,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Pickled vegetables",
+          "portion": "30g",
+          "calories": 15,
+          "protein": 1,
+          "carbs": 3,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 655,
+      "totalProtein": 38,
+      "totalCarbs": 62,
+      "totalFat": 26,
+      "totalFiber": 3,
+      "notes": "Estimate based on common serving sizes and visual identification.",
+      "label": "📷 Photo analysis",
+      "time": "12:41",
+      "id": 1791337282186
+    }
+  ],
+  "totalCalories": 655,
+  "totalProtein": 38,
+  "totalCarbs": 62,
+  "totalFat": 26,
+  "totalFiber": 3,
+  "savedAt": "2026-10-07T01:41:22.186Z"
+}
