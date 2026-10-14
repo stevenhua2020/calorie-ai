@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-14",
+  "entries": [
+    {
+      "foods": [
+        {
+          "name": "Rice",
+          "portion": "1 cup",
+          "calories": 200,
+          "protein": 4,
+          "carbs": 44,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "high"
+        },
+        {
+          "name": "Grilled Vegetables",
+          "portion": "1/2 cup",
+          "calories": 50,
+          "protein": 2,
+          "carbs": 8,
+          "fat": 2,
+          "fiber": 2,
+          "confidence": "medium"
+        },
+        {
+          "name": "Baked Salmon",
+          "portion": "4 oz",
+          "calories": 250,
+          "protein": 23,
+          "carbs": 0,
+          "fat": 17,
+          "fiber": 0,
+          "confidence": "medium"
+        },
+        {
+          "name": "Potato Slices",
+          "portion": "2 slices",
+          "calories": 60,
+          "protein": 1,
+          "carbs": 14,
+          "fat": 0,
+          "fiber": 1,
+          "confidence": "medium"
+        }
+      ],
+      "totalCalories": 560,
+      "totalProtein": 30,
+      "totalCarbs": 66,
+      "totalFat": 19,
+      "totalFiber": 4,
+      "notes": "Estimated portions for a balanced meal. Some values are approximations.",
+      "label": "📷 Photo analysis",
+      "time": "12:19",
+      "id": 1791940742461
+    }
+  ],
+  "totalCalories": 560,
+  "totalProtein": 30,
+  "totalCarbs": 66,
+  "totalFat": 19,
+  "totalFiber": 4,
+  "savedAt": "2026-10-14T01:19:02.462Z"
+}
